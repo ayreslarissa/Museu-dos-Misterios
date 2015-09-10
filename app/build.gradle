@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.0 rc2"
 
     defaultConfig {
-        applicationId "ufam.promobile.museumisterios"
+        applicationId "ufam.promobile.museudosmisterios"
         minSdkVersion 15
         targetSdkVersion 22
         versionCode 1

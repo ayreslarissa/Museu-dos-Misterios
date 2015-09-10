@@ -1,8 +1,31 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar"> <!-- Tira a Action Bar -->
         <!-- Customize your theme here. -->
+       <!-- <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item> -->
+        <item name="android:windowNoTitle">true</item>
     </style>
+
+    <color name="text_secondary">#D9000000</color>
+    <color name="preto">#D9000000</color>
+    <color name="photo_tint">#88101010</color>
+
+    <color name="primary">#FF3D00</color>
+    <color name="primary_dark">#DD2C00</color>
+    <color name="accent">#3E2723</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="branco">#FFFFFF</color>
+    <color name="bkg_card">#8C9EFF</color>
+    <color name="green">#99CC00</color>
+    <color name="red">#FF4444</color>
+    <color name="cornsilk">#FFF8DC</color>
+    <color name="moccasin">#FFE4B5</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="app_bg">#e5c994</color>
+
+
 
 </resources>

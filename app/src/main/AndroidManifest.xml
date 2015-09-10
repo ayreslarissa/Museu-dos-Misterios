@@ -1,15 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ufam.promobile.museumisterios" >
+    package="ufam.promobile.museudosmisterios" >
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/icon_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".MainActivity"
-            android:label="@string/title_activity_main" >
+            android:name=".Tela_Splash.SplashScreen"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Main"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Play"
+            android:label="@string/title_activity_play" >
+        </activity>
+        <activity
+            android:name=".Instrucoes"
+            android:label="@string/title_activity_regras" >
+        </activity>
+        <activity
+            android:name=".Capacete.Capacete_17"
+            android:label="@string/title_activity_capacete_17" >
+        </activity>
+        <activity
+            android:name=".Moeda.Moeda_15"
+            android:label="@string/title_activity_moeda_15" >
+        </activity>
+        <activity
+            android:name=".Capacete.Capacete_26"
+            android:label="@string/title_activity_capacete_26" >
+        </activity>
+        <activity
+            android:name=".Esfinge.Esfinge_34"
+            android:label="@string/title_activity_esfinge_34" >
+        </activity>
+        <activity
+            android:name=".Capacete.Capacete_28"
+            android:label="@string/title_activity_capacete_28" >
+        </activity>
+        <activity
+            android:name=".Capacete.Capacete_20"
+            android:label="@string/title_activity_capacete_20" >
+        </activity>
+        <activity
+            android:name=".Esfinge.Esfinge_10"
+            android:label="@string/title_activity_esfinge_10" >
+        </activity>
+        <activity
+            android:name=".Vaso.Vaso_26"
+            android:label="@string/title_activity_vaso_26" >
+        </activity>
+        <activity
+            android:name=".Moeda.Moeda_27"
+            android:label="@string/title_activity_moeda_27" >
         </activity>
     </application>
 

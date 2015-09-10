@@ -1,7 +1,65 @@
 <resources>
-    <string name="app_name">MuseuMisterios</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="app_name">Museu dos Mistérios</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_play">Play</string>
+    <string name="title_activity_regras">Regras</string>
+
+    <string name="menu_jogar">Jogar</string>
+    <string name="menu_instrucoes">Instruções</string>
+    <string name="text_proximo">Próximo</string>
+    <string name="text_anterior">Anterior</string>
+
+    //Instruções
+    <string name="text_instrucoes_1">Você está pronto para uma fantástica aventura - com voltas e reviravoltas, muita ação e quebra-cabeças empolgantes para resolver? Então este livro foi feito para você!</string>
+    <string name="text_instrucoes_2">Os problemas nessa aventura têm tudo a ver com números. Para resolvê-los, você deve usar seus conhecimentos sobre padrões numéricos, fatores, números primos e ordens e classes dos números. Para ajudar, há um glossário no fim do livro, na página 44. Lá você vai encontrar todos os métodos e sugestões de cálculos.</string>
+    <string name="text_instrucoes_3">No decorrer da aventura, você terá de procurar pistas para resolver o mistério. Você deve anotá-las em sua caderneta de detetive e também coletar diferentes objetos para guardar em sua mochila. Tente se lembrar das pistas e dos objetos conforme os encontrar. Você vai precisar deles para completar a missão com sucesso.</string>
+    <string name="text_instrucoes_4">Então, acha que está pronto? Vire a página e comece sua aventura!</string>
+
+    //Introdução
+    <string name="text_introducao_1">No meio da noite, você é acordado por um ruído em sua caixa de correio. É uma carta:</string>
+    <string name="text_introducao_2">Agora você está no museu e ficou trancado lá dentro, Mas não está sozinho - algo se esgueira pelas sombras. Você precisa seguir as pistas antes que a Coleção Dourada, o maior de todos os tesouros da Antiguidade, seja perdida para sempre! Primeiro você deve coletar objetos misteriosos; depois, irá usá-los para resolver o quebra-cabeça final. Você precisará de nervos de aço para isso!</string>
+    <string name="title_activity_capacete_17">Capacete_17</string>
 
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="title_activity_moeda_15">Moeda_15</string>
+
+    <!-- CAPACETE -->
+        <!-- 17 -->
+            <string name="capacete_17_1">Você está parado no saguão de entrada. Quatro portas conduzem a direções diferentes.
+                Você deve escolher um deles. Que ala do museu você deve visitar?</string>
+
+
+        <!-- 26 -->
+            <string name="title_activity_capacete_26">Capacete_26</string>
+
+            <string name="capacete_26_1">Você segue a indicação para a ala Greco-romana. Para de andar um segundo e presta atenção -
+                você ouve uns passinhos delicados atrás, mas por algum motivo, não sente medo.</string>
+
+    <string name="title_activity_esfinge_34">Esfinge_34</string>
+    <string name="title_activity_capacete_28">Capacete_28</string>
+    <string name="title_activity_capacete_20">Capacete_20</string>
+
+    <!-- ESFINGE -->
+
+        <!-- 10 -->
+            <string name="title_activity_esfinge_10">Esfinge_10</string>
+            <string name="esfinge_10_1">As galerias são escuras e assustadoras. Uma luz vermelha piscando dentro de um display de vidro
+                chama sua atenção. Você vê dois vasos lá dentro. Estão numerados 24 e 25; e alguém colou um cartão na tampa de vidro:</string>
+            <string name="esfinge_10_proximo">Próximo</string>
+
+
+    <!-- VASO -->
+        <!-- 26 -->
+            <string name="vaso_26_1">Você põe a mão dentro do vaso. Alguma coisa peluda se esfrega em seus dedos!
+                Você tira a mão imediatamente de lá. Uma tarântula gigante sai do vaso. Por sorte ela não mordeu!</string>
+            <string name="vaso_26_2">Você escolheu o vaso errado: "cinco vezes cinco" é 25, não 24.</string>
+
+    <!-- MOEDA -->
+        <!-- 27 -->
+            <string name="moeda_27_1">Você põe a mão dentro do vaso e tateia. É o vaso certo!
+                Você encontra seis discos de argila e um pedaço de papel com algumas instruções:</string>
+
+    <string name="title_activity_vaso_26">Vaso_26</string>
+    <string name="title_activity_moeda_27">Moeda_27</string>
 </resources>
