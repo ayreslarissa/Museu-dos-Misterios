@@ -14,7 +14,7 @@ public class Esfinge_34 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_esfinge_34);
 
-        // Orientação Paisagem (Landscape)
+        // OrientaÃ§ao Paisagem (Landscape)
         try {
             setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
             getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
