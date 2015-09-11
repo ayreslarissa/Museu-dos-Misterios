@@ -64,6 +64,10 @@
             android:name=".Moeda.Moeda_27"
             android:label="@string/title_activity_moeda_27" >
         </activity>
+        <activity
+            android:name=".Esfinge.Esfinge_42"
+            android:label="@string/title_activity_esfinge_42" >
+        </activity>
     </application>
 
 </manifest>

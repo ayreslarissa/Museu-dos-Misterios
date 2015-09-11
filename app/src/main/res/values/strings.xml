@@ -9,6 +9,7 @@
     <string name="menu_instrucoes">Instruções</string>
     <string name="text_proximo">Próximo</string>
     <string name="text_anterior">Anterior</string>
+    <string name="text_voltar">Voltar</string>
 
     //Instruções
     <string name="text_instrucoes_1">Você está pronto para uma fantástica aventura - com voltas e reviravoltas, muita ação e quebra-cabeças empolgantes para resolver? Então este livro foi feito para você!</string>
@@ -62,4 +63,5 @@
 
     <string name="title_activity_vaso_26">Vaso_26</string>
     <string name="title_activity_moeda_27">Moeda_27</string>
+    <string name="title_activity_esfinge_42">Esfinge_42</string>
 </resources>

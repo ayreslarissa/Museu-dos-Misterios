@@ -1,12 +1,16 @@
 package ufam.promobile.museudosmisterios.Vaso;
 
+import android.content.Intent;
 import android.content.pm.ActivityInfo;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.view.WindowManager;
+import android.widget.Button;
 
+import ufam.promobile.museudosmisterios.Esfinge.Esfinge_10;
 import ufam.promobile.museudosmisterios.R;
 
 public class Vaso_26 extends ActionBarActivity {
@@ -22,6 +26,16 @@ public class Vaso_26 extends ActionBarActivity {
         } catch (Exception e) {
             e.printStackTrace();
         }
+
+        final Button anteriorVaso = (Button) findViewById(R.id.button_vaso_26_anterior);
+
+        anteriorVaso.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Vaso_26.this, Esfinge_10.class);
+                startActivity(intent);
+            }
+        });
     }
 
     @Override
