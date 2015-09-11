@@ -36,6 +36,17 @@
         android:id="@+id/imageView_esfinge_10"
         android:src="@drawable/esfinge_10"
         android:layout_above="@+id/button_esfinge_10_proximo"
-        android:layout_centerHorizontal="true" /> "/>
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/button_esfinge_10_anterior"
+        android:text="@string/text_anterior"
+        android:textSize="55sp"
+        android:background="@android:color/transparent"
+        android:layout_below="@+id/imageView_esfinge_10"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
 </RelativeLayout>

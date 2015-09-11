@@ -27,7 +27,8 @@
         android:id="@+id/textViewProximo1"
         android:layout_alignParentBottom="true"
         android:layout_alignRight="@+id/textViewTexto"
-        android:layout_alignEnd="@+id/textViewTexto" />
+        android:layout_alignEnd="@+id/textViewTexto"
+        android:visibility="visible" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -58,11 +59,24 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Próximo"
-        android:textSize="40sp"
         android:id="@+id/textViewProximo4"
+        android:textSize="40sp"
         android:layout_alignParentBottom="true"
         android:layout_alignRight="@+id/textViewTexto"
         android:layout_alignEnd="@+id/textViewTexto"
         android:visibility="invisible" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Anterior"
+        android:textSize="40sp"
+        android:id="@+id/textView3"
+        android:visibility="visible"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
 
 </RelativeLayout>

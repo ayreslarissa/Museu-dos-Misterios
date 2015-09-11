@@ -27,6 +27,7 @@ public class Capacete_26 extends AppCompatActivity {
         }
 
         final Button capacete_26_proximo = (Button) findViewById(R.id.button_capacete_26_proximo);
+        final Button capacete_26_anterior = (Button) findViewById(R.id.button_capacete_26_anterior);
 
         //Botão para virar a página
         capacete_26_proximo.setOnClickListener(new View.OnClickListener() {
@@ -36,6 +37,12 @@ public class Capacete_26 extends AppCompatActivity {
             }
         });
 
+        capacete_26_anterior.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent intent = new Intent(Capacete_26.this, Capacete_17.class);
+                startActivity(intent);
+            }
+        });
     }
 
 }
