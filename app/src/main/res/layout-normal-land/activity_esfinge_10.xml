@@ -18,13 +18,14 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
-    <TextView
+    <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:id="@+id/textViewProximo_esfinge_10"
+        android:id="@+id/button_esfinge_10_proximo"
         android:text="@string/esfinge_10_proximo"
         android:textSize="22sp"
+        android:background="@android:color/transparent"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />
@@ -34,7 +35,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView_esfinge_10"
         android:src="@drawable/esfinge_10"
-        android:layout_above="@+id/textViewProximo_esfinge_10"
+        android:layout_above="@+id/button_esfinge_10_proximo"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/textView1_esfinge_10" /> "/>

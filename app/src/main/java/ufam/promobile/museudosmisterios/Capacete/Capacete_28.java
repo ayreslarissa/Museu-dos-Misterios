@@ -14,7 +14,7 @@ public class Capacete_28 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_capacete_28);
 
-        // Orientação Paisagem (Landscape)
+        // OrientaÃ§Ã£o Paisagem (Landscape)
         try {
             setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
             getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);

@@ -18,7 +18,7 @@ public class Capacete_26 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_capacete_26);
 
-        // OrientaÁ„o Paisagem (Landscape)
+        // Orienta√ß√£o Paisagem (Landscape)
         try {
             setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
             getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
@@ -28,7 +28,7 @@ public class Capacete_26 extends AppCompatActivity {
 
         final Button capacete_26_proximo = (Button) findViewById(R.id.button_capacete_26_proximo);
 
-        //Bot„o para passar a p·gina
+        //Bot√£o para virar a p√°gina
         capacete_26_proximo.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Intent intent = new Intent(Capacete_26.this, Esfinge_10.class);

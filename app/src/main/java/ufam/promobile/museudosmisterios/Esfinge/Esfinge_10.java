@@ -10,7 +10,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.WindowManager;
-import android.widget.TextView;
+import android.widget.Button;
 
 import ufam.promobile.museudosmisterios.Moeda.Moeda_27;
 import ufam.promobile.museudosmisterios.R;
@@ -30,7 +30,7 @@ public class Esfinge_10 extends ActionBarActivity {
             e.printStackTrace();
         }
 
-        final TextView proximoEsfinge = (TextView) findViewById(R.id.textViewProximo_esfinge_10);
+        final Button proximoEsfinge = (Button) findViewById(R.id.button_esfinge_10_proximo);
         final AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
 
         proximoEsfinge.setOnClickListener(new View.OnClickListener() {
