@@ -9,7 +9,7 @@ import android.view.WindowManager;
 import android.widget.TextView;
 
 public class Main extends AppCompatActivity {
-
+//isso eh um teste
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
