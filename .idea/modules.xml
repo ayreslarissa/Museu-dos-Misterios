@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MuseuMisterios.iml" filepath="$PROJECT_DIR$/MuseuMisterios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Museu-dos-Misterios.iml" filepath="$PROJECT_DIR$/Museu-dos-Misterios.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
