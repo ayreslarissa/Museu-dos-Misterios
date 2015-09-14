@@ -76,6 +76,10 @@
             android:name=".Sandalia.Sandalia_31"
             android:label="@string/title_activity_sandalia_31" >
         </activity>
+        <activity
+            android:name=".Moeda.Moeda_6"
+            android:label="@string/title_activity_moeda_6" >
+        </activity>
     </application>
 
 </manifest>
