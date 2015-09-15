@@ -10,7 +10,6 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
 
-import ufam.promobile.museudosmisterios.Moeda.Moeda_27;
 import ufam.promobile.museudosmisterios.R;
 import ufam.promobile.museudosmisterios.Sandalia.Sandalia_28;
 import ufam.promobile.museudosmisterios.Sandalia.Sandalia_31;
@@ -61,11 +60,6 @@ public class Esfinge_42 extends ActionBarActivity {
             ;
         });
 
-        proximoEsfinge.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                Intent intent = new Intent(Esfinge_42.this, Moeda_27.class);
-                startActivity(intent);
-            }
-        });
+
     }
 }

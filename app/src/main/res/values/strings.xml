@@ -21,6 +21,7 @@
         <string name="title_activity_esfinge_42">Esfinge_42</string>
         <string name="title_activity_sandalia_28">Sandalia_28</string>
         <string name="title_activity_sandalia_31">Sandalia_31</string>
+        <string name="title_activity_moeda_6">Moeda_6</string>
 
     <!-- Instruções -->
         <string name="text_instrucoes_1">Você está pronto para uma fantástica aventura - com voltas e reviravoltas, muita ação e quebra-cabeças empolgantes para resolver? Então este livro foi feito para você!</string>
@@ -74,6 +75,7 @@
             <string name="sandalia_28_2">Você caminha pela galeria procurando a Exposição 13. Mas não a encontra.
                 Então, no canto mais escuro da sala, você vê dois olhos brilhantes. Eles parecem amistosos; por isso,
                 você caminha em direção a eles. Aí está - Exposição 13!</string>
-    <string name="title_activity_moeda_6">Moeda_6</string>
-
+            <string name="sandalia_31_1">Você vê a Exposição 14 imediatamente. É uma enorme coluna de pedra de um templo. Enquanto você anda em direção a ela, a coluna começa a tombar! 
+                Cuidado! Uma bola de pelo salta sobre o seu peito e o derruba para o lado. A coluna cai no chão - bem onde você estava. Quem ou o que quer você fora do caminho?</string>
+            <string name="sandalia_31_2">Você escolheu o número errado. A regra para a sequência númerica nos discos é "somar 4". A sequência é 1, 5, 9, 13, 17, 21.</string>
 </resources>
