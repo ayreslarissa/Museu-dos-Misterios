@@ -13,7 +13,7 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:id="@+id/textViewTexto_moeda_6_1"
         android:text="@string/moeda_6_1"
-        android:textSize="25sp"
+        android:textSize="30sp"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
@@ -46,16 +46,16 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:id="@+id/textViewTexto_moeda_6_2"
         android:text="@string/moeda_6_2"
-        android:textSize="25sp"
+        android:textSize="30sp"
         android:layout_below="@+id/textViewTexto_moeda_6_1"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
         android:id="@+id/imageView_moeda_6"
         android:src="@drawable/moeda_6_rabiscogiz"
-        android:layout_below="@+id/textViewTexto_moeda_6_2"
+        android:layout_alignTop="@+id/textViewTexto_moeda_6_2"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>
