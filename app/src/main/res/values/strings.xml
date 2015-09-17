@@ -70,6 +70,11 @@
                 Nelas há números romanos, mas você acha que não estão em ordem.</string>
             <string name="moeda_6_2">Alguém rabiscou com giz algumas palavras na mesa:</string>
 
+        <!-- 16 -->
+            <string name="moeda_16_1">A Exposição 10 é de matemática grega. Diversas figuras, palavras e uma fileira
+                de números estão entalhadas em uma tábua de pedra. Há uma etiqueta embaixo - parece um quebra-cabeça.
+                Você decide descobrir qual é o número que falta.</string>
+
         <!-- 27 -->
             <string name="moeda_27_1">Você põe a mão dentro do vaso e tateia. É o vaso certo!
                 Você encontra seis discos de argila e um pedaço de papel com algumas instruções:</string>
@@ -100,4 +105,7 @@
             <string name="passaro_34_2">A primeira linha é só um número. Você deduz que agora deve procurar a Exposição 20.</string>
             <string name="passaro_34_3">Lentamente, segue naquela direção. Espere um pouco - está ouvindo um ronronar?</string>
             <string name="passaro_34_4">Animado, você apressa o passo.</string>
+    <string name="title_activity_moeda_16">Moeda_16</string>
+    <string name="title_activity_moeda_36">Moeda_36</string>
+    <string name="title_activity_esfinge_8">Esfinge_8</string>
 </resources>

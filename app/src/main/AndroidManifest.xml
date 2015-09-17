@@ -88,6 +88,18 @@
             android:name=".Passaro.Passaro_34"
             android:label="@string/title_activity_passaro_34" >
         </activity>
+        <activity
+            android:name=".Moeda.Moeda_16"
+            android:label="@string/title_activity_moeda_16" >
+        </activity>
+        <activity
+            android:name=".Moeda.Moeda_36"
+            android:label="@string/title_activity_moeda_36" >
+        </activity>
+        <activity
+            android:name=".Esfinge.Esfinge_8"
+            android:label="@string/title_activity_esfinge_8" >
+        </activity>
     </application>
 
 </manifest>
