@@ -4,27 +4,25 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context="ufam.promobile.museudosmisterios.Moeda.Moeda_36"
+    tools:context="ufam.promobile.museudosmisterios.Esfinge.Esfinge_8"
     android:background="@color/app_bg">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:id="@+id/textViewTexto_moeda_36_1"
-
-        android:textSize="30sp"
-        android:layout_alignParentTop="true"
+        android:id="@+id/textViewTexto_esfinge_8_1"
+        android:textSize="50sp"
+        android:layout_centerVertical="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
-
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/text_proximo"
-        android:id="@+id/button_moeda_36_proximo_1"
-        android:textSize="25sp"
+        android:id="@+id/button_esfinge_8_proximo1"
+        android:textSize="50sp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
@@ -34,38 +32,26 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:text="@string/text_proximo"
+        android:id="@+id/button_esfinge_8_proximo2"
+        android:textSize="50sp"
+        android:background="@android:color/transparent"
+        android:layout_alignTop="@+id/button_esfinge_8_proximo1"
+        android:layout_alignLeft="@+id/button_esfinge_8_proximo1"
+        android:layout_alignStart="@+id/button_esfinge_8_proximo1"
+        android:visibility="invisible" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="@string/text_anterior"
-        android:id="@+id/button_moeda_36_anterior"
-        android:textSize="25sp"
+        android:id="@+id/button_esfinge_8_anterior"
+        android:textSize="50sp"
         android:background="@android:color/transparent"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/text_proximo"
-        android:id="@+id/button_moeda_36_proximo_2"
-        android:textSize="25sp"
-        android:background="@android:color/transparent"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:visibility="invisible" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/text_proximo"
-        android:id="@+id/button_moeda_36_proximo_3"
-        android:textSize="25sp"
-        android:background="@android:color/transparent"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:visibility="invisible" />
-
+        android:layout_alignParentStart="true"
+        android:visibility="visible" />
 
 
 </RelativeLayout>

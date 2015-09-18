@@ -24,7 +24,11 @@
         <string name="title_activity_moeda_6">Moeda_6</string>
         <string name="title_activity_passaro_32">Passaro_32</string>
         <string name="title_activity_passaro_34">Passaro_34</string>
-    
+        <string name="title_activity_moeda_16">Moeda_16</string>
+        <string name="title_activity_moeda_36">Moeda_36</string>
+        <string name="title_activity_esfinge_8">Esfinge_8</string>
+        <string name="title_activity_sandalia_20">Sandalia_20</string>
+
     <!-- Instruções -->
         <string name="text_instrucoes_1">Você está pronto para uma fantástica aventura - com voltas e reviravoltas, muita ação e quebra-cabeças empolgantes para resolver? Então este livro foi feito para você!</string>
         <string name="text_instrucoes_2">Os problemas nessa aventura têm tudo a ver com números. Para resolvê-los, você deve usar seus conhecimentos sobre padrões numéricos, fatores, números primos e ordens e classes dos números. Para ajudar, há um glossário no fim do livro, na página 44. Lá você vai encontrar todos os métodos e sugestões de cálculos.</string>
@@ -48,6 +52,16 @@
                 você ouve uns passinhos delicados atrás, mas por algum motivo, não sente medo.</string>
 
     <!-- ESFINGE -->
+
+        <!-- 8 -->
+            <string name="esfinge_8_1">Você passa o dedo pela fileira de números e pressiona o número 9. Nada acontece.
+                Você está prestes a se virar quando ouve um forte "miau" vindo por trás
+                - talvez seja melhor pesar um pouquinho mais!</string>
+            <string name="esfinge_8_2">Os lados das figuras são a chave. Um triângulo tem 3 lados.
+                Um quadrado tem 4 lados portanto, triângulo + quadrado = 3+4 = 7.
+                Um hexágono tem 6 lados portanto, quadrado + hexágono = 4 + 6 = 10. </string>
+            <string name="esfinge_8_3">Quantos lados tem um pentágono? Quanto é 3 + 5?</string>
+
 
         <!-- 10 -->
             <string name="title_activity_esfinge_10">Esfinge_10</string>
@@ -79,8 +93,27 @@
             <string name="moeda_27_1">Você põe a mão dentro do vaso e tateia. É o vaso certo!
                 Você encontra seis discos de argila e um pedaço de papel com algumas instruções:</string>
 
+        <!-- 36 -->
+            <string name="moeda_36_1">Você passa o dedo pela fileira de números e pressiona o número 8.
+                A tábua de argila começa a balançar. Você dá um passo para trás. Ela cai no chão, fazendo barulho. Atrás dela, há uma passagem secreta. Uma escadaria estrita conduz a uma passagem iluminada por lâmpadas.
+            </string>
+
+            <string name="moeda_36_2">Os lados das figuras eram a chave:
+                                            - Um triângulo tem 3 lados.
+                                            - Um quadrado tem 4 lados.
+                                      Portanto,  triângulo + quadrado = 3+4 = 7.</string>
+
+            <string name="moeda_36_3">Você acertou quando respondeu 8.
+                Um pentágono tem 5 lados; portanto triângulo + pentágono = 3 + 5 = 8.</string>
 
     <!-- SANDALIA -->
+
+        <!-- 20 -->
+            <string name="sandalia_20_1">Você deve descer a escadaria?
+                Sem saber ao certo o que fazer, você lê a instrução seguinte no pergaminho:</string>
+            <string name="sandalia_20_2">Você conclui que deve pisar só nos degraus na sequência 3, 6, 9...
+                Mas será que deve incluir o degrau de número 16?</string>
+
         <!-- 28 -->
             <string name="sandalia_28_1">Você está certo. A regra para a sequência numérica nos discos é "somar 4".
                 A sequência é 1, 5, 9, 17, 21.</string>
@@ -105,7 +138,5 @@
             <string name="passaro_34_2">A primeira linha é só um número. Você deduz que agora deve procurar a Exposição 20.</string>
             <string name="passaro_34_3">Lentamente, segue naquela direção. Espere um pouco - está ouvindo um ronronar?</string>
             <string name="passaro_34_4">Animado, você apressa o passo.</string>
-    <string name="title_activity_moeda_16">Moeda_16</string>
-    <string name="title_activity_moeda_36">Moeda_36</string>
-    <string name="title_activity_esfinge_8">Esfinge_8</string>
+
 </resources>

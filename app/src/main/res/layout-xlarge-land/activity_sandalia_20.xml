@@ -4,27 +4,36 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context="ufam.promobile.museudosmisterios.Moeda.Moeda_36"
+    tools:context="ufam.promobile.museudosmisterios.Sandalia.Sandalia_20"
     android:background="@color/app_bg">
+
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:id="@+id/textViewTexto_moeda_36_1"
-
-        android:textSize="30sp"
+        android:text="@string/sandalia_20_1"
+        android:id="@+id/textView_sandalia_20_1"
+        android:textSize="40sp"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sandalia_20_2"
+        android:id="@+id/textViw_sandalia_20_2"
+        android:textSize="40sp"
+        android:layout_above="@+id/button_sandalia_20_proximo"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/text_proximo"
-        android:id="@+id/button_moeda_36_proximo_1"
-        android:textSize="25sp"
+        android:id="@+id/button_sandalia_20_proximo"
+        android:textSize="40sp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
@@ -35,37 +44,20 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/text_anterior"
-        android:id="@+id/button_moeda_36_anterior"
-        android:textSize="25sp"
+        android:id="@+id/button_sandalia_20_anterior"
+        android:textSize="40sp"
         android:background="@android:color/transparent"
+        android:visibility="visible"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
-    <Button
+    <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/text_proximo"
-        android:id="@+id/button_moeda_36_proximo_2"
-        android:textSize="25sp"
-        android:background="@android:color/transparent"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:visibility="invisible" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/text_proximo"
-        android:id="@+id/button_moeda_36_proximo_3"
-        android:textSize="25sp"
-        android:background="@android:color/transparent"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:visibility="invisible" />
-
-
+        android:id="@+id/imageView_sandalia_20"
+        android:src="@drawable/sandalia_20"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
