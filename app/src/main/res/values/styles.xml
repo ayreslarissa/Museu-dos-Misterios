@@ -10,7 +10,7 @@
     </style>
 
     <color name="text_secondary">#D9000000</color>
-    <color name="preto">#D9000000</color>
+    <color name="cor_fonte">#D9000000</color>
     <color name="photo_tint">#88101010</color>
 
     <color name="primary">#FF3D00</color>

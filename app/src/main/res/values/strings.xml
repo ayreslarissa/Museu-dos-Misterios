@@ -31,7 +31,9 @@
         <string name="title_activity_capacete_26">Capacete_26</string>
         <string name="title_activity_capacete_32">Capacete_32</string>
         <string name="title_activity_vaso_28">Vaso_28</string>
+        <string name="title_activity_sandalia_11">Sandalia_11</string>
 
+        <string name="fonteFamily">serif</string>
     <!-- Instruções -->
         <string name="text_instrucoes_1">Você está pronto para uma fantástica aventura - com voltas e reviravoltas, muita ação e quebra-cabeças empolgantes para resolver? Então este livro foi feito para você!</string>
         <string name="text_instrucoes_2">Os problemas nessa aventura têm tudo a ver com números. Para resolvê-los, você deve usar seus conhecimentos sobre padrões numéricos, fatores, números primos e ordens e classes dos números. Para ajudar, há um glossário no fim do livro, na página 44. Lá você vai encontrar todos os métodos e sugestões de cálculos.</string>
@@ -153,7 +155,7 @@
             <string name="passaro_34_2">A primeira linha é só um número. Você deduz que agora deve procurar a Exposição 20.</string>
             <string name="passaro_34_3">Lentamente, segue naquela direção. Espere um pouco - está ouvindo um ronronar?</string>
             <string name="passaro_34_4">Animado, você apressa o passo.</string>
-    <string name="title_activity_sandalia_11">Sandalia_11</string>
+
 
 
 </resources>
