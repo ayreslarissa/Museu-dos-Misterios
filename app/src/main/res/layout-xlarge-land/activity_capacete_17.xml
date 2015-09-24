@@ -54,7 +54,7 @@
         android:text="@string/capacete_17_1"
         android:id="@+id/textView2"
         android:layout_alignParentTop="true"
-        android:textSize="40sp"
+        android:textSize="@dimen/tam_font_xlarge"
       />
 
     <TextView
@@ -63,7 +63,7 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Greco-Romana"
         android:id="@+id/textView4"
-        android:textSize="45sp"
+        android:textSize="@dimen/tam_font_xlarge"
         android:layout_below="@+id/imageView"
         android:layout_toStartOf="@+id/imageView2"
         android:layout_alignRight="@+id/imageView"
@@ -76,7 +76,7 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Viquingues"
         android:id="@+id/textView5"
-        android:textSize="45sp"
+        android:textSize="@dimen/tam_font_xlarge"
         android:layout_alignTop="@+id/textView6"
         android:layout_alignLeft="@+id/imageView2"
         android:layout_alignStart="@+id/imageView2" />
@@ -87,7 +87,7 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Idade Média"
         android:id="@+id/textView6"
-        android:textSize="45sp"
+        android:textSize="@dimen/tam_font_xlarge"
         android:layout_below="@+id/imageView3"
         android:layout_toRightOf="@+id/imageView2"
         android:layout_toEndOf="@+id/imageView2" />
@@ -98,7 +98,7 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Coleção Dourada"
         android:id="@+id/textView7"
-        android:textSize="45sp"
+        android:textSize="@dimen/tam_font_xlarge"
         android:layout_below="@+id/imageView4"
         android:layout_toRightOf="@+id/imageView3"
         android:layout_toEndOf="@+id/imageView3"

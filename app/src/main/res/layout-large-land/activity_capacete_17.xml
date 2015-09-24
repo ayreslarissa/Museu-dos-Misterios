@@ -53,7 +53,7 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:textSize="30sp" />
+        android:textSize="@dimen/tam_font_large" />
 
     <RelativeLayout
         android:layout_width="match_parent"
