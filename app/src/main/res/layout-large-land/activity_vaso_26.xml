@@ -14,6 +14,8 @@
         android:id="@+id/textViewTexto_vaso_26_1"
         android:text="@string/vaso_26_1"
         android:textSize="35sp"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />
@@ -24,7 +26,9 @@
         android:text="@string/text_anterior"
         android:id="@+id/button_vaso_26_anterior"
         android:background="@android:color/transparent"
-        android:textSize="25sp"
+        android:textSize="@dimen/tam_font_normal"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
@@ -36,6 +40,8 @@
         android:id="@+id/textViewTexto_vaso_26_2"
         android:text="@string/vaso_26_2"
         android:textSize="35sp"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
         android:layout_centerVertical="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />

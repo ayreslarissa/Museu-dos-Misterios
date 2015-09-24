@@ -13,7 +13,9 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:id="@+id/textViewTexto_moeda_6_1"
         android:text="@string/moeda_6_1"
-        android:textSize="55sp"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
@@ -23,7 +25,9 @@
         android:layout_height="wrap_content"
         android:text="@string/text_proximo"
         android:id="@+id/button_moeda_6_proximo"
-        android:textSize="50sp"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
@@ -34,7 +38,9 @@
         android:layout_height="wrap_content"
         android:text="@string/text_anterior"
         android:id="@+id/button_moeda_6_anterior"
-        android:textSize="50sp"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
         android:background="@android:color/transparent"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
@@ -46,7 +52,9 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:id="@+id/textViewTexto_moeda_6_2"
         android:text="@string/moeda_6_2"
-        android:textSize="55sp"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
         android:layout_below="@+id/textViewTexto_moeda_6_1"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
@@ -57,5 +65,6 @@
         android:id="@+id/imageView_moeda_6"
         android:src="@drawable/moeda_6_rabiscogiz"
         android:layout_above="@+id/button_moeda_6_proximo"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textViewTexto_moeda_6_2" />
 </RelativeLayout>
