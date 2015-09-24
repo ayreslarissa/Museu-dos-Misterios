@@ -8,41 +8,38 @@
     android:background="@drawable/bg_pedras">
 
     <ImageView
-        android:layout_width="350px"
-        android:layout_height="450px"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:id="@+id/imageView"
-        android:src="@drawable/porta_greco"
-        android:layout_centerVertical="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
-
-    <ImageView
-        android:layout_width="350px"
-        android:layout_height="450px"
-        android:id="@+id/imageView2"
-        android:src="@drawable/porta_idademedia"
-        android:layout_alignTop="@+id/imageView3"
-        android:layout_toLeftOf="@+id/imageView4"
-        android:layout_toStartOf="@+id/imageView4"
-        android:layout_marginRight="52dp"
-        android:layout_marginEnd="52dp" />
-
-    <ImageView
-        android:layout_width="350px"
-        android:layout_height="450px"
-        android:id="@+id/imageView3"
-        android:src="@drawable/porta_viquingues"
-        android:layout_alignTop="@+id/imageView"
-        android:layout_toLeftOf="@+id/imageView2"
+        android:src="@drawable/porta_colecao_peq"
         android:layout_toStartOf="@+id/imageView2"
-        android:layout_marginRight="39dp"
-        android:layout_marginEnd="39dp" />
+        android:layout_toLeftOf="@+id/imageView2"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/textView2" />
 
     <ImageView
-        android:layout_width="350px"
-        android:layout_height="450px"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:src="@drawable/porta_colecao_peq"
+        android:layout_below="@+id/textView2"
+        android:layout_toLeftOf="@+id/imageView3"
+        android:layout_toStartOf="@+id/imageView3" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView3"
+        android:src="@drawable/porta_colecao_peq"
+        android:layout_alignTop="@+id/imageView2"
+        android:layout_toLeftOf="@+id/imageView4"
+        android:layout_toStartOf="@+id/imageView4" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:id="@+id/imageView4"
-        android:src="@drawable/porta_colecao"
+        android:src="@drawable/porta_colecao_peq"
         android:layout_alignTop="@+id/imageView2"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />
@@ -57,5 +54,15 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:textSize="30sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@+id/imageView2"
+        android:layout_toStartOf="@+id/imageView2"
+        android:layout_alignTop="@+id/imageView2"></RelativeLayout>
+
 
 </RelativeLayout>

@@ -104,6 +104,18 @@
             android:name=".Sandalia.Sandalia_20"
             android:label="@string/title_activity_sandalia_20" >
         </activity>
+        <activity
+            android:name=".Capacete.Capacete_32"
+            android:label="@string/title_activity_capacete_32" >
+        </activity>
+        <activity
+            android:name=".Vaso.Vaso_28"
+            android:label="@string/title_activity_vaso_28" >
+        </activity>
+        <activity
+            android:name=".Sandalia.Sandalia_11"
+            android:label="@string/title_activity_sandalia_11" >
+        </activity>
     </application>
 
 </manifest>

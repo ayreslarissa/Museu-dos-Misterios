@@ -12,10 +12,13 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:id="@+id/textViewTexto_moeda_36_1"
-        android:textSize="40sp"
-        android:layout_centerVertical="true"
+        android:textSize="55sp"
+        android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="165dp"
+        android:layout_alignRight="@+id/button_moeda_36_proximo_1"
+        android:layout_alignEnd="@+id/button_moeda_36_proximo_1" />
 
 
     <Button
@@ -23,7 +26,7 @@
         android:layout_height="wrap_content"
         android:text="@string/text_proximo"
         android:id="@+id/button_moeda_36_proximo_1"
-        android:textSize="25sp"
+        android:textSize="50sp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
@@ -35,7 +38,7 @@
         android:layout_height="wrap_content"
         android:text="@string/text_anterior"
         android:id="@+id/button_moeda_36_anterior"
-        android:textSize="25sp"
+        android:textSize="50sp"
         android:background="@android:color/transparent"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
@@ -46,7 +49,7 @@
         android:layout_height="wrap_content"
         android:text="@string/text_proximo"
         android:id="@+id/button_moeda_36_proximo_2"
-        android:textSize="25sp"
+        android:textSize="50sp"
         android:background="@android:color/transparent"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
@@ -58,7 +61,7 @@
         android:layout_height="wrap_content"
         android:text="@string/text_proximo"
         android:id="@+id/button_moeda_36_proximo_3"
-        android:textSize="25sp"
+        android:textSize="50sp"
         android:background="@android:color/transparent"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
