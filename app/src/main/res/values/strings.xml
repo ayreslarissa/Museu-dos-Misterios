@@ -143,6 +143,14 @@
             <string name="sandalia_31_2">Você escolheu o número errado. A regra para a sequência númerica nos discos é "somar 4". A sequência é 1, 5, 9, 13, 17, 21.</string>
     
     <!-- PASSARO -->
+        <!-- 22 -->
+            <string name="passaro_22_1">Você abre a porta e entra em uma saleta. No canto, há um grande baú de madeira.
+                                O aviso era verdadeiro. O dobro de um número ímpar é sempre par:
+            </string>
+        <!-- 27 -->
+            <string name="passaro_27_1">Você abre a porta e entra em uma saleta. Mas há algo errado!
+                Você não consegue respirar! Consegue apenas voltar, passando pela mesma porta apenas a tempo de não desmaiar.</string>
+            <string name="passaro_27_2">O aviso na porta era falso. Por exemplo, metade de 4 é 2, e este é um número par.</string>
         <!-- 32 -->
             <string name="passaro_32_1">Escolheu a caixa errada! Você ergue a tampa e ouve um zumbido muito alto.
                 Uma vespa enorme sai voando em direção ao seu pescoço. Vai picar você!</string>
@@ -159,6 +167,7 @@
     <string name="title_activity_passaro_22">Passaro_22</string>
     <string name="title_activity_passaro_27">Passaro_27</string>
     <string name="title_activity_sandalia_11_2">Sandalia_11_2</string>
+    <string name="title_activity_esfinge_5">Esfinge_5</string>
 
 
 

@@ -4,28 +4,15 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context="ufam.promobile.museudosmisterios.Passaro.Passaro_22"
+    tools:context="ufam.promobile.museudosmisterios.Passaro.Passaro_27"
     android:background="@color/app_bg">
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/text_proximo"
-        android:id="@+id/button_passaro_22_proximo"
-        android:textSize="20sp"
-        android:textColor="@color/cor_fonte"
-        android:fontFamily="@string/fonteFamily"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:background="@android:color/transparent" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:text="@string/text_anterior"
-        android:id="@+id/button_passaro_22_anterior"
-        android:textSize="20sp"
+        android:id="@+id/button_passaro_27_anterior"
+        android:textSize="@dimen/tam_font_large"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:background="@android:color/transparent"
@@ -36,9 +23,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/passaro_22_1"
-        android:id="@+id/textView_passaro_22_1"
-        android:textSize="@dimen/tam_font_normal"
+        android:text="@string/passaro_27_1"
+        android:id="@+id/textView_passaro_27_1"
+        android:textSize="@dimen/tam_font_large"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:layout_marginTop="43dp"
@@ -46,14 +33,16 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
-    <ImageView
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/imageView_passaro_22"
-        android:src="@drawable/passaro_22"
-        android:layout_below="@+id/textView_passaro_22_1"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
-
+        android:text="@string/passaro_27_2"
+        android:id="@+id/textView_passaro_27_2"
+        android:textSize="@dimen/tam_font_large"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:layout_below="@+id/textView_passaro_27_1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
 </RelativeLayout>

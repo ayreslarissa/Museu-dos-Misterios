@@ -41,7 +41,6 @@
         android:textSize="@dimen/tam_font_normal"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
-        android:layout_marginTop="43dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
@@ -53,7 +52,8 @@
         android:src="@drawable/passaro_22"
         android:layout_below="@+id/textView_passaro_22_1"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentEnd="true"
+        android:layout_above="@+id/button_passaro_22_proximo" />
 
 
 </RelativeLayout>

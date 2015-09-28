@@ -1,11 +1,16 @@
 package ufam.promobile.museudosmisterios.Passaro;
 
-import android.support.v7.app.ActionBarActivity;
+import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+import android.support.v7.app.ActionBarActivity;
+import android.view.View;
+import android.view.WindowManager;
+import android.widget.Button;
 
+import ufam.promobile.museudosmisterios.Esfinge.Esfinge_5;
 import ufam.promobile.museudosmisterios.R;
+import ufam.promobile.museudosmisterios.Sandalia.Sandalia_11;
 
 public class Passaro_22 extends ActionBarActivity {
 
@@ -13,27 +18,35 @@ public class Passaro_22 extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_passaro_22);
-    }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_passaro_22, menu);
-        return true;
-    }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
+        // Orientaçao Paisagem (Landscape)
+        try {
+            setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
+            getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        } catch (Exception e) {
+            e.printStackTrace();
         }
 
-        return super.onOptionsItemSelected(item);
+        final Button anteriorpassaro22 = (Button) findViewById(R.id.button_passaro_22_anterior);
+        final Button proximopassaro22 = (Button) findViewById(R.id.button_passaro_22_proximo);
+
+        //VOLTA PARA A PÁGINA SANDALIA_11
+        anteriorpassaro22.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Passaro_22.this, Sandalia_11.class);
+                startActivity(intent);
+            }
+        });
+
+        proximopassaro22.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Passaro_22.this, Esfinge_5.class);
+                startActivity(intent);
+            }
+        });
     }
+
+
 }

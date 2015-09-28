@@ -128,6 +128,10 @@
             android:name=".Sandalia.Sandalia_11_2"
             android:label="@string/title_activity_sandalia_11_2" >
         </activity>
+        <activity
+            android:name=".Esfinge.Esfinge_5"
+            android:label="@string/title_activity_esfinge_5" >
+        </activity>
     </application>
 
 </manifest>
