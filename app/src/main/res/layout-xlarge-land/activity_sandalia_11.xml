@@ -16,7 +16,7 @@
         android:id="@+id/textView_sandalia_11_1"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:textSize="30sp"
+        android:textSize="@dimen/tam_font_xlarge"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"/>
 
@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:text="@string/text_proximo"
         android:id="@+id/button_sandalia_11_proximo"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_xlarge"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:layout_alignParentBottom="true"
@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:text="@string/text_anterior"
         android:id="@+id/button_sandalia_11_anterior"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_xlarge"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:background="@android:color/transparent"

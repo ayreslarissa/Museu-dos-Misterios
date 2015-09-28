@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_bg">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView_sandalia11_2_1"
+        android:src="@drawable/paper_s"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView_sandalia11_2_2"
+        android:layout_centerVertical="true"
+        android:src="@drawable/paper_s"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quando você divide um número par, o resultado é sempre um número ímpar."
+        android:textSize="@dimen/tam_font_normal"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:id="@+id/textView11"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/imageView_sandalia11_2_1"
+        android:layout_alignEnd="@+id/imageView_sandalia11_2_1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quando você duplica um número ímpar, o resultado é sempre um número par."
+        android:textSize="@dimen/tam_font_normal"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:id="@+id/textView12"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/imageView_sandalia11_2_2"
+        android:layout_alignStart="@+id/imageView_sandalia11_2_2" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_anterior"
+        android:id="@+id/button_sandalia_11_anterior"
+        android:textSize="@dimen/tam_font_normal"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/clique_sandalia_11"
+        android:id="@+id/instruçao_sandalia_11"
+        android:textSize="@dimen/tam_font_normal"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="42dp"
+        android:layout_marginStart="42dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_instrucao_divide"
+        android:background="@android:color/transparent"
+        android:layout_alignTop="@+id/imageView_sandalia11_2_1"
+        android:layout_alignRight="@+id/imageView_sandalia11_2_1"
+        android:layout_alignEnd="@+id/imageView_sandalia11_2_1"
+        android:layout_alignBottom="@+id/imageView_sandalia11_2_1"
+        android:layout_alignLeft="@+id/imageView_sandalia11_2_1"
+        android:layout_alignStart="@+id/imageView_sandalia11_2_1" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_instrucao_duplica"
+        android:background="@android:color/transparent"
+        android:layout_alignTop="@+id/imageView_sandalia11_2_2"
+        android:layout_alignLeft="@+id/imageView_sandalia11_2_2"
+        android:layout_alignStart="@+id/imageView_sandalia11_2_2"
+        android:layout_alignBottom="@+id/imageView_sandalia11_2_2"
+        android:layout_alignRight="@+id/imageView_sandalia11_2_2"
+        android:layout_alignEnd="@+id/imageView_sandalia11_2_2" />
+</RelativeLayout>

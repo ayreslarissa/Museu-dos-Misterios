@@ -116,6 +116,18 @@
             android:name=".Sandalia.Sandalia_11"
             android:label="@string/title_activity_sandalia_11" >
         </activity>
+        <activity
+            android:name=".Passaro.Passaro_22"
+            android:label="@string/title_activity_passaro_22" >
+        </activity>
+        <activity
+            android:name=".Passaro.Passaro_27"
+            android:label="@string/title_activity_passaro_27" >
+        </activity>
+        <activity
+            android:name=".Sandalia.Sandalia_11_2"
+            android:label="@string/title_activity_sandalia_11_2" >
+        </activity>
     </application>
 
 </manifest>

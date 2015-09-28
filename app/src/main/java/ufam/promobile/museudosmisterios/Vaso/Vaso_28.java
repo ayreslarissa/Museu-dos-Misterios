@@ -9,6 +9,7 @@ import android.view.WindowManager;
 import android.widget.Button;
 
 import ufam.promobile.museudosmisterios.R;
+import ufam.promobile.museudosmisterios.Sandalia.Sandalia_11;
 import ufam.promobile.museudosmisterios.Sandalia.Sandalia_20;
 
 public class Vaso_28 extends ActionBarActivity {
@@ -25,9 +26,10 @@ public class Vaso_28 extends ActionBarActivity {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        final Button capacete28vaso = (Button) findViewById(R.id.button_vaso_28_anterior);
+        final Button anterior28vaso = (Button) findViewById(R.id.button_vaso_28_anterior);
+        final Button proximoVaso28 = (Button) findViewById(R.id.button_vaso_28_proximo);
 
-        capacete28vaso.setOnClickListener(new View.OnClickListener() {
+        anterior28vaso.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(Vaso_28.this, Sandalia_20.class);
@@ -35,7 +37,13 @@ public class Vaso_28 extends ActionBarActivity {
             }
         });
 
-
+        proximoVaso28.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Vaso_28.this, Sandalia_11.class);
+                startActivity(intent);
+            }
+        });
     }
 
 
