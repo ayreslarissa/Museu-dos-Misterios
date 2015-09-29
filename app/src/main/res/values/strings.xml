@@ -32,9 +32,15 @@
         <string name="title_activity_capacete_32">Capacete_32</string>
         <string name="title_activity_vaso_28">Vaso_28</string>
         <string name="title_activity_sandalia_11">Sandalia_11</string>
+        <string name="title_activity_passaro_22">Passaro_22</string>
+        <string name="title_activity_passaro_27">Passaro_27</string>
+        <string name="title_activity_sandalia_11_2">Sandalia_11_2</string>
+        <string name="title_activity_esfinge_5">Esfinge_5</string>
+
 
         <string name="fonteFamily">serif</string>
         <string name="clique_sandalia_11">Clique na instrução verdadeira:</string>
+
     <!-- Instruções -->
         <string name="text_instrucoes_1">Você está pronto para uma fantástica aventura - com voltas e reviravoltas, muita ação e quebra-cabeças empolgantes para resolver? Então este livro foi feito para você!</string>
         <string name="text_instrucoes_2">Os problemas nessa aventura têm tudo a ver com números. Para resolvê-los, você deve usar seus conhecimentos sobre padrões numéricos, fatores, números primos e ordens e classes dos números. Para ajudar, há um glossário no fim do livro, na página 44. Lá você vai encontrar todos os métodos e sugestões de cálculos.</string>
@@ -46,14 +52,13 @@
         <string name="text_introducao_2">Agora você está no museu e ficou trancado lá dentro, Mas não está sozinho -
             algo se esgueira pelas sombras. Você precisa seguir as pistas antes que a Coleção Dourada, o maior de todos os tesouros da Antiguidade, seja perdida para sempre! Primeiro você deve coletar objetos misteriosos; depois, irá usá-los para resolver o quebra-cabeça final. Você precisará de nervos de aço para isso!</string>
 
+
     <!-- CAPACETE -->
         <!-- 17 -->
             <string name="capacete_17_1">Você está parado no saguão de entrada. Quatro portas conduzem a direções diferentes.
                 Você deve escolher um deles. Que ala do museu você deve visitar?</string>
 
         <!-- 26 -->
-
-
             <string name="capacete_26_1">Você segue a indicação para a ala Greco-romana. Para de andar um segundo e presta atenção -
                 você ouve uns passinhos delicados atrás, mas por algum motivo, não sente medo.</string>
 
@@ -61,6 +66,7 @@
             <string name="capacete_32_1">Se você pisar no número 16, cairá na armadilha dos ladrões!
                 Você precisa contar de três em três para econtrar os degraus seguros: 3, 6, 9, 12, 15, 18, 21...
                 O degrau não está na lista.</string>
+
 
     <!-- ESFINGE -->
 
@@ -73,15 +79,25 @@
                 Um hexágono tem 6 lados portanto, quadrado + hexágono = 4 + 6 = 10. </string>
             <string name="esfinge_8_3">Quantos lados tem um pentágono? Quanto é 3 + 5?</string>
 
-
         <!-- 10 -->
             <string name="title_activity_esfinge_10">Esfinge_10</string>
             <string name="esfinge_10_1">As galerias são escuras e assustadoras. Uma luz vermelha piscando dentro de um display de vidro
                 chama sua atenção. Você vê dois vasos lá dentro. Estão numerados 24 e 25; e alguém colou um cartão na tampa de vidro:</string>
             <string name="esfinge_10_proximo">Próximo</string>
             <string name="esfinge_10_2">Qual o vaso você escolhe? 25 ou 24?</string>
+
+        <!-- 34 -->
+            <string name="esfinge_34_1">Você caminha pelo corredor em direção à ala dos Viquingues. Alguém deixou um prato de leite
+                perto de uma coluna. Você ouve um ronronar e vê a ponta de um rabo.</string>
+            <string name="esfinge_34_2">Mais adiante, você vê um barco viquingue. Está cercado de amostras de espadas, machados,
+                capacetes com chifres e joias, escavadas de um sepulcro. Um rastro de marcas de patinhas sujas de leite o conduz a uma
+                caixa de vidro.</string>
+            <string name="esfinge_34_3">Dentro dela há um esqueleto humano. É o capitão viquingue. Um cartão na caixa traz uma mensagem de arrepiar:</string>
+            <string name="esfinge_34_4">Um vento frio sobe pelas galerias e agita as velas do barco...</string>
+
         <!-- 42 -->
             <string name="esfinge_42_1">Você coloca os discos em ordem. O que falta deve ficar claro!</string>
+
 
     <!-- VASO -->
         <!-- 26 -->
@@ -91,6 +107,7 @@
         <!-- 27 -->
             <string name="vaso_28_1">Você desce tranquilamente até o fim da escada, de três em três degraus. Enquanto desce, vê a armadilha que os ladrões montaram no degrau 16.
                 No fim da escada, você encontra uma passagem iluminada por chamas trêmulas.</string>
+
 
     <!-- MOEDA -->
         <!-- 6 -->
@@ -120,6 +137,7 @@
             <string name="moeda_36_3">Você acertou quando respondeu 8.
                 Um pentágono tem 5 lados; portanto triângulo + pentágono = 3 + 5 = 8.</string>
 
+
     <!-- SANDALIA -->
 
         <!-- 11 -->
@@ -142,6 +160,7 @@
                 Cuidado! Uma bola de pelo salta sobre o seu peito e o derruba para o lado. A coluna cai no chão - bem onde você estava. Quem ou o que quer você fora do caminho?</string>
             <string name="sandalia_31_2">Você escolheu o número errado. A regra para a sequência númerica nos discos é "somar 4". A sequência é 1, 5, 9, 13, 17, 21.</string>
     
+
     <!-- PASSARO -->
         <!-- 22 -->
             <string name="passaro_22_1">Você abre a porta e entra em uma saleta. No canto, há um grande baú de madeira.
@@ -164,10 +183,7 @@
             <string name="passaro_34_2">A primeira linha é só um número. Você deduz que agora deve procurar a Exposição 20.</string>
             <string name="passaro_34_3">Lentamente, segue naquela direção. Espere um pouco - está ouvindo um ronronar?</string>
             <string name="passaro_34_4">Animado, você apressa o passo.</string>
-    <string name="title_activity_passaro_22">Passaro_22</string>
-    <string name="title_activity_passaro_27">Passaro_27</string>
-    <string name="title_activity_sandalia_11_2">Sandalia_11_2</string>
-    <string name="title_activity_esfinge_5">Esfinge_5</string>
+    <string name="title_activity_esfinge_32">Esfinge_32</string>
 
 
 
