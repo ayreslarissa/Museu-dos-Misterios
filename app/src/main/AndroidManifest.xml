@@ -144,6 +144,10 @@
             android:name=".Vaso.Vaso_37"
             android:label="@string/title_activity_vaso_37" >
         </activity>
+        <activity
+            android:name=".Esfinge.Esfinge_22"
+            android:label="@string/title_activity_esfinge_22" >
+        </activity>
     </application>
 
 </manifest>

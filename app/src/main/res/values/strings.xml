@@ -36,9 +36,12 @@
         <string name="title_activity_passaro_27">Passaro_27</string>
         <string name="title_activity_sandalia_11_2">Sandalia_11_2</string>
         <string name="title_activity_esfinge_5">Esfinge_5</string>
+        <string name="title_activity_esfinge_32">Esfinge_32</string>
+        <string name="title_activity_sandalia_15">Sandalia_15</string>
+        <string name="title_activity_vaso_37">Vaso_37</string>
 
 
-        <string name="fonteFamily">serif</string>     
+    <string name="fonteFamily">serif</string>
 
 
     <!-- Instruções -->
@@ -108,7 +111,9 @@
         <!-- 27 -->
             <string name="vaso_28_1">Você desce tranquilamente até o fim da escada, de três em três degraus. Enquanto desce, vê a armadilha que os ladrões montaram no degrau 16.
                 No fim da escada, você encontra uma passagem iluminada por chamas tremulantes.</string>
-
+        <!-- 37 -->
+            <string name="vaso_37_1">Os números em cada linha de um quadrado mágico sempre resultam no mesmo "número mágico".
+                Os números nas colunas e diagonais também dão o número mágico. Verifique:</string>
 
     <!-- MOEDA -->
         <!-- 6 -->
@@ -144,6 +149,14 @@
             <string name="sandalia_11_1">No fim da passagem, há duas portas na parede. Parece haver mensagens afixadas nelas.
                 A instrução seguinte no pergaminho diz para "procurar a verdade". Você se aproxima e lê os avisos nas portas:</string>
             <string name="clique_sandalia_11">Clique na instrução verdadeira:</string>
+
+        <!-- 15 -->
+            <string name="sandalia_15_1">Está certo! Os números em cada linha, coluna e diagonal de um quadrado mágico
+                sempre resultam no mesmo número mágico. O número mágico desse quadrado é 15.</string>
+            <string name="sandalia_15_2">Você bate 15 vezes na tampa e ela abre.
+                Dentro, há uma tábua de argila coberta com uma escrita estranha.
+                Você não sabe o que significa, mas acha que é importante e guarda a tábua em sua mochila.
+                Espere - há alguma coisa escrita no fundo do baú!</string>
         <!-- 20 -->
             <string name="sandalia_20_1">Você deve descer a escadaria?
                 Sem saber ao certo o que fazer, você lê a instrução seguinte no pergaminho:</string>
@@ -183,9 +196,7 @@
             <string name="passaro_34_2">A primeira linha é só um número. Você deduz que agora deve procurar a Exposição 20.</string>
             <string name="passaro_34_3">Lentamente, segue naquela direção. Espere um pouco - está ouvindo um ronronar?</string>
             <string name="passaro_34_4">Animado, você apressa o passo.</string>
-    <string name="title_activity_esfinge_32">Esfinge_32</string>
-    <string name="title_activity_sandalia_15">Sandalia_15</string>
-    <string name="title_activity_vaso_37">Vaso_37</string>
+    <string name="title_activity_esfinge_22">Esfinge_22</string>
 
 
 

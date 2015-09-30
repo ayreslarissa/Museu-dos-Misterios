@@ -26,11 +26,11 @@
         android:textSize="@dimen/tam_font_normal"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
-        android:background="@android:color/transparent"
-        android:visibility="visible"
         android:layout_alignParentBottom="true"
-        android:layout_alignRight="@+id/imageView_sandalia_15_2"
-        android:layout_alignEnd="@+id/imageView_sandalia_15_2" />
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="@android:color/transparent"
+        android:visibility="visible" />
 
     <Button
         android:layout_width="wrap_content"
@@ -55,8 +55,7 @@
         android:layout_toLeftOf="@+id/button_sandalia_15_proximo1"
         android:layout_toStartOf="@+id/button_sandalia_15_proximo1"
         android:layout_marginRight="207dp"
-        android:layout_marginEnd="207dp"
-        android:layout_above="@+id/button_sandalia_15_anterior" />
+        android:layout_marginEnd="207dp" />
 
     <Button
         android:layout_width="wrap_content"
@@ -68,9 +67,9 @@
         android:fontFamily="@string/fonteFamily"
         android:background="@android:color/transparent"
         android:visibility="invisible"
-        android:layout_alignParentBottom="true"
-        android:layout_alignRight="@+id/imageView_sandalia_15_2"
-        android:layout_alignEnd="@+id/imageView_sandalia_15_2" />
+        android:layout_alignTop="@+id/button_sandalia_15_proximo1"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 
     <ImageView
         android:layout_width="wrap_content"
@@ -78,12 +77,12 @@
         android:id="@+id/imageView_sandalia_15_2"
         android:src="@drawable/sandalia_15_2"
         android:visibility="invisible"
+        android:layout_alignBottom="@+id/imageView_sandalia_15_1"
         android:layout_toRightOf="@+id/button_sandalia_15_anterior"
         android:layout_toEndOf="@+id/button_sandalia_15_anterior"
         android:layout_marginLeft="187dp"
         android:layout_marginStart="187dp"
-        android:layout_alignTop="@+id/imageView_sandalia_15_1"
-        android:layout_above="@+id/button_sandalia_15_proximo1" />
+        android:layout_alignTop="@+id/imageView_sandalia_15_1" />
 
 
 </RelativeLayout>
