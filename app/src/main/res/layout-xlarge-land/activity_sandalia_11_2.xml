@@ -3,7 +3,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/app_bg">
+    android:background="@color/app_bg"
+    >
 
     <ImageView
         android:layout_width="wrap_content"
@@ -11,10 +12,8 @@
         android:id="@+id/imageView_sandalia11_2_1"
         android:src="@drawable/paper_l"
         android:layout_alignTop="@+id/imageView_sandalia11_2_2"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginRight="95dp"
-        android:layout_marginEnd="95dp" />
+        android:layout_alignLeft="@+id/instruçao_sandalia_11"
+        android:layout_alignStart="@+id/instruçao_sandalia_11" />
 
     <ImageView
         android:layout_width="wrap_content"
@@ -22,8 +21,8 @@
         android:id="@+id/imageView_sandalia11_2_2"
         android:src="@drawable/paper_l"
         android:layout_centerVertical="true"
-        android:layout_alignLeft="@+id/instruçao_sandalia_11"
-        android:layout_alignStart="@+id/instruçao_sandalia_11" />
+        android:layout_alignRight="@+id/instruçao_sandalia_11"
+        android:layout_alignEnd="@+id/instruçao_sandalia_11" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -33,12 +32,11 @@
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:id="@+id/textView11"
-        android:layout_alignTop="@+id/imageView_sandalia11_2_1"
-        android:layout_alignBottom="@+id/imageView_sandalia11_2_1"
-        android:layout_alignLeft="@+id/imageView_sandalia11_2_1"
-        android:layout_alignStart="@+id/imageView_sandalia11_2_1"
+        android:layout_centerVertical="true"
         android:layout_alignRight="@+id/imageView_sandalia11_2_1"
-        android:layout_alignEnd="@+id/imageView_sandalia11_2_1" />
+        android:layout_alignEnd="@+id/imageView_sandalia11_2_1"
+        android:layout_alignLeft="@+id/imageView_sandalia11_2_1"
+        android:layout_alignStart="@+id/imageView_sandalia11_2_1" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -48,12 +46,11 @@
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:id="@+id/textView12"
+        android:layout_centerVertical="true"
         android:layout_alignLeft="@+id/imageView_sandalia11_2_2"
         android:layout_alignStart="@+id/imageView_sandalia11_2_2"
         android:layout_alignRight="@+id/imageView_sandalia11_2_2"
-        android:layout_alignEnd="@+id/imageView_sandalia11_2_2"
-        android:layout_alignTop="@+id/imageView_sandalia11_2_2"
-        android:layout_alignBottom="@+id/imageView_sandalia11_2_2" />
+        android:layout_alignEnd="@+id/imageView_sandalia11_2_2" />
 
     <Button
         android:layout_width="wrap_content"
@@ -77,32 +74,30 @@
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginLeft="91dp"
-        android:layout_marginStart="91dp" />
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/btn_instrucao_divide"
         android:background="@android:color/transparent"
-        android:layout_alignTop="@+id/imageView_sandalia11_2_1"
+        android:layout_alignTop="@+id/textView11"
         android:layout_alignRight="@+id/imageView_sandalia11_2_1"
         android:layout_alignEnd="@+id/imageView_sandalia11_2_1"
-        android:layout_alignBottom="@+id/imageView_sandalia11_2_1"
         android:layout_alignLeft="@+id/imageView_sandalia11_2_1"
-        android:layout_alignStart="@+id/imageView_sandalia11_2_1" />
+        android:layout_alignStart="@+id/imageView_sandalia11_2_1"
+        android:layout_alignBottom="@+id/textView11" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/btn_instrucao_duplica"
         android:background="@android:color/transparent"
-        android:layout_alignTop="@+id/imageView_sandalia11_2_2"
+        android:layout_alignTop="@+id/textView12"
         android:layout_alignLeft="@+id/imageView_sandalia11_2_2"
         android:layout_alignStart="@+id/imageView_sandalia11_2_2"
-        android:layout_alignBottom="@+id/imageView_sandalia11_2_2"
+        android:layout_alignBottom="@+id/textView12"
         android:layout_alignRight="@+id/imageView_sandalia11_2_2"
         android:layout_alignEnd="@+id/imageView_sandalia11_2_2" />
+
 </RelativeLayout>

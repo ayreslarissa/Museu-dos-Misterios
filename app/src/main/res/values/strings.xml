@@ -41,6 +41,7 @@
         <string name="fonteFamily">serif</string>
         <string name="clique_sandalia_11">Clique na instrução verdadeira:</string>
 
+
     <!-- Instruções -->
         <string name="text_instrucoes_1">Você está pronto para uma fantástica aventura - com voltas e reviravoltas, muita ação e quebra-cabeças empolgantes para resolver? Então este livro foi feito para você!</string>
         <string name="text_instrucoes_2">Os problemas nessa aventura têm tudo a ver com números. Para resolvê-los, você deve usar seus conhecimentos sobre padrões numéricos, fatores, números primos e ordens e classes dos números. Para ajudar, há um glossário no fim do livro, na página 44. Lá você vai encontrar todos os métodos e sugestões de cálculos.</string>
@@ -51,7 +52,6 @@
         <string name="text_introducao_1">No meio da noite, você é acordado por um ruído em sua caixa de correio. É uma carta:</string>
         <string name="text_introducao_2">Agora você está no museu e ficou trancado lá dentro, Mas não está sozinho -
             algo se esgueira pelas sombras. Você precisa seguir as pistas antes que a Coleção Dourada, o maior de todos os tesouros da Antiguidade, seja perdida para sempre! Primeiro você deve coletar objetos misteriosos; depois, irá usá-los para resolver o quebra-cabeça final. Você precisará de nervos de aço para isso!</string>
-
 
     <!-- CAPACETE -->
         <!-- 17 -->
@@ -67,9 +67,11 @@
                 Você precisa contar de três em três para econtrar os degraus seguros: 3, 6, 9, 12, 15, 18, 21...
                 O degrau não está na lista.</string>
 
-
     <!-- ESFINGE -->
-
+        <!-- 5 -->
+            <string name="esfinge_5_1">Você caminha até o baú e tenta erguer a tampa. Está trancada.</string>
+            <string name="esfinge_5_2">Num dos lados do baú há um misterioso quadrado com números gravados na madeira. </string>
+            <string name="esfinge_5_3">Você olha com atenção e percebe que há um inscrição abaixo:</string>
         <!-- 8 -->
             <string name="esfinge_8_1">Você passa o dedo pela fileira de números e pressiona o número 9. Nada acontece.
                 Você está prestes a se virar quando ouve um forte "miau" vindo por trás
@@ -78,6 +80,7 @@
                 Um quadrado tem 4 lados portanto, triângulo + quadrado = 3+4 = 7.
                 Um hexágono tem 6 lados portanto, quadrado + hexágono = 4 + 6 = 10. </string>
             <string name="esfinge_8_3">Quantos lados tem um pentágono? Quanto é 3 + 5?</string>
+
 
         <!-- 10 -->
             <string name="title_activity_esfinge_10">Esfinge_10</string>
@@ -98,7 +101,6 @@
         <!-- 42 -->
             <string name="esfinge_42_1">Você coloca os discos em ordem. O que falta deve ficar claro!</string>
 
-
     <!-- VASO -->
         <!-- 26 -->
             <string name="vaso_26_1">Você põe a mão dentro do vaso. Alguma coisa peluda se esfrega em seus dedos!
@@ -106,7 +108,7 @@
             <string name="vaso_26_2">Você escolheu o vaso errado: "cinco vezes cinco" é 25, não 24.</string>
         <!-- 27 -->
             <string name="vaso_28_1">Você desce tranquilamente até o fim da escada, de três em três degraus. Enquanto desce, vê a armadilha que os ladrões montaram no degrau 16.
-                No fim da escada, você encontra uma passagem iluminada por chamas trêmulas.</string>
+                No fim da escada, você encontra uma passagem iluminada por chamas tremulantes.</string>
 
 
     <!-- MOEDA -->
@@ -137,13 +139,12 @@
             <string name="moeda_36_3">Você acertou quando respondeu 8.
                 Um pentágono tem 5 lados; portanto triângulo + pentágono = 3 + 5 = 8.</string>
 
-
     <!-- SANDALIA -->
 
         <!-- 11 -->
             <string name="sandalia_11_1">No fim da passagem, há duas portas na parede. Parece haver mensagens afixadas nelas.
                 A instrução seguinte no pergaminho diz para "procurar a verdade". Você se aproxima e lê os avisos nas portas:</string>
-
+            <string name="clique_sandalia_11">Clique na instrução verdadeira:</string>
         <!-- 20 -->
             <string name="sandalia_20_1">Você deve descer a escadaria?
                 Sem saber ao certo o que fazer, você lê a instrução seguinte no pergaminho:</string>
@@ -184,6 +185,9 @@
             <string name="passaro_34_3">Lentamente, segue naquela direção. Espere um pouco - está ouvindo um ronronar?</string>
             <string name="passaro_34_4">Animado, você apressa o passo.</string>
     <string name="title_activity_esfinge_32">Esfinge_32</string>
+    <string name="title_activity_sandalia_15">Sandalia_15</string>
+    <string name="title_activity_vaso_37">Vaso_37</string>
+
 
 
 

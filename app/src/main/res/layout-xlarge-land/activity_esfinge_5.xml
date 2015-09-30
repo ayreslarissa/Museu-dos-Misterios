@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:id="@+id/textViewTexto_esfinge_5_1"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_xlarge"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily" />
 
@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:text="@string/text_proximo"
         android:id="@+id/button_esfinge_5_proximo1"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_xlarge"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:layout_alignParentBottom="true"
@@ -35,7 +35,7 @@
         android:layout_height="wrap_content"
         android:text="@string/text_proximo"
         android:id="@+id/button_esfinge_5_proximo2"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_xlarge"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:background="@android:color/transparent"
@@ -49,7 +49,7 @@
         android:layout_height="wrap_content"
         android:text="@string/text_anterior"
         android:id="@+id/button_esfinge_5_anterior"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_xlarge"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:background="@android:color/transparent"
@@ -79,13 +79,12 @@
         android:layout_alignEnd="@+id/button_esfinge_5_proximo1"
         android:visibility="invisible"
         android:layout_above="@+id/button_esfinge_5_proximo1" />
-
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/text_proximo"
         android:id="@+id/button_esfinge_5_proximo3"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_xlarge"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:background="@android:color/transparent"

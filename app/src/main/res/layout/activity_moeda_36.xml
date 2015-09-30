@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:id="@+id/textViewTexto_moeda_36_1"
-        android:textSize="@dimen/tam_font_large"
+        android:textSize="@dimen/tam_font_normal"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:layout_centerVertical="true"
