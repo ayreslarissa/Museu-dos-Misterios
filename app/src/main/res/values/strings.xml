@@ -188,7 +188,9 @@
                 Cuidado! Uma bola de pelo salta sobre o seu peito e o derruba para o lado. A coluna cai no chão - bem onde você estava. Quem ou o que quer você fora do caminho?</string>
             <string name="sandalia_31_2">Você escolheu o número errado. A regra para a sequência númerica nos discos é "somar 4". A sequência é 1, 5, 9, 13, 17, 21.</string>
     
-
+        <!-- 35 -->
+            <string name="sandalia_35_1">Há dois mosaicos no chão, à sua frente.
+                Eles têm padrões diferentes, mas o que você deve fazer? Você lê a instrução seguinte no pergaminho...</string>
     <!-- PASSARO -->
         <!-- 22 -->
             <string name="passaro_22_1">Você abre a porta e entra em uma saleta. No canto, há um grande baú de madeira.
@@ -211,6 +213,10 @@
             <string name="passaro_34_2">A primeira linha é só um número. Você deduz que agora deve procurar a Exposição 20.</string>
             <string name="passaro_34_3">Lentamente, segue naquela direção. Espere um pouco - está ouvindo um ronronar?</string>
             <string name="passaro_34_4">Animado, você apressa o passo.</string>
+    <string name="title_activity_esfinge_22">Esfinge_22</string>
+    <string name="title_activity_sandalia_35">Sandalia_35</string>
+    <string name="title_activity_vaso_15">Vaso_15</string>
+    <string name="title_activity_moedas_9">Moedas_9</string>
     
 
 

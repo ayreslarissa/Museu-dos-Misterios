@@ -5,7 +5,8 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
     tools:context="ufam.promobile.museudosmisterios.Sandalia.Sandalia_35"
-    android:background="@color/app_bg">
+    android:background="@color/app_bg"
+    >
 
     <TextView
         android:layout_width="wrap_content"

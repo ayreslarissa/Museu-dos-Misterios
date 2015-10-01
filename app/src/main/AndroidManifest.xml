@@ -152,6 +152,14 @@
             android:name=".Sandalia.Sandalia_35"
             android:label="@string/title_activity_sandalia_35" >
         </activity>
+        <activity
+            android:name=".Vaso.Vaso_15"
+            android:label="@string/title_activity_vaso_15" >
+        </activity>
+        <activity
+            android:name=".Moeda.Moedas_9"
+            android:label="@string/title_activity_moedas_9" >
+        </activity>
     </application>
 
 </manifest>
