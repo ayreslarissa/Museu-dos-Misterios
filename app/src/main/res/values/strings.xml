@@ -91,6 +91,12 @@
             <string name="esfinge_10_proximo">Próximo</string>
             <string name="esfinge_10_2">Qual o vaso você escolhe? 25 ou 24?</string>
 
+        <!-- 22 -->
+            <string name="esfinge_22_1">Você volta. Passa pela porta, ao longo do corredor, sobe os degraus (de três em três) e
+                volta à ala Greco-Romana.</string>
+            <string name="esfinge_22_2">Mas e essa história de padrões? Enquanto você volta em direção ao saguão de entrada,
+                vê uma placa indicando a Exposição de Mosaico. É isso! Mosaicos - eles têm padrões! Você segue a indicação.
+                Lá vem aquele som de ronronar de novo... o que será?</string>
         <!-- 34 -->
             <string name="esfinge_34_1">Você caminha pelo corredor em direção à ala dos Viquingues. Alguém deixou um prato de leite
                 perto de uma coluna. Você ouve um ronronar e vê a ponta de um rabo.</string>
@@ -197,6 +203,7 @@
             <string name="passaro_34_3">Lentamente, segue naquela direção. Espere um pouco - está ouvindo um ronronar?</string>
             <string name="passaro_34_4">Animado, você apressa o passo.</string>
     <string name="title_activity_esfinge_22">Esfinge_22</string>
+    <string name="title_activity_sandalia_35">Sandalia_35</string>
 
 
 
