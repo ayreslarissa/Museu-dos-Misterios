@@ -5,7 +5,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
@@ -14,7 +14,7 @@ import ufam.promobile.museudosmisterios.Esfinge.Esfinge_8;
 import ufam.promobile.museudosmisterios.R;
 import ufam.promobile.museudosmisterios.Sandalia.Sandalia_28;
 
-public class Moeda_16 extends ActionBarActivity {
+public class Moeda_16 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

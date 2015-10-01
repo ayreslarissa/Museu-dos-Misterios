@@ -8,8 +8,6 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.TextView;
-
-import ufam.promobile.museudosmisterios.Capacete.Capacete_17;
 import ufam.promobile.museudosmisterios.R;
 
 public class Esfinge_34 extends AppCompatActivity {
@@ -68,13 +66,13 @@ public class Esfinge_34 extends AppCompatActivity {
         //Botão para passar o texto
         proximo3.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                texto.setText(R.string.esfinge_34_3);
-                proximo3.setVisibility(View.INVISIBLE);
+                texto.setVisibility(View.INVISIBLE);
+                texto2.setVisibility(View.VISIBLE);
                 imagem.setVisibility(View.VISIBLE);
+                proximo3.setVisibility(View.INVISIBLE);
                 proximo4.setVisibility(View.VISIBLE);
                 anterior2.setVisibility(View.INVISIBLE);
                 anterior3.setVisibility(View.VISIBLE);
-                texto2.setVisibility(View.VISIBLE);
             };
         });
 
@@ -111,12 +109,13 @@ public class Esfinge_34 extends AppCompatActivity {
         anterior3.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 texto.setText(R.string.esfinge_34_3);
-                proximo3.setVisibility(View.INVISIBLE);
+                texto.setVisibility(View.VISIBLE);
+                texto2.setVisibility(View.INVISIBLE);
                 imagem.setVisibility(View.INVISIBLE);
+                proximo3.setVisibility(View.VISIBLE);
                 proximo4.setVisibility(View.INVISIBLE);
                 anterior2.setVisibility(View.VISIBLE);
                 anterior3.setVisibility(View.INVISIBLE);
-                texto2.setVisibility(View.INVISIBLE);
             };
         });
 

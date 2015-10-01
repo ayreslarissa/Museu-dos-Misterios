@@ -39,7 +39,8 @@
         <string name="title_activity_esfinge_32">Esfinge_32</string>
         <string name="title_activity_sandalia_15">Sandalia_15</string>
         <string name="title_activity_vaso_37">Vaso_37</string>
-
+        <string name="title_activity_esfinge_22">Esfinge_22</string>
+        <string name="title_activity_sandalia_35">Sandalia_35</string>  
 
     <string name="fonteFamily">serif</string>
 
@@ -55,6 +56,7 @@
         <string name="text_introducao_2">Agora você está no museu e ficou trancado lá dentro, Mas não está sozinho -
             algo se esgueira pelas sombras. Você precisa seguir as pistas antes que a Coleção Dourada, o maior de todos os tesouros da Antiguidade, seja perdida para sempre! Primeiro você deve coletar objetos misteriosos; depois, irá usá-los para resolver o quebra-cabeça final. Você precisará de nervos de aço para isso!</string>
 
+
     <!-- CAPACETE -->
         <!-- 17 -->
             <string name="capacete_17_1">Você está parado no saguão de entrada. Quatro portas conduzem a direções diferentes.
@@ -69,11 +71,13 @@
                 Você precisa contar de três em três para econtrar os degraus seguros: 3, 6, 9, 12, 15, 18, 21...
                 O degrau não está na lista.</string>
 
+
     <!-- ESFINGE -->
         <!-- 5 -->
             <string name="esfinge_5_1">Você caminha até o baú e tenta erguer a tampa. Está trancada.</string>
             <string name="esfinge_5_2">Num dos lados do baú há um misterioso quadrado com números gravados na madeira. </string>
             <string name="esfinge_5_3">Você olha com atenção e percebe que há um inscrição abaixo:</string>
+        
         <!-- 8 -->
             <string name="esfinge_8_1">Você passa o dedo pela fileira de números e pressiona o número 9. Nada acontece.
                 Você está prestes a se virar quando ouve um forte "miau" vindo por trás
@@ -82,8 +86,7 @@
                 Um quadrado tem 4 lados portanto, triângulo + quadrado = 3+4 = 7.
                 Um hexágono tem 6 lados portanto, quadrado + hexágono = 4 + 6 = 10. </string>
             <string name="esfinge_8_3">Quantos lados tem um pentágono? Quanto é 3 + 5?</string>
-
-
+    
         <!-- 10 -->
             <string name="title_activity_esfinge_10">Esfinge_10</string>
             <string name="esfinge_10_1">As galerias são escuras e assustadoras. Uma luz vermelha piscando dentro de um display de vidro
@@ -97,6 +100,9 @@
             <string name="esfinge_22_2">Mas e essa história de padrões? Enquanto você volta em direção ao saguão de entrada,
                 vê uma placa indicando a Exposição de Mosaico. É isso! Mosaicos - eles têm padrões! Você segue a indicação.
                 Lá vem aquele som de ronronar de novo... o que será?</string>
+        <!-- 32 -->
+            <string name="esfinge_32_1">Você olha os machados expostos. Têm etiquetas com seus pesos em gramas.</string>
+
         <!-- 34 -->
             <string name="esfinge_34_1">Você caminha pelo corredor em direção à ala dos Viquingues. Alguém deixou um prato de leite
                 perto de uma coluna. Você ouve um ronronar e vê a ponta de um rabo.</string>
@@ -109,6 +115,7 @@
         <!-- 42 -->
             <string name="esfinge_42_1">Você coloca os discos em ordem. O que falta deve ficar claro!</string>
 
+
     <!-- VASO -->
         <!-- 26 -->
             <string name="vaso_26_1">Você põe a mão dentro do vaso. Alguma coisa peluda se esfrega em seus dedos!
@@ -120,6 +127,7 @@
         <!-- 37 -->
             <string name="vaso_37_1">Os números em cada linha de um quadrado mágico sempre resultam no mesmo "número mágico".
                 Os números nas colunas e diagonais também dão o número mágico. Verifique:</string>
+
 
     <!-- MOEDA -->
         <!-- 6 -->
@@ -148,6 +156,7 @@
 
             <string name="moeda_36_3">Você acertou quando respondeu 8.
                 Um pentágono tem 5 lados; portanto triângulo + pentágono = 3 + 5 = 8.</string>
+
 
     <!-- SANDALIA -->
 
@@ -202,8 +211,7 @@
             <string name="passaro_34_2">A primeira linha é só um número. Você deduz que agora deve procurar a Exposição 20.</string>
             <string name="passaro_34_3">Lentamente, segue naquela direção. Espere um pouco - está ouvindo um ronronar?</string>
             <string name="passaro_34_4">Animado, você apressa o passo.</string>
-    <string name="title_activity_esfinge_22">Esfinge_22</string>
-    <string name="title_activity_sandalia_35">Sandalia_35</string>
+    
 
 
 
