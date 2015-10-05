@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/esfinge_32_1"
+        android:text=""
         android:id="@+id/textView_esfinge_32"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
@@ -31,7 +31,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/imageView_esfinge_32_2"
-        android:src="@drawable/esfinge_32_1"
+        android:src="@drawable/esfinge_32_2"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"/>
 

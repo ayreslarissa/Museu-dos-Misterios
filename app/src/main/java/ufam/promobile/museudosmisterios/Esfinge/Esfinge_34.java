@@ -76,14 +76,6 @@ public class Esfinge_34 extends AppCompatActivity {
             };
         });
 
-        //Botão para passar o texto
-        proximo4.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                Intent intent = new Intent(Esfinge_34.this, Esfinge_32.class);
-                startActivity(intent);
-            };
-        });
-
         //Botão para voltar o texto
         anterior1.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
@@ -116,6 +108,14 @@ public class Esfinge_34 extends AppCompatActivity {
                 proximo4.setVisibility(View.INVISIBLE);
                 anterior2.setVisibility(View.VISIBLE);
                 anterior3.setVisibility(View.INVISIBLE);
+            };
+        });
+
+        //Botão para mudar a Activity
+        proximo4.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent intent = new Intent(Esfinge_34.this, Esfinge_32.class);
+                startActivity(intent);
             };
         });
 

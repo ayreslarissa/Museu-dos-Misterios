@@ -153,6 +153,14 @@
             android:label="@string/title_activity_sandalia_35" >
         </activity>
         <activity
+            android:name=".Vaso.Vaso_6"
+            android:label="@string/title_activity_vaso_6" >
+        </activity>
+        <activity
+            android:name=".Esfinge.Esfinge_38"
+            android:label="@string/title_activity_esfinge_38" >
+        </activity>
+        <activity
             android:name=".Vaso.Vaso_15"
             android:label="@string/title_activity_vaso_15" >
         </activity>

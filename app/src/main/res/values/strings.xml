@@ -40,7 +40,11 @@
         <string name="title_activity_sandalia_15">Sandalia_15</string>
         <string name="title_activity_vaso_37">Vaso_37</string>
         <string name="title_activity_esfinge_22">Esfinge_22</string>
-        <string name="title_activity_sandalia_35">Sandalia_35</string>  
+        <string name="title_activity_sandalia_35">Sandalia_35</string>
+        <string name="title_activity_vaso_15">Vaso_15</string>
+        <string name="title_activity_moedas_9">Moedas_9</string>
+        <string name="title_activity_vaso_6">Vaso_6</string>
+        <string name="title_activity_esfinge_38">Esfinge_38</string>
 
     <string name="fonteFamily">serif</string>
 
@@ -191,6 +195,8 @@
         <!-- 35 -->
             <string name="sandalia_35_1">Há dois mosaicos no chão, à sua frente.
                 Eles têm padrões diferentes, mas o que você deve fazer? Você lê a instrução seguinte no pergaminho...</string>
+   
+   
     <!-- PASSARO -->
         <!-- 22 -->
             <string name="passaro_22_1">Você abre a porta e entra em uma saleta. No canto, há um grande baú de madeira.
@@ -213,13 +219,6 @@
             <string name="passaro_34_2">A primeira linha é só um número. Você deduz que agora deve procurar a Exposição 20.</string>
             <string name="passaro_34_3">Lentamente, segue naquela direção. Espere um pouco - está ouvindo um ronronar?</string>
             <string name="passaro_34_4">Animado, você apressa o passo.</string>
-    <string name="title_activity_esfinge_22">Esfinge_22</string>
-    <string name="title_activity_sandalia_35">Sandalia_35</string>
-    <string name="title_activity_vaso_15">Vaso_15</string>
-    <string name="title_activity_moedas_9">Moedas_9</string>
-    
-
-
 
 
 </resources>
