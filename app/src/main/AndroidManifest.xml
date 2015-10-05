@@ -172,6 +172,14 @@
             android:name=".Vaso.Vaso_31"
             android:label="@string/title_activity_vaso_31" >
         </activity>
+        <activity
+            android:name=".Capacete.Capacete_22"
+            android:label="@string/title_activity_capacete_22" >
+        </activity>
+        <activity
+            android:name=".Capacete.Capacete_14"
+            android:label="@string/title_activity_capacete_14" >
+        </activity>
     </application>
 
 </manifest>

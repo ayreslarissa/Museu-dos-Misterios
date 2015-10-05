@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="@string/vaso_31_1"
         android:id="@+id/textView_vaso_31"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_large"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:layout_alignParentTop="true"
@@ -32,13 +32,13 @@
         android:layout_height="wrap_content"
         android:text="@string/text_proximo"
         android:id="@+id/button_vaso_31_proximo"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_large"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:background="@android:color/transparent"
         android:layout_alignParentBottom="true"
-        android:layout_alignRight="@+id/imageView_vaso_31"
-        android:layout_alignEnd="@+id/imageView_vaso_31" />
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 
 
 </RelativeLayout>

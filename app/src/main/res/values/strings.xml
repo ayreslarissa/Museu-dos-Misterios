@@ -61,9 +61,24 @@
 
 
     <!-- CAPACETE -->
+
+        <!-- 14 -->
+            <string name="capacete_14_1">Boa escolha! A placa balança. Atrás dela, você vê um buraco.
+                Dentro do buraco há uma chave romana. É dela que você precisa para destrancar o portão de ferro!</string>
+            <string name="capacete_14_2">Você põe a chave na mochila, pula para fora do mosaico e corre de
+                volta ao saguão de entrada de onde vai seguir para outra ala do museu.</string>
+
         <!-- 17 -->
             <string name="capacete_17_1">Você está parado no saguão de entrada. Quatro portas conduzem a direções diferentes.
                 Você deve escolher um deles. Que ala do museu você deve visitar?</string>
+
+        <!-- 22 -->
+            <string name="capacete_22_1">Nada acontece. Você apertou o número errado!
+                O diagrama mostra onde fica o 100 em uma linha numérica. </string>
+            <string name="capacete_22_2">O número 99 é só 1 a menos que 100.
+                É só um pouco menos que a metade entre 0 e 200. </string>
+            <string name="capacete_22_3">O mecanismo se reverte. O mosaico começa a descer.
+                Rápido, tente de novo antes que seja tarde demais!</string>
 
         <!-- 26 -->
             <string name="capacete_26_1">Você segue a indicação para a ala Greco-romana. Para de andar um segundo e presta atenção -
@@ -135,6 +150,9 @@
         <!-- 27 -->
             <string name="vaso_28_1">Você desce tranquilamente até o fim da escada, de três em três degraus. Enquanto desce, vê a armadilha que os ladrões montaram no degrau 16.
                 No fim da escada, você encontra uma passagem iluminada por chamas tremulantes.</string>
+
+        <!-- 31 -->
+            <string name="vaso_31_1">Você lê a inscrição na placa:</string>
 
         <!-- 37 -->
             <string name="vaso_37_1">Os números em cada linha de um quadrado mágico sempre resultam no mesmo "número mágico".
@@ -234,4 +252,6 @@
             <string name="passaro_34_3">Lentamente, segue naquela direção. Espere um pouco - está ouvindo um ronronar?</string>
             <string name="passaro_34_4">Animado, você apressa o passo.</string>
     <string name="title_activity_vaso_31">Vaso_31</string>
+    <string name="title_activity_capacete_22">Capacete_22</string>
+    <string name="title_activity_capacete_14">Capacete_14</string>
 </resources>

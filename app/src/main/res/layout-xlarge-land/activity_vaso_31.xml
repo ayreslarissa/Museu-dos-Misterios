@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="@string/vaso_31_1"
         android:id="@+id/textView_vaso_31"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_xlarge"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:layout_alignParentTop="true"
@@ -23,22 +23,21 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView_vaso_31"
         android:src="@drawable/moeda_31"
-        android:layout_centerHorizontal="true"
-        android:layout_above="@+id/button_vaso_31_proximo"
-        android:layout_below="@+id/textView_vaso_31" />
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/text_proximo"
         android:id="@+id/button_vaso_31_proximo"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_xlarge"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:background="@android:color/transparent"
         android:layout_alignParentBottom="true"
-        android:layout_alignRight="@+id/imageView_vaso_31"
-        android:layout_alignEnd="@+id/imageView_vaso_31" />
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 
 
 </RelativeLayout>
