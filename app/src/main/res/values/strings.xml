@@ -146,6 +146,12 @@
                 Nelas há números romanos, mas você acha que não estão em ordem.</string>
             <string name="moeda_6_2">Alguém rabiscou com giz algumas palavras na mesa:</string>
 
+        <!-- 9 -->
+            <string name="moeda_9_1">Escolheu o mosaico certo!
+                Você pisa no mosaico e ouve o barulho de maquinaria antiga em movimento. </string>
+            <string name="moeda_9_2">O mosaico começa a subir.
+                Você é levado para cima até seus olhos ficarem no nível de uma placa de pedra bem alta, na parede.</string>
+
         <!-- 16 -->
             <string name="moeda_16_1">A Exposição 10 é de matemática grega. Diversas figuras, palavras e uma fileira
                 de números estão entalhadas em uma tábua de pedra. Há uma etiqueta embaixo - parece um quebra-cabeça.
@@ -227,4 +233,5 @@
             <string name="passaro_34_2">A primeira linha é só um número. Você deduz que agora deve procurar a Exposição 20.</string>
             <string name="passaro_34_3">Lentamente, segue naquela direção. Espere um pouco - está ouvindo um ronronar?</string>
             <string name="passaro_34_4">Animado, você apressa o passo.</string>
+    <string name="title_activity_vaso_31">Vaso_31</string>
 </resources>

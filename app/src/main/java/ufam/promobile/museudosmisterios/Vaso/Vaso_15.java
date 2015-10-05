@@ -3,7 +3,7 @@ package ufam.promobile.museudosmisterios.Vaso;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
@@ -12,7 +12,7 @@ import android.widget.TextView;
 import ufam.promobile.museudosmisterios.R;
 import ufam.promobile.museudosmisterios.Sandalia.Sandalia_35;
 
-public class Vaso_15 extends ActionBarActivity {
+public class Vaso_15 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -168,6 +168,10 @@
             android:name=".Moeda.Moedas_9"
             android:label="@string/title_activity_moedas_9" >
         </activity>
+        <activity
+            android:name=".Vaso.Vaso_31"
+            android:label="@string/title_activity_vaso_31" >
+        </activity>
     </application>
 
 </manifest>
