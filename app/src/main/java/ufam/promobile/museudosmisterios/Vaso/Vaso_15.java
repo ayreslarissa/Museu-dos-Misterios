@@ -1,11 +1,16 @@
 package ufam.promobile.museudosmisterios.Vaso;
 
-import android.support.v7.app.ActionBarActivity;
+import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+import android.support.v7.app.ActionBarActivity;
+import android.view.View;
+import android.view.WindowManager;
+import android.widget.Button;
+import android.widget.TextView;
 
 import ufam.promobile.museudosmisterios.R;
+import ufam.promobile.museudosmisterios.Sandalia.Sandalia_35;
 
 public class Vaso_15 extends ActionBarActivity {
 
@@ -13,27 +18,36 @@ public class Vaso_15 extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_vaso_15);
-    }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_vaso_15, menu);
-        return true;
-    }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
+        try {
+            setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
+            getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        } catch (Exception e) {
+            e.printStackTrace();
         }
 
-        return super.onOptionsItemSelected(item);
+        final Button proximoVaso15 = (Button) findViewById(R.id.button_vaso_15_proximo1);
+        final Button voltarVaso15 = (Button) findViewById(R.id.button_vaso_15_voltar);
+        final TextView texto = (TextView) findViewById(R.id.textView_vaso_15_1);
+
+        voltarVaso15.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Vaso_15.this, Sandalia_35.class);
+                startActivity(intent);
+            }
+        });
+
+
+        proximoVaso15.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                texto.setText(R.string.vaso_15_2);
+                proximoVaso15.setVisibility(View.INVISIBLE);
+            }
+        });
+
     }
+
+
 }
