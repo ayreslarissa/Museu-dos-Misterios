@@ -21,6 +21,7 @@ public class Capacete_17 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_capacete_17);
+
         // Orientação Paisagem (Landscape)
         try {
             setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);

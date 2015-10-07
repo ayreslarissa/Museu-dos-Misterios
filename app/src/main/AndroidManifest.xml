@@ -169,6 +169,22 @@
             android:label="@string/title_activity_moedas_9" >
         </activity>
         <activity
+            android:name=".Sandalia.Sandalia_18"
+            android:label="@string/title_activity_sandalia_18" >
+        </activity>
+        <activity
+            android:name=".Moeda.Moeda_31"
+            android:label="@string/title_activity_moeda_31" >
+        </activity>
+        <activity
+            android:name=".Capacete.Capacete_41"
+            android:label="@string/title_activity_capacete_41" >
+        </activity>
+        <activity
+            android:name=".Passaro.Passaro_10"
+            android:label="@string/title_activity_passaro_10" >
+        </activity>
+        <activity
             android:name=".Vaso.Vaso_31"
             android:label="@string/title_activity_vaso_31" >
         </activity>
