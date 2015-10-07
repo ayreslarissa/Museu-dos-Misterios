@@ -236,6 +236,12 @@
    
    
     <!-- PASSARO -->
+
+        <!-- 7 -->
+            <string name="passaro_7_1">A passagem adiante está bloqueada por uma armadura em tamanho real de um cavaleiro, com a espada erguida.
+                É assustador - mas é só uma armadura, não é?</string>
+            <string name="passaro_7_2">Na parede acima do cavaleiro, estão expostos muitos escudos.
+                São mais de 40, ao todo. E há algo escrito no 1° escudo:</string>
         <!-- 22 -->
             <string name="passaro_22_1">Você abre a porta e entra em uma saleta. No canto, há um grande baú de madeira.
                                 O aviso era verdadeiro. O dobro de um número ímpar é sempre par:
@@ -261,4 +267,5 @@
     <string name="title_activity_capacete_22">Capacete_22</string>
     <string name="title_activity_capacete_14">Capacete_14</string>
     <string name="title_activity_passaro_7">Passaro_7</string>
+    <string name="title_activity_moeda_33">Moeda_33</string>
 </resources>

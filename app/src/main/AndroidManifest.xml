@@ -184,6 +184,10 @@
             android:name=".Passaro.Passaro_7"
             android:label="@string/title_activity_passaro_7" >
         </activity>
+        <activity
+            android:name=".Moeda.Moeda_33"
+            android:label="@string/title_activity_moeda_33" >
+        </activity>
     </application>
 
 </manifest>
