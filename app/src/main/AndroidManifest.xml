@@ -188,6 +188,14 @@
             android:name=".Moeda.Moeda_33"
             android:label="@string/title_activity_moeda_33" >
         </activity>
+        <activity
+            android:name=".Passaro.Passaro_12"
+            android:label="@string/title_activity_passaro_12" >
+        </activity>
+        <activity
+            android:name=".Capacete.Capacete_37"
+            android:label="@string/title_activity_capacete_37" >
+        </activity>
     </application>
 
 </manifest>

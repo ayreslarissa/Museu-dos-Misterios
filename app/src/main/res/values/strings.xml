@@ -185,6 +185,10 @@
             <string name="moeda_27_1">Você põe a mão dentro do vaso e tateia. É o vaso certo!
                 Você encontra seis discos de argila e um pedaço de papel com algumas instruções:</string>
 
+        <!-- 33 -->
+            <string name="moeda_33_1">Luvas de ferro e um disco brilhante?
+                Onde eles podem estar? Você olha rapidamente o segundo escudo e vê outra mensagem:</string>
+
         <!-- 36 -->
             <string name="moeda_36_1">Você passa o dedo pela fileira de números e pressiona o número 8.
                 A tábua de argila começa a balançar. Você dá um passo para trás. Ela cai no chão, fazendo barulho. Atrás dela, há uma passagem secreta. Uma escadaria estrita conduz a uma passagem iluminada por lâmpadas.
@@ -268,4 +272,6 @@
     <string name="title_activity_capacete_14">Capacete_14</string>
     <string name="title_activity_passaro_7">Passaro_7</string>
     <string name="title_activity_moeda_33">Moeda_33</string>
+    <string name="title_activity_passaro_12">Passaro_12</string>
+    <string name="title_activity_capacete_37">Capacete_37</string>
 </resources>
