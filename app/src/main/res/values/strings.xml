@@ -84,6 +84,12 @@
             <string name="capacete_26_1">Você segue a indicação para a ala Greco-romana. Para de andar um segundo e presta atenção -
                 você ouve uns passinhos delicados atrás, mas por algum motivo, não sente medo.</string>
 
+        <!-- 28 -->
+            <string name="capacete_28_1">Você segue as indicações até as exposições da Idade Média.
+                            Vê armaduras ao longo das paredes e escudos com brasões. </string>
+            <string name="capacete_28_2">Parece que a qualquer momento um rei e seu séquito aparecerão no corredor.
+                            Espere um pouco - o que é aquilo? São olhos brilhando na escuridão?</string>
+
         <!-- 32 -->
             <string name="capacete_32_1">Se você pisar no número 16, cairá na armadilha dos ladrões!
                 Você precisa contar de três em três para econtrar os degraus seguros: 3, 6, 9, 12, 15, 18, 21...
@@ -254,4 +260,5 @@
     <string name="title_activity_vaso_31">Vaso_31</string>
     <string name="title_activity_capacete_22">Capacete_22</string>
     <string name="title_activity_capacete_14">Capacete_14</string>
+    <string name="title_activity_passaro_7">Passaro_7</string>
 </resources>

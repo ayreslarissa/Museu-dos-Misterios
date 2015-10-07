@@ -180,6 +180,10 @@
             android:name=".Capacete.Capacete_14"
             android:label="@string/title_activity_capacete_14" >
         </activity>
+        <activity
+            android:name=".Passaro.Passaro_7"
+            android:label="@string/title_activity_passaro_7" >
+        </activity>
     </application>
 
 </manifest>
