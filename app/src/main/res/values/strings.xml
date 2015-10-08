@@ -59,6 +59,8 @@
         <string name="title_activity_moeda_31">Moeda_31</string>
         <string name="title_activity_capacete_41">Capacete_41</string>
         <string name="title_activity_passaro_10">Passaro_10</string>
+        <string name="title_activity_sandalia_23">Sandalia_23</string>
+        <string name="title_activity_sandalia_41">Sandalia_41</string>
 
     <!-- Instruções -->
         <string name="text_instrucoes_1">Você está pronto para uma fantástica aventura - com voltas e reviravoltas, muita ação e quebra-cabeças empolgantes para resolver? Então este livro foi feito para você!</string>
@@ -79,9 +81,11 @@
                 Dentro do buraco há uma chave romana. É dela que você precisa para destrancar o portão de ferro!</string>
             <string name="capacete_14_2">Você põe a chave na mochila, pula para fora do mosaico e corre de
                 volta ao saguão de entrada de onde vai seguir para outra ala do museu.</string>
+
         <!-- 17 -->
             <string name="capacete_17_1">Você está parado no saguão de entrada. Quatro portas conduzem a direções diferentes.
                 Você deve escolher um deles. Que ala do museu você deve visitar?</string>
+
         <!-- 22 -->
             <string name="capacete_22_1">Nada acontece. Você apertou o número errado!
                 O diagrama mostra onde fica o 100 em uma linha numérica. </string>
@@ -89,21 +93,26 @@
                 É só um pouco menos que a metade entre 0 e 200. </string>
             <string name="capacete_22_3">O mecanismo se reverte. O mosaico começa a descer.
                 Rápido, tente de novo antes que seja tarde demais!</string>
+
         <!-- 26 -->
             <string name="capacete_26_1">Você segue a indicação para a ala Greco-romana. Para de andar um segundo e presta atenção -
                 você ouve uns passinhos delicados atrás, mas por algum motivo, não sente medo.</string>
+
         <!-- 28 -->
             <string name="capacete_28_1">Você segue as indicações até as exposições da Idade Média.
                             Vê armaduras ao longo das paredes e escudos com brasões. </string>
             <string name="capacete_28_2">Parece que a qualquer momento um rei e seu séquito aparecerão no corredor.
                             Espere um pouco - o que é aquilo? São olhos brilhando na escuridão?</string>
+
         <!-- 32 -->
             <string name="capacete_32_1">Se você pisar no número 16, cairá na armadilha dos ladrões!
                 Você precisa contar de três em três para econtrar os degraus seguros: 3, 6, 9, 12, 15, 18, 21&#8230;
                 O degrau não está na lista.</string>
-        <!-- 41 -->
-            <string name="capacete_41_1">Você corta a corda errada! Todo cordame cai em cima de você. As cordas se enrolam em volta de seus braços e pernas. Você ficou preso!
-                De repente, você sente algo puxando as cordas, com garras e dentes afiados - está livre de novo! </string>
+
+        <!-- 37 -->
+            <string name="capacete_37_1">Você escolheu o escudo errado! O cavaleiro de armadura comeca a andar  na sua direção, movimentando a espada.
+                De repente, porém, uma bola de pelo passa rápido entre as pernas dele. Ele tropeça e cai no chão.</string>
+            <string name="capacete_37_2">Você devia ter escolhido o escudo 28. Esta fileira de números mostra que 28 fica no meio entre 25 e 31.</string>
 
     <!-- ESFINGE -->
         <!-- 5 -->
@@ -256,6 +265,10 @@
                 Assustador! Mas é só uma armadura, não é?</string>
             <string name="passaro_7_2">Na parede acima do cavaleiro, estão expostos muitos escudos.
                 São mais de 40, ao todo. E há algo escrito no 1° escudo:</string>
+        <!-- 12 -->
+            <string name="passaro_12_1">É o escudo certo! Sob ele, há um pedaço de papel dobrado. É o mapa de um ala do museu.</string>
+            <string name="passaro_12_2">Mas onde está o covil do dragão? Não aparece na legenda.
+                Você vira o mapa. Há outra pista no verso.</string>
         <!-- 22 -->
             <string name="passaro_22_1">Você abre a porta e entra em uma saleta. No canto, há um grande baú de madeira.
                                 O aviso era verdadeiro. O dobro de um número ímpar é sempre par:
@@ -277,5 +290,5 @@
             <string name="passaro_34_3">Lentamente, segue naquela direção. Espere um pouco - está ouvindo um ronronar?</string>
             <string name="passaro_34_4">Animado, você apressa o passo.</string>
 
-
+    
 </resources>

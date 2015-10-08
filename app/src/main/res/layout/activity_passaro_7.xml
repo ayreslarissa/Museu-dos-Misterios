@@ -78,4 +78,5 @@
         android:layout_alignBottom="@+id/button_passaro_7_anterior"
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/textView_passaro_7_1" />
+
 </RelativeLayout>

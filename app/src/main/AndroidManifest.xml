@@ -212,6 +212,14 @@
             android:name=".Capacete.Capacete_37"
             android:label="@string/title_activity_capacete_37" >
         </activity>
+        <activity
+            android:name=".Sandalia.Sandalia_23"
+            android:label="@string/title_activity_sandalia_23" >
+        </activity>
+        <activity
+            android:name=".Sandalia.Sandalia_41"
+            android:label="@string/title_activity_sandalia_41" >
+        </activity>
     </application>
 
 </manifest>
