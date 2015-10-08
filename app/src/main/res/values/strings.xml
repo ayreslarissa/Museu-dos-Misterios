@@ -113,7 +113,9 @@
             <string name="capacete_37_1">Você escolheu o escudo errado! O cavaleiro de armadura comeca a andar  na sua direção, movimentando a espada.
                 De repente, porém, uma bola de pelo passa rápido entre as pernas dele. Ele tropeça e cai no chão.</string>
             <string name="capacete_37_2">Você devia ter escolhido o escudo 28. Esta fileira de números mostra que 28 fica no meio entre 25 e 31.</string>
-
+        <!-- 41 -->
+            <string name="capacete_41_1">Você corta a corda errada! Todo cordame cai em cima de você. As cordas se enrolam em volta de seus braços e pernas. Você ficou preso!
+                De repente, você sente algo puxando as cordas, com garras e dentes afiados - está livre de novo! </string>
     <!-- ESFINGE -->
         <!-- 5 -->
             <string name="esfinge_5_1">Você caminha até o baú e tenta erguer a tampa. Está trancada.</string>
