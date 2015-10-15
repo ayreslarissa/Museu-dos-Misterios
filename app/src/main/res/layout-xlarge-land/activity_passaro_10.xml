@@ -15,7 +15,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:fontFamily="@string/fonteFamily"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_xlarge"
         android:textColor="@color/cor_fonte"/>
 
     <ImageView

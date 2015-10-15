@@ -5,24 +5,28 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:background="@color/app_bg"
-    tools:context="ufam.promobile.museudosmisterios.Passaro.Passaro_10">
+    tools:context="ufam.promobile.museudosmisterios.Moeda.Moeda_12">
 
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/textView_passaro_10"
+        android:id="@+id/textView_moeda_12"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:fontFamily="@string/fonteFamily"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_xlarge"
         android:textColor="@color/cor_fonte"/>
 
-    <ImageView
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/imageView_passaro_10"
-        android:layout_below="@+id/textView_passaro_10"
-        android:layout_centerHorizontal="true"
-        android:src="@drawable/passaro_10"/>
+        android:text="@string/text_proximo"
+        android:id="@+id/textView_moeda_12_proximo"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:fontFamily="@string/fonteFamily"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:textColor="@color/cor_fonte"/>
 </RelativeLayout>

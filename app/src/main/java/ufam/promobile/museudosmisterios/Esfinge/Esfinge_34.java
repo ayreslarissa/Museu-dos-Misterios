@@ -8,6 +8,8 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import ufam.promobile.museudosmisterios.Passaro.Passaro_10;
 import ufam.promobile.museudosmisterios.R;
 
 public class Esfinge_34 extends AppCompatActivity {
@@ -115,6 +117,14 @@ public class Esfinge_34 extends AppCompatActivity {
         proximo4.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Intent intent = new Intent(Esfinge_34.this, Esfinge_32.class);
+                startActivity(intent);
+            };
+        });
+
+        //GAMBI QUE DEVE SER TIRADA DEPOIS
+        imagem.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent intent = new Intent(Esfinge_34.this, Passaro_10.class);
                 startActivity(intent);
             };
         });

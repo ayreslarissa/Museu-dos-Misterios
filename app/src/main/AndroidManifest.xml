@@ -213,6 +213,18 @@
             android:label="@string/title_activity_capacete_37" >
         </activity>
         <activity
+            android:name=".Passaro.Passaro_42"
+            android:label="@string/title_activity_passaro_42" >
+        </activity>
+        <activity
+            android:name=".Moeda.Moeda_12"
+            android:label="@string/title_activity_moeda_12" >
+        </activity>
+        <activity
+            android:name=".Sandalia.Sandalia_39"
+            android:label="@string/title_activity_sandalia_39" >
+        </activity>
+        <activity
             android:name=".Sandalia.Sandalia_23"
             android:label="@string/title_activity_sandalia_23" >
         </activity>
