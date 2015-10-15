@@ -121,13 +121,6 @@ public class Esfinge_34 extends AppCompatActivity {
             };
         });
 
-        //GAMBI QUE DEVE SER TIRADA DEPOIS
-        imagem.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                Intent intent = new Intent(Esfinge_34.this, Passaro_10.class);
-                startActivity(intent);
-            };
-        });
 
     }
 }
