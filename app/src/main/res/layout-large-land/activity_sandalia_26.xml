@@ -5,46 +5,36 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:background="@color/app_bg"
-    tools:context="ufam.promobile.museudosmisterios.Sandalia.Sandalia_39">
-
+    tools:context="ufam.promobile.museudosmisterios.Sandalia.Sandalia_26">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/textView_sandalia_39_1"
+        android:text="New Text"
+        android:id="@+id/textView_sandalia_26_1"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
         android:fontFamily="@string/fonteFamily"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_large"
         android:textColor="@color/cor_fonte"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/imageView_sandalia_39_1"
-        android:layout_below="@+id/textView_sandalia_39_1"
-        android:src="@drawable/sandalia_39"
-        android:layout_centerHorizontal="true" />
+        android:id="@+id/imageView_sandalia_26"
+        android:layout_below="@+id/textView_sandalia_26_1"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/sandalia_26_panela_menor"
+        android:layout_marginTop="10dp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/textView_sandalia_39_2"
+        android:text="New Text"
+        android:id="@+id/textView_sandalia_26_2"
+        android:layout_below="@+id/imageView_sandalia_26"
+        android:layout_centerHorizontal="true"
         android:fontFamily="@string/fonteFamily"
         android:textSize="20sp"
         android:textColor="@color/cor_fonte"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/textView_sandalia_39_3"
-        android:fontFamily="@string/fonteFamily"
-        android:textSize="20sp"
-        android:textColor="@color/cor_fonte"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_marginTop="10dp"/>
 </RelativeLayout>

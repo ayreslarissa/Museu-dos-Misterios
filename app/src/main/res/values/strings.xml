@@ -59,11 +59,19 @@
         <string name="title_activity_moeda_31">Moeda_31</string>
         <string name="title_activity_capacete_41">Capacete_41</string>
         <string name="title_activity_passaro_10">Passaro_10</string>
-    <string name="title_activity_passaro_42">Passaro_42</string>
-    <string name="title_activity_moeda_12">Moeda_12</string>
-    <string name="title_activity_sandalia_39">Sandalia_39</string>
-    <string name="title_activity_sandalia_23">Sandalia_23</string>
-    <string name="title_activity_sandalia_41">Sandalia_41</string>
+        <string name="title_activity_passaro_42">Passaro_42</string>
+        <string name="title_activity_moeda_12">Moeda_12</string>
+        <string name="title_activity_sandalia_39">Sandalia_39</string>
+        <string name="title_activity_sandalia_23">Sandalia_23</string>
+        <string name="title_activity_sandalia_41">Sandalia_41</string>
+        <string name="title_activity_moeda_19">Moeda_19</string>
+        <string name="title_activity_vaso_43">Vaso_43</string>
+        <string name="title_activity_sandalia_26">Sandalia_26</string>
+        <string name="title_activity_passaro_5">Passaro_5</string>
+        <string name="title_activity_vaso_14">Vaso_14</string>
+        <string name="title_activity_moeda_41">Moeda_41</string>
+        <string name="title_activity_esfinge_19">Esfinge_19</string>
+        <string name="title_activity_esfinge_30">Esfinge_30</string>
 
     <!-- Instruções -->
         <string name="text_instrucoes_1">Você está pronto para uma fantástica aventura - com voltas e reviravoltas, muita ação e quebra-cabeças empolgantes para resolver? Então este livro foi feito para você!</string>
@@ -106,6 +114,10 @@
         <string name="capacete_32_1">Se você pisar no número 16, cairá na armadilha dos ladrões!
             Você precisa contar de três em três para econtrar os degraus seguros: 3, 6, 9, 12, 15, 18, 21&#8230;
             O degrau não está na lista.</string>
+    <!-- 37 -->
+        <string name="capacete_37_1">Você escolheu o escudo errado! O cavaleiro de armadura comeca a andar na sua direção, movimentando
+            a espada.De repente, porém, uma bola de pelo passa rápido entre as pernas dele. Ele tropeça e cai no chão.</string>
+        <string name="capacete_37_2">Você devia ter escolhido o escudo 28. Esta fileira de números mostra que 28 fica no meio entre 25 e 31.</string>
     <!-- 41 -->
         <string name="capacete_41_1">Você corta a corda errada! Todo cordame cai em cima de você. As cordas se enrolam em volta de seus braços e pernas. Você ficou preso!
             De repente, você sente algo puxando as cordas, com garras e dentes afiados - está livre de novo! </string>
@@ -161,6 +173,14 @@
             mas 5.001 tem mais milhares, portanto, é maior.</string>
         <string name="vaso_6_2">A tabela abaixo mostra que o número 4.999 tem mais centenas, dezenas e unidades que 5.001,
             mas 5.001 tem mais milhares, portanto, é maior.</string>
+    <!-- 14 -->
+        <string name="vaso_14_1">Você fez a escolha certa! Agora, a mensagem na panela diz alguma coisa sobre um sepulcro. Você olha
+            ao redor. Lá está! Ao lado do navio viquingue há uma reprodução do sepulcro em forma de colina, em tamanho real.</string>
+        <string name="vaso_14_2">Os visitantes podem entrar para ver como o tesouro dos viquingues foi encontrado. Você caminha até
+            a entrada. Depois de tudo o que já aconteceu, você está nervoso. De repente, você ouve um "miau". Com isso, sente-se
+            seguro para prosseguir.</string>
+        <string name="vaso_14_3">A entrada do sepulcro está bloqueada por uma porta de madeira com dois trincos etiquetados e um
+            aviso com instruções. Você as lê com atenção e decide qual trinco vai girar. </string>
     <!-- 15 -->
         <string name="vaso_15_1">Essa não! Você escolheu o portão errado. Há 16 quadrados ao todo, 7 dos quais são brancos.
             Isso é menos que a metade. </string>
@@ -179,6 +199,10 @@
     <!-- 37 -->
         <string name="vaso_37_1">Os números em cada linha de um quadrado mágico sempre resultam no mesmo "número mágico".
             Os números nas colunas e diagonais também dão o número mágico. Verifique:</string>
+    <!-- 43 -->
+        <string name="vaso_43_1"> Você tamborilou o número errado! O lobo ganha vida! Vira-se para você, mostrando os dentes. Ele vai
+            mordê-lo! De repente, algo pula do mastro e o derruba no convés, longe do alcance do lobo. O fator de um número permite a
+            divisão desse número sem resto. 10 é o fator de 20, mas 12 não é.</string>
 
 
     <!-- MOEDA -->
@@ -199,6 +223,10 @@
         <string name="moeda_16_1">A Exposição 10 é de matemática grega. Diversas figuras, palavras e uma fileira
             de números estão entalhadas em uma tábua de pedra. Há uma etiqueta embaixo - parece um quebra-cabeça.
             Você decide descobrir qual é o número que falta.</string>
+    <!-- 19 -->
+        <string name="moeda_19_1"> Você está certo! Deve dar 10 batidinhas.Os olhos do lobo emitem um brilho vermelho, que ilumina um
+            objeto a distância. É uma enorme panela de ferro, que parece um caldeirão de bruxa. Você desce do barco e caminha até a
+            panela.</string>
     <!-- 27 -->
         <string name="moeda_27_1">Você põe a mão dentro do vaso e tateia. É o vaso certo!
             Você encontra seis discos de argila e um pedaço de papel com algumas instruções:</string>
@@ -244,6 +272,12 @@
             Sem saber ao certo o que fazer, você lê a instrução seguinte no pergaminho:</string>
         <string name="sandalia_20_2">Você conclui que deve pisar só nos degraus na sequência 3, 6, 9&#8230;
             Mas será que deve incluir o degrau de número 16?</string>
+    <!-- 26 -->
+        <string name="sandalia_26_1">Há uma inscrição na borda da panela:</string>
+        <string name="sandalia_26_2">Olhe - há algo dentro da panela. Você põe a mão lá dentro e pega quatro bolinhas. Cada uma tem
+            um número inscrito. Você acha que as bolinhas são milhares, centenas, dezenas e unidades mencionadas na inscrição.
+            Mas qual é qual? </string>
+        <string name="sandalia_26_3">Ordene as bolinhas para criar o maior número possível.</string>
     <!-- 28 -->
         <string name="sandalia_28_1">Você está certo. A regra para a sequência numérica nos discos é "somar 4".
             A sequência é 1, 5, 9, 17, 21.</string>
@@ -253,14 +287,18 @@
         <string name="sandalia_31_1">Você vê a Exposição 14 imediatamente. É uma enorme coluna de pedra de um templo. Enquanto você anda em direção a ela, a coluna começa a tombar!
             Cuidado! Uma bola de pelo salta sobre o seu peito e o derruba para o lado. A coluna cai no chão - bem onde você estava. Quem ou o que quer você fora do caminho?</string>
         <string name="sandalia_31_2">Você escolheu o número errado. A regra para a sequência númerica nos discos é "somar 4". A sequência é 1, 5, 9, 13, 17, 21.</string>
-
     <!-- 35 -->
-        <string name="sandalia_35_1">Há dois mosaicos no chão, à sua frente.
-            Eles têm padrões diferentes, mas o que você deve fazer? Você lê a instrução seguinte no pergaminho&#8230;</string>
-
+        <string name="sandalia_35_1">Há dois mosaicos no chão, à sua frente.Eles têm padrões diferentes, mas o que você deve fazer? Você lê a instrução seguinte no pergaminho&#8230;</string>
+    <!-- 39 -->
+        <string name="sandalia_39_1">A luz trepidante ilumina um pequno cartão dentro da boca do lobo. É outra instrução!</string>
+        <string name="sandalia_39_2">O lobo tem 10 dentes</string>
+        <string name="sandalia_39_3">O lobo tem 12 dentes</string>
 
     <!-- PASSARO -->
 
+    <!-- 5 -->
+        <string name="passaro_5_1">Não, esse não é o maior número. Com ele você não consegue entrar no sepulcro. Em um número,
+            os dígitos de maior valor estão à esquerda, e os mais baixos, à direita.</string>
     <!-- 7 -->
         <string name="passaro_7_1">A passagem adiante está bloqueada por uma armadura de um cavaleiro, com a espada erguida.
             Assustador! Mas é só uma armadura, não é?</string>
@@ -268,6 +306,10 @@
             São mais de 40, ao todo. E há algo escrito no 1° escudo:</string>
     <!-- 10 -->
         <string name="passaro_10_1">Você vê uma mensagem do berrante:</string>
+    <!-- 12 -->
+        <string name="passaro_12_1">É o escudo certo! Sob ele, há um pedaço de papel dobrado. É o mapa de um ala do museu.</string>
+        <string name="passaro_12_2">Mas onde está o covil do dragão? Não aparece na legenda.
+            Você vira o mapa. Há outra pista no verso.</string>
     <!-- 22 -->
         <string name="passaro_22_1">Você abre a porta e entra em uma saleta. No canto, há um grande baú de madeira.
                             O aviso era verdadeiro. O dobro de um número ímpar é sempre par:
@@ -293,6 +335,7 @@
             muito. É uma tempestade! Há relâmpagos por toda parte e você corre para se abrigar - bem na hora. Uma onda gigante desaba
             sobre o barco. Se você estivesse embaixo dela, teria caído no mar. Você soprou errado! O número quadrado é aquele que é
             multiplicado por si mesmo. Quanto é 3 x 3?</string>
+
     
     
 </resources>

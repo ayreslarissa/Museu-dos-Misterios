@@ -14,6 +14,7 @@ import android.widget.TextView;
 import ufam.promobile.museudosmisterios.Esfinge.Esfinge_34;
 import ufam.promobile.museudosmisterios.Play;
 import ufam.promobile.museudosmisterios.R;
+import ufam.promobile.museudosmisterios.Sandalia.Sandalia_39;
 
 public class Capacete_17 extends AppCompatActivity {
 
@@ -45,7 +46,7 @@ public class Capacete_17 extends AppCompatActivity {
         //Porta 2
         porta2.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent i = new Intent(Capacete_17.this, Esfinge_34.class);
+                Intent i = new Intent(Capacete_17.this, Sandalia_39.class);
                 startActivityForResult(i, 1);
             };
         });
