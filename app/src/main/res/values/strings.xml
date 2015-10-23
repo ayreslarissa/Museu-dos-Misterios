@@ -122,49 +122,49 @@
         <string name="capacete_41_1">Você corta a corda errada! Todo cordame cai em cima de você. As cordas se enrolam em volta de seus braços e pernas. Você ficou preso!
             De repente, você sente algo puxando as cordas, com garras e dentes afiados - está livre de novo! </string>
 
+       
     <!-- ESFINGE -->
+        <!-- 5 -->
+            <string name="esfinge_5_1">Você caminha até o baú e tenta erguer a tampa. Está trancada.</string>
+            <string name="esfinge_5_2">Num dos lados do baú há um misterioso quadrado com números gravados na madeira. </string>
+            <string name="esfinge_5_3">Você olha com atenção e percebe que há um inscrição abaixo:</string>
+        <!-- 8 -->
+            <string name="esfinge_8_1">Você passa o dedo pela fileira de números e pressiona o número 9. Nada acontece.
+                Você está prestes a se virar quando ouve um forte "miau" vindo por trás
+                - talvez seja melhor pesar um pouquinho mais!</string>
+            <string name="esfinge_8_2">Os lados das figuras são a chave. Um triângulo tem 3 lados.
+                Um quadrado tem 4 lados portanto, triângulo + quadrado = 3+4 = 7.
+                Um hexágono tem 6 lados portanto, quadrado + hexágono = 4 + 6 = 10. </string>
+            <string name="esfinge_8_3">Quantos lados tem um pentágono? Quanto é 3 + 5?</string>
+        <!-- 10 -->
+            <string name="title_activity_esfinge_10">Esfinge_10</string>
+            <string name="esfinge_10_1">As galerias são escuras e assustadoras. Uma luz vermelha piscando dentro de um display de vidro
+                chama sua atenção. Você vê dois vasos lá dentro. Estão numerados 24 e 25; e alguém colou um cartão na tampa de vidro:</string>
+            <string name="esfinge_10_proximo">Próximo</string>
+            <string name="esfinge_10_2">Qual o vaso você escolhe? 25 ou 24?</string>
+        <!-- 22 -->
+            <string name="esfinge_22_1">Você volta. Passa pela porta, ao longo do corredor, sobe os degraus (de três em três) e
+                volta à ala Greco-Romana.</string>
+            <string name="esfinge_22_2">Mas e essa história de padrões? Enquanto você volta em direção ao saguão de entrada,
+                vê uma placa indicando a Exposição de Mosaico. É isso! Mosaicos - eles têm padrões! Você segue a indicação.
+                Lá vem aquele som de ronronar de novo&#8230; o que será?</string>
+        <!-- 32 -->
+            <string name="esfinge_32_1">Você olha os machados expostos. Têm etiquetas com seus pesos em gramas.</string>
+        <!-- 34 -->
+            <string name="esfinge_34_1">Você caminha pelo corredor em direção à ala dos Viquingues. Alguém deixou um prato de leite
+                perto de uma coluna. Você ouve um ronronar e vê a ponta de um rabo.</string>
+            <string name="esfinge_34_2">Mais adiante, você vê um barco viquingue. Está cercado de amostras de espadas, machados,
+                capacetes com chifres e joias, escavadas de um sepulcro. Um rastro de marcas de patinhas sujas de leite o conduz a uma
+                caixa de vidro.</string>
+            <string name="esfinge_34_3">Dentro dela há um esqueleto humano. É o capitão viquingue. Um cartão na caixa traz uma mensagem de arrepiar:</string>
+            <string name="esfinge_34_4">Um vento frio sobe pelas galerias e agita as velas do barco&#8230;</string>
+        <!-- 38 -->
+            <string name="esfinge_38_1">É o machado certo! Na cabeça do machado você vê uma instrução:</string>
+            <string name="esfinge_38_2">"Leve-me a bordo do navio Viquingue"</string>
+        <!-- 42 -->
+            <string name="esfinge_42_1">Você coloca os discos em ordem. O que falta deve ficar claro!</string>
 
-    <!-- 5 -->
-        <string name="esfinge_5_1">Você caminha até o baú e tenta erguer a tampa. Está trancada.</string>
-        <string name="esfinge_5_2">Num dos lados do baú há um misterioso quadrado com números gravados na madeira. </string>
-        <string name="esfinge_5_3">Você olha com atenção e percebe que há um inscrição abaixo:</string>
-    <!-- 8 -->
-        <string name="esfinge_8_1">Você passa o dedo pela fileira de números e pressiona o número 9. Nada acontece.
-            Você está prestes a se virar quando ouve um forte "miau" vindo por trás
-            - talvez seja melhor pesar um pouquinho mais!</string>
-        <string name="esfinge_8_2">Os lados das figuras são a chave. Um triângulo tem 3 lados.
-            Um quadrado tem 4 lados portanto, triângulo + quadrado = 3+4 = 7.
-            Um hexágono tem 6 lados portanto, quadrado + hexágono = 4 + 6 = 10. </string>
-        <string name="esfinge_8_3">Quantos lados tem um pentágono? Quanto é 3 + 5?</string>
-    <!-- 10 -->
-        <string name="title_activity_esfinge_10">Esfinge_10</string>
-        <string name="esfinge_10_1">As galerias são escuras e assustadoras. Uma luz vermelha piscando dentro de um display de vidro
-            chama sua atenção. Você vê dois vasos lá dentro. Estão numerados 24 e 25; e alguém colou um cartão na tampa de vidro:</string>
-        <string name="esfinge_10_proximo">Próximo</string>
-        <string name="esfinge_10_2">Qual o vaso você escolhe? 25 ou 24?</string>
-    <!-- 22 -->
-        <string name="esfinge_22_1">Você volta. Passa pela porta, ao longo do corredor, sobe os degraus (de três em três) e
-            volta à ala Greco-Romana.</string>
-        <string name="esfinge_22_2">Mas e essa história de padrões? Enquanto você volta em direção ao saguão de entrada,
-            vê uma placa indicando a Exposição de Mosaico. É isso! Mosaicos - eles têm padrões! Você segue a indicação.
-            Lá vem aquele som de ronronar de novo&#8230; o que será?</string>
-    <!-- 32 -->
-        <string name="esfinge_32_1">Você olha os machados expostos. Têm etiquetas com seus pesos em gramas.</string>
-    <!-- 34 -->
-        <string name="esfinge_34_1">Você caminha pelo corredor em direção à ala dos Viquingues. Alguém deixou um prato de leite
-            perto de uma coluna. Você ouve um ronronar e vê a ponta de um rabo.</string>
-        <string name="esfinge_34_2">Mais adiante, você vê um barco viquingue. Está cercado de amostras de espadas, machados,
-            capacetes com chifres e joias, escavadas de um sepulcro. Um rastro de marcas de patinhas sujas de leite o conduz a uma
-            caixa de vidro.</string>
-        <string name="esfinge_34_3">Dentro dela há um esqueleto humano. É o capitão viquingue. Um cartão na caixa traz uma mensagem de arrepiar:</string>
-        <string name="esfinge_34_4">Um vento frio sobe pelas galerias e agita as velas do barco&#8230;</string>
-    <!-- 38 -->
-        <string name="esfinge_38_1">É o machado certo! Na cabeça do machado você vê uma instrução:</string>
-        <string name="esfinge_38_2">"Leve-me a bordo do navio Viquingue"</string>
-    <!-- 42 -->
-        <string name="esfinge_42_1">Você coloca os discos em ordem. O que falta deve ficar claro!</string>
-    
-    
+   
     <!-- VASO -->
 
     <!-- 6 -->
@@ -206,45 +206,46 @@
 
 
     <!-- MOEDA -->
+        <!-- 6 -->
+            <string name="moeda_6_1">Há 10 caixas de madeira entalhadas na Exposição 13.
+                Nelas há números romanos, mas você acha que não estão em ordem.</string>
+            <string name="moeda_6_2">Alguém rabiscou com giz algumas palavras na mesa:</string>
+        <!-- 9 -->
+            <string name="moeda_9_1">Escolheu o mosaico certo!
+                Você pisa no mosaico e ouve o barulho de maquinaria antiga em movimento. </string>
+            <string name="moeda_9_2">O mosaico começa a subir.
+                Você é levado para cima até seus olhos ficarem no nível de uma placa de pedra bem alta, na parede.</string>
+        <!-- 12 -->
+            <string name="moeda_12_1">Você soprou o número de vezes correto! Você vê a luzinha de um lampião na frente do barco, onde está esculpida uma cabeça de lobo.
+                Você sobre mais à frente para enxergar melhor.</string>
+        <!-- 16 -->
+            <string name="moeda_16_1">A Exposição 10 é de matemática grega. Diversas figuras, palavras e uma fileira
+                de números estão entalhadas em uma tábua de pedra. Há uma etiqueta embaixo - parece um quebra-cabeça.
+                Você decide descobrir qual é o número que falta.</string>
+        <!-- 19 -->
+            <string name="moeda_19_1">Você está certo! Deve dar 10 batidinhas.
+                Os olhos do lobo emitem um brilho vermelho, que ilumina um objeto a distância. É uma enorme panela de ferro, que parece um caldeirão de bruxa.
+                Você desce do barco e caminha até a panela.</string>
+        <!-- 27 -->
+            <string name="moeda_27_1">Você põe a mão dentro do vaso e tateia. É o vaso certo!
+                Você encontra seis discos de argila e um pedaço de papel com algumas instruções:</string>
+        <!-- 31 -->
+            <string name="moeda_31_1">  É a corda certa! A corda 12 chega ao topo do mastro do navio. Ela está segurando alguma
+                coisa lá. Você corta a corda e, como que por magia, todas as cordas caem e um estranho objeto desliza pelo mastro.
+                É um berrante enorme. Os viquingues sopravam o berrante para alertar que estavam chegando.</string>
+        <!-- 33 -->
+            <string name="moeda_33_1">Luvas de ferro e um disco brilhante?
+                Onde eles podem estar? Você olha rapidamente o segundo escudo e vê outra mensagem:</string>
+        <!-- 36 -->
+            <string name="moeda_36_1">Você passa o dedo pela fileira de números e pressiona o número 8.
+                A tábua de argila começa a balançar. Você dá um passo para trás. Ela cai no chão, fazendo barulho. Atrás dela, há uma passagem secreta. Uma escadaria estrita conduz a uma passagem iluminada por lâmpadas.
+            </string>
+            <string name="moeda_36_2">Os lados das figuras eram a chave:
+                                            - Um triângulo tem 3 lados.
+                                            - Um quadrado tem 4 lados.
+                                      Portanto,  triângulo + quadrado = 3+4 = 7.</string>
 
-    <!-- 6 -->
-        <string name="moeda_6_1">Há 10 caixas de madeira entalhadas na Exposição 13.
-            Nelas há números romanos, mas você acha que não estão em ordem.</string>
-        <string name="moeda_6_2">Alguém rabiscou com giz algumas palavras na mesa:</string>
-    <!-- 9 -->
-        <string name="moeda_9_1">Escolheu o mosaico certo!
-            Você pisa no mosaico e ouve o barulho de maquinaria antiga em movimento. </string>
-        <string name="moeda_9_2">O mosaico começa a subir.
-            Você é levado para cima até seus olhos ficarem no nível de uma placa de pedra bem alta, na parede.</string>
-    <!-- 12 -->
-        <string name="moeda_12_1">Você soprou o número de vezes correto! Você vê a luzinha de um lampião na frente do barco,
-            onde está esculpida uma cabeça de lobo. Você sobre mais à frente para enxergar melhor.</string>
-    <!-- 16 -->
-        <string name="moeda_16_1">A Exposição 10 é de matemática grega. Diversas figuras, palavras e uma fileira
-            de números estão entalhadas em uma tábua de pedra. Há uma etiqueta embaixo - parece um quebra-cabeça.
-            Você decide descobrir qual é o número que falta.</string>
-    <!-- 19 -->
-        <string name="moeda_19_1"> Você está certo! Deve dar 10 batidinhas.Os olhos do lobo emitem um brilho vermelho, que ilumina um
-            objeto a distância. É uma enorme panela de ferro, que parece um caldeirão de bruxa. Você desce do barco e caminha até a
-            panela.</string>
-    <!-- 27 -->
-        <string name="moeda_27_1">Você põe a mão dentro do vaso e tateia. É o vaso certo!
-            Você encontra seis discos de argila e um pedaço de papel com algumas instruções:</string>
-    <!-- 31 -->
-        <string name="moeda_31_1">  É a corda certa! A corda 12 chega ao topo do mastro do navio. Ela está segurando alguma
-            coisa lá. Você corta a corda e, como que por magia, todas as cordas caem e um estranho objeto desliza pelo mastro.
-            É um berrante enorme. Os viquingues sopravam o berrante para alertar que estavam chegando.</string>
-    <!-- 33 -->
-        <string name="moeda_33_1">Luvas de ferro e um disco brilhante?
-            Onde eles podem estar? Você olha rapidamente o segundo escudo e vê outra mensagem:</string>
-    <!-- 36 -->
-        <string name="moeda_36_1">Você passa o dedo pela fileira de números e pressiona o número 8.
-            A tábua de argila começa a balançar. Você dá um passo para trás. Ela cai no chão, fazendo barulho. Atrás dela, há uma passagem secreta. Uma escadaria estrita conduz a uma passagem iluminada por lâmpadas.
-        </string>
-        <string name="moeda_36_2">Os lados das figuras eram a chave:
-                                        - Um triângulo tem 3 lados.
-                                        - Um quadrado tem 4 lados.
-                                  Portanto,  triângulo + quadrado = 3+4 = 7.</string>
+   
 
         <string name="moeda_36_3">Você acertou quando respondeu 8.
             Um pentágono tem 5 lados; portanto triângulo + pentágono = 3 + 5 = 8.</string>
@@ -272,6 +273,14 @@
             Sem saber ao certo o que fazer, você lê a instrução seguinte no pergaminho:</string>
         <string name="sandalia_20_2">Você conclui que deve pisar só nos degraus na sequência 3, 6, 9&#8230;
             Mas será que deve incluir o degrau de número 16?</string>
+
+    <!-- 23 -->
+        <string name="sandalia_23_1">Você segue o mapa até a Exposição 7. Estava correto, 7 é o número primo mais alto entre 1 e 9.
+            O gabinete na Exposição 7 contém um lindo colar de contas. Há algo escrito no vidro:</string>
+        <string name="sandalia_23_2">Mas há centenas de contas no colar! Você não tem tempo para contar todas -
+            os ladrões estão se aproximando da coleção! De repente, você vê um cartão impresso:</string>
+        <string name="sandalia_23_3">Agora você pode calcular a quantidade!</string>
+
     <!-- 26 -->
         <string name="sandalia_26_1">Há uma inscrição na borda da panela:</string>
         <string name="sandalia_26_2">Olhe - há algo dentro da panela. Você põe a mão lá dentro e pega quatro bolinhas. Cada uma tem
@@ -288,11 +297,30 @@
             Cuidado! Uma bola de pelo salta sobre o seu peito e o derruba para o lado. A coluna cai no chão - bem onde você estava. Quem ou o que quer você fora do caminho?</string>
         <string name="sandalia_31_2">Você escolheu o número errado. A regra para a sequência númerica nos discos é "somar 4". A sequência é 1, 5, 9, 13, 17, 21.</string>
     <!-- 35 -->
-        <string name="sandalia_35_1">Há dois mosaicos no chão, à sua frente.Eles têm padrões diferentes, mas o que você deve fazer? Você lê a instrução seguinte no pergaminho&#8230;</string>
+        <string name="sandalia_35_1">Há dois mosaicos no chão, à sua frente.
+            Eles têm padrões diferentes, mas o que você deve fazer? Você lê a instrução seguinte no pergaminho&#8230;</string>
+    <!-- 37 -->
+        <string name="sandalia_37_1">Você acha que há 222 contas no colar. A pista mandava somar os dígitos. 2+2+2=6. Você acha que deve ir à Exposição 6, "Lendas".</string>
+        <string name="sandalia_37_2">A exposição parece a entrada de uma caverna. Você está com medo. Sente cheiro de enxofre. Olhos grandes e amarelos o observam na escuridão!
+            De repente, uma chama é lançada em sua direção - é um dragão! Você corre para se proteger. Econtrou o covil do dragão, mas não pode se aproximar.</string>
+        <string name="sandalia_37_3">Sua resposta à última pista estava errada! Há 22 contas vermelhas; portanto há 220 contas azuis. Quantas contas são no total?</string>
+
     <!-- 39 -->
         <string name="sandalia_39_1">A luz trepidante ilumina um pequno cartão dentro da boca do lobo. É outra instrução!</string>
         <string name="sandalia_39_2">O lobo tem 10 dentes</string>
         <string name="sandalia_39_3">O lobo tem 12 dentes</string>
+
+        <!-- 41 -->
+            <string name="sandalia_41_1">Você segue o mapa até a Exposição 9, "Cepos".
+                Você não encontra pista e, por isso, examina o cepo com cuidado.
+                Quando se inclina, o instrumento se fecha, prendendo-lhe o pescoço e os punhos.
+                Talvez você nunca consiga fugir!</string>
+            <string name="sandalia_41_2">De repente, algo macio toca sua orelha.
+                Você ouve algo raspar e o cepo se abre. Alguém o libertou, mas quem?
+            </string>
+            <string name="sandalia_41_3">Um número primo só pode ser dividido por 1 e por ele mesmo.
+                O número 9 pode ser dividido por 1 e por ele mesmo. O número 9 pode ser dividido por 9 e por 3;
+                portanto, não é um número primo.</string>
 
     <!-- PASSARO -->
 
@@ -335,6 +363,8 @@
             muito. É uma tempestade! Há relâmpagos por toda parte e você corre para se abrigar - bem na hora. Uma onda gigante desaba
             sobre o barco. Se você estivesse embaixo dela, teria caído no mar. Você soprou errado! O número quadrado é aquele que é
             multiplicado por si mesmo. Quanto é 3 x 3?</string>
+    <string name="title_activity_vaso_9">Vaso_9</string>
+    <string name="title_activity_sandalia_37">Sandalia_37</string>
 
     
     
