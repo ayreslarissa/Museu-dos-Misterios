@@ -12,12 +12,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/textView_vaso_9_1"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="41dp"
         android:textSize="@dimen/tam_font_normal"
         android:textColor="@color/cor_fonte"
-        android:fontFamily="@string/fonteFamily" />
+        android:fontFamily="@string/fonteFamily"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 
     <Button
         android:layout_width="wrap_content"
@@ -38,19 +40,21 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView_vaso_9_1"
         android:src="@drawable/espada3"
-        android:layout_centerVertical="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:visibility="invisible" />
+        android:visibility="invisible"
+        android:layout_below="@+id/textView_vaso_9_1"
+        android:layout_alignBottom="@+id/imageView_vaso_9_2" />
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/imageView_vaso_9_2"
         android:src="@drawable/espada3"
-        android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
-        android:visibility="invisible" />
+        android:visibility="invisible"
+        android:layout_below="@+id/textView_vaso_9_1"
+        android:layout_above="@+id/button_vaso_9_proximo1" />
 
     <ImageView
         android:layout_width="wrap_content"
@@ -60,7 +64,8 @@
         android:layout_alignTop="@+id/imageView_vaso_9_2"
         android:layout_alignRight="@+id/button_vaso_9_proximo1"
         android:layout_alignEnd="@+id/button_vaso_9_proximo1"
-        android:visibility="invisible" />
+        android:visibility="invisible"
+        android:layout_above="@+id/button_vaso_9_proximo1" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -70,10 +75,10 @@
         android:textColor="@color/cor_fonte"
         android:textSize="@dimen/tam_font_normal"
         android:gravity="center"
-        android:layout_above="@+id/button_vaso_9_proximo1"
+        android:visibility="invisible"
+        android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:visibility="invisible" />
+        android:layout_alignParentStart="true" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -95,8 +100,8 @@
         android:textColor="@color/cor_fonte"
         android:textSize="@dimen/tam_font_normal"
         android:gravity="center"
-        android:layout_above="@+id/button_vaso_9_proximo1"
-        android:layout_alignRight="@+id/button_vaso_9_proximo1"
-        android:layout_alignEnd="@+id/button_vaso_9_proximo1"
-        android:visibility="invisible" />
+        android:visibility="invisible"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/imageView_vaso_9_3"
+        android:layout_alignEnd="@+id/imageView_vaso_9_3" />
 </RelativeLayout>

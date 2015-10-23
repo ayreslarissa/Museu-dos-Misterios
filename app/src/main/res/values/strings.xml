@@ -173,6 +173,11 @@
             mas 5.001 tem mais milhares, portanto, é maior.</string>
         <string name="vaso_6_2">A tabela abaixo mostra que o número 4.999 tem mais centenas, dezenas e unidades que 5.001,
             mas 5.001 tem mais milhares, portanto, é maior.</string>
+    <!-- 9 -->
+        <string name="vaso_9_1">Correto! Há 242 contas no colar. A pista mandava somar os dígitos 2 + 4 + 2 = 8.
+            É para lá que você vai, Exposição 8: "Espadas". No gabinete empoeirado, há três espadas.
+            Etiquetas que as espadas foram feitas. Alguém escreveu uma mensagem na poeira&#8230;</string>
+        <string name="vaso_9_2">Se a espada mais antiga você levar, o que fazer ela irá lhe mostrar.</string>
     <!-- 14 -->
         <string name="vaso_14_1">Você fez a escolha certa! Agora, a mensagem na panela diz alguma coisa sobre um sepulcro. Você olha
             ao redor. Lá está! Ao lado do navio viquingue há uma reprodução do sepulcro em forma de colina, em tamanho real.</string>
@@ -365,6 +370,8 @@
             multiplicado por si mesmo. Quanto é 3 x 3?</string>
     <string name="title_activity_vaso_9">Vaso_9</string>
     <string name="title_activity_sandalia_37">Sandalia_37</string>
+    <string name="title_activity_vaso_23">Vaso_23</string>
+    <string name="title_activity_esfinge_13">Esfinge_13</string>
 
     
     

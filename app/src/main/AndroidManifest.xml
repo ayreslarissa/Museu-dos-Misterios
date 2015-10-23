@@ -272,6 +272,14 @@
             android:name=".Sandalia.Sandalia_37"
             android:label="@string/title_activity_sandalia_37" >
         </activity>
+        <activity
+            android:name=".Vaso.Vaso_23"
+            android:label="@string/title_activity_vaso_23" >
+        </activity>
+        <activity
+            android:name=".Esfinge.Esfinge_13"
+            android:label="@string/title_activity_esfinge_13" >
+        </activity>
     </application>
 
 </manifest>
