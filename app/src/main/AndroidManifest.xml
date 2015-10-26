@@ -280,6 +280,18 @@
             android:name=".Esfinge.Esfinge_13"
             android:label="@string/title_activity_esfinge_13" >
         </activity>
+        <activity
+            android:name=".Esfinge.Esfinge_17"
+            android:label="@string/title_activity_esfinge_17" >
+        </activity>
+        <activity
+            android:name=".Passaro.Passaro_36"
+            android:label="@string/title_activity_passaro_36" >
+        </activity>
+        <activity
+            android:name=".Sandalia.Sandalia_33"
+            android:label="@string/title_activity_sandalia_33" >
+        </activity>
     </application>
 
 </manifest>

@@ -141,7 +141,17 @@
             <string name="esfinge_10_1">As galerias são escuras e assustadoras. Uma luz vermelha piscando dentro de um display de vidro
                 chama sua atenção. Você vê dois vasos lá dentro. Estão numerados 24 e 25; e alguém colou um cartão na tampa de vidro:</string>
             <string name="esfinge_10_proximo">Próximo</string>
+        <!-- 13 -->
+            <string name="esfinge_13_1">Quando você vai pegar a espada, ela salta para sua mão! É a certa! No gabinete, você nota um cachecol de seda dobrado onde estava a espada.
+                Há uma mensagem costurada no tecido:</string>
+            <string name="esfinge_13_2">Então você precisa tocar um sino. Com a espada na mão, você se dirige à Exposição 2: "Sinos de igreja".</string>
             <string name="esfinge_10_2">Qual o vaso você escolhe? 25 ou 24?</string>
+
+        <!-- 17 -->
+            <string name="esfinge_17_1">Há uma fileira de sinos antigos expostos. Mas qual deles você deve tocar?
+                Nenhum dos sinos é quadrado - todos têm forma de sino. De repente, você vê os números impressos neles.
+                A pista falava de tocar um sino que não fosse um número quadrado! Qual deles não é um número quadrado? Decida a seguir!</string>
+
         <!-- 22 -->
             <string name="esfinge_22_1">Você volta. Passa pela porta, ao longo do corredor, sobe os degraus (de três em três) e
                 volta à ala Greco-Romana.</string>
@@ -192,6 +202,11 @@
         <string name="vaso_15_2">O mosaico desaba sob seus pés. Você começa a cair em um poço sem fundo.
             No último instante, você agarra a parte de baixo de uma cortina. Lentamente, você consegue subir para fora do buraco.
             Os pedaços do mosaico voltam aos seus lugares.</string>
+    <!-- 23 -->
+        <string name="vaso_23_1">Quando você vai pegar a espada, um miado o faz pular de susto.
+            A espada cai, fincando a ponta no chão, bem onde você estava. Era a espada errada!
+            A espada mais velha é a que tem o número menor na data.</string>
+
     <!-- 26 -->
         <string name="vaso_26_1">Você põe a mão dentro do vaso. Alguma coisa peluda se esfrega em seus dedos!
             Você tira a mão imediatamente de lá. Uma tarântula gigante sai do vaso. Por sorte ela não mordeu!</string>
@@ -372,6 +387,9 @@
     <string name="title_activity_sandalia_37">Sandalia_37</string>
     <string name="title_activity_vaso_23">Vaso_23</string>
     <string name="title_activity_esfinge_13">Esfinge_13</string>
+    <string name="title_activity_esfinge_17">Esfinge_17</string>
+    <string name="title_activity_passaro_36">Passaro_36</string>
+    <string name="title_activity_sandalia_33">Sandalia_33</string>
 
     
     

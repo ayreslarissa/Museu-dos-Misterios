@@ -1,21 +1,18 @@
-package ufam.promobile.museudosmisterios.Vaso;
+package ufam.promobile.museudosmisterios.Sandalia;
 
-import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
-import android.view.View;
 import android.view.WindowManager;
-import android.widget.Button;
 
 import ufam.promobile.museudosmisterios.R;
 
-public class Vaso_23 extends ActionBarActivity {
+public class Sandalia_33 extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_vaso_23);
+        setContentView(R.layout.activity_sandalia_33);
 
         // Orientaçao Paisagem (Landscape)
         try {
@@ -25,15 +22,6 @@ public class Vaso_23 extends ActionBarActivity {
             e.printStackTrace();
         }
 
-        final Button anterior = (Button) findViewById(R.id.button_vaso_23_anterior1);
-
-        anterior.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(Vaso_23.this, Vaso_9.class);
-                startActivity(intent);
-            }
-        });
     }
 
 }
