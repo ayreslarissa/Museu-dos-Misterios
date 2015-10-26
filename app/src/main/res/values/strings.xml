@@ -316,6 +316,13 @@
         <string name="sandalia_31_1">Você vê a Exposição 14 imediatamente. É uma enorme coluna de pedra de um templo. Enquanto você anda em direção a ela, a coluna começa a tombar!
             Cuidado! Uma bola de pelo salta sobre o seu peito e o derruba para o lado. A coluna cai no chão - bem onde você estava. Quem ou o que quer você fora do caminho?</string>
         <string name="sandalia_31_2">Você escolheu o número errado. A regra para a sequência númerica nos discos é "somar 4". A sequência é 1, 5, 9, 13, 17, 21.</string>
+
+   <!-- 33 -->
+        <string name="sandalia_33_1">Você bate no sino com a espada, mas ele não toca, está rachado!
+            Pela rachadura sai uma cobra toda colorida. Ela vai pegar seu pé!      </string>
+        <string name="sandalia_33_2">De repente, como um relâmpago, alguma coisa preta pula sobre o rabo da cobra.
+            A cobra desliza de volta para dentro do sino. Você escolheu o sino errado! 6x6 = 36, 36 é número quadrado.</string>
+
     <!-- 35 -->
         <string name="sandalia_35_1">Há dois mosaicos no chão, à sua frente.
             Eles têm padrões diferentes, mas o que você deve fazer? Você lê a instrução seguinte no pergaminho&#8230;</string>
