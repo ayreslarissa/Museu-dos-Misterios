@@ -257,6 +257,13 @@
             <string name="moeda_19_1">Você está certo! Deve dar 10 batidinhas.
                 Os olhos do lobo emitem um brilho vermelho, que ilumina um objeto a distância. É uma enorme panela de ferro, que parece um caldeirão de bruxa.
                 Você desce do barco e caminha até a panela.</string>
+
+        <!-- 21 -->
+            <string name="moeda_21_1">O dragão se enrola num canto e o observa, desconfiado, enquanto você explora.
+                No fundo da caverna, você encontra um alçapão. "Olhe embaixo do covil do dragão…" - deve ser isso!
+                Há um trinco de ferro no alçapão, mas que não se mexe de jeito nenhum. Agora, você vê outra pista inscrita na madeira…
+            </string>
+
         <!-- 27 -->
             <string name="moeda_27_1">Você põe a mão dentro do vaso e tateia. É o vaso certo!
                 Você encontra seis discos de argila e um pedaço de papel com algumas instruções:</string>
@@ -278,9 +285,13 @@
 
    
 
-        <string name="moeda_36_3">Você acertou quando respondeu 8.
-            Um pentágono tem 5 lados; portanto triângulo + pentágono = 3 + 5 = 8.</string>
+            <string name="moeda_36_3">Você acertou quando respondeu 8.
+                Um pentágono tem 5 lados; portanto triângulo + pentágono = 3 + 5 = 8.</string>
 
+        <!-- 40 -->
+            <string name="moeda_40_1">Você gira o trinco 6 vezes, mas o alçapão ainda está trancado!
+                Metade de  56 é 28. Metada de 28 é 14. Qual é a metade de 14? Rápido, tente de novo antes que o dragão fique nervoso!
+            </string>
 
     <!-- SANDALIA -->
 
@@ -402,6 +413,12 @@
             Uma cabeça enorme sai lentamente da carvena na Exposição das Lendas. O dragão está olhando diretamente para você!
             Agora, você precisa de arco e flecha e corre para a Exposição 5, "Arcos e flechas".</string>
 
+    <!-- 40 -->
+        <string name="passaro_40_1">Você gira o trinco 7 vezes e puxa. É o número certo! O alçapão se mexe e abre.
+            Dentro, há um espelho redondo feito de ouro - um disco brilhante! Você põe o espelho na mochila.
+            Afixada no lado de baixo do alçapão está a página de um livro antigo…
+        </string>
+
     <!-- 42 -->
         <string name="passaro_42_1">Você sopra o berrante e espera. A princípio, nada acontece. Então, o barco começa a balançar
             muito. É uma tempestade! Há relâmpagos por toda parte e você corre para se abrigar - bem na hora. Uma onda gigante desaba
@@ -417,6 +434,9 @@
     <string name="title_activity_capacete_13">Capacete_13</string>
     <string name="title_activity_capacete_5">Capacete_5</string>
     <string name="title_activity_capacete_42">Capacete_42</string>
+    <string name="title_activity_moeda_21">Moeda_21</string>
+    <string name="title_activity_moeda_40">Moeda_40</string>
+    <string name="title_activity_passaro_40">Passaro_40</string>
 
     
     

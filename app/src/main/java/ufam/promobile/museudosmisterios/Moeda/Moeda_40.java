@@ -1,4 +1,4 @@
-package ufam.promobile.museudosmisterios.Capacete;
+package ufam.promobile.museudosmisterios.Moeda;
 
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
@@ -8,15 +8,14 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
 
-import ufam.promobile.museudosmisterios.Moeda.Moeda_21;
 import ufam.promobile.museudosmisterios.R;
 
-public class Capacete_42 extends ActionBarActivity {
+public class Moeda_40 extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_capacete_42);
+        setContentView(R.layout.activity_moeda_40);
 
         // Orientaçao Paisagem (Landscape)
         try {
@@ -26,16 +25,15 @@ public class Capacete_42 extends ActionBarActivity {
             e.printStackTrace();
         }
 
-        final Button proximo = (Button) findViewById(R.id.button_capacete_42_proximo1);
+        final Button anterior = (Button) findViewById(R.id.button_moeda_40_anterior);
 
-        proximo.setOnClickListener(new View.OnClickListener() {
+        anterior.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Capacete_42.this, Moeda_21.class);
-                startActivity(intent);
+                Intent i = new Intent(Moeda_40.this, Moeda_21.class);
+                startActivityForResult(i, 1);
             }
         });
-
 
     }
 

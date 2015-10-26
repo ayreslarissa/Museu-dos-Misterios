@@ -304,6 +304,18 @@
             android:name=".Capacete.Capacete_42"
             android:label="@string/title_activity_capacete_42" >
         </activity>
+        <activity
+            android:name=".Moeda.Moeda_21"
+            android:label="@string/title_activity_moeda_21" >
+        </activity>
+        <activity
+            android:name=".Moeda.Moeda_40"
+            android:label="@string/title_activity_moeda_40" >
+        </activity>
+        <activity
+            android:name=".Passaro.Passaro_40"
+            android:label="@string/title_activity_passaro_40" >
+        </activity>
     </application>
 
 </manifest>
