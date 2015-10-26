@@ -14,7 +14,7 @@
         android:id="@+id/textView_passaro_36"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_large"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:text="@string/passaro_36_1"/>
@@ -27,7 +27,7 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_large"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:background="@android:color/transparent"

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="ufam.promobile.museudosmisterios.Capacete.Capacete_13"
+    android:background="@color/app_bg">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/capacete_13_1"
+        android:id="@+id/textView_capacete_13_1"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="85dp"
+        android:textSize="@dimen/tam_font_large"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:visibility="invisible" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_proximo"
+        android:id="@+id/button_capacete_13_proximo1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="@dimen/tam_font_large"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:visibility="invisible" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_proximo"
+        android:id="@+id/button_capacete_13_proximo2"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="@dimen/tam_font_large"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView_capacete_13_alvo"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/capacete_13"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img_capacete_13_flecha_1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/flecha_m"
+        android:visibility="visible" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img_capacete_13_flecha_2"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/flecha_m"
+        android:visibility="visible" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img_capacete_13_flecha_3"
+        android:src="@drawable/flecha_m"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:visibility="visible" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img_capacete_13_flecha_4"
+        android:src="@drawable/flecha_m"
+        android:visibility="visible"
+        android:layout_above="@+id/txt_flecha_4"
+        android:layout_toLeftOf="@+id/img_capacete_13_flecha_2"
+        android:layout_toStartOf="@+id/img_capacete_13_flecha_2" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img_capacete_13_flecha_5"
+        android:src="@drawable/flecha_m"
+        android:visibility="visible"
+        android:layout_alignTop="@+id/img_capacete_13_flecha_4"
+        android:layout_alignRight="@+id/txt_flecha_5"
+        android:layout_alignEnd="@+id/txt_flecha_5" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="12"
+        android:id="@+id/txt_flecha_1"
+        android:textSize="@dimen/tam_font_large"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:layout_below="@+id/img_capacete_13_flecha_1"
+        android:layout_alignRight="@+id/img_capacete_13_flecha_1"
+        android:layout_alignEnd="@+id/img_capacete_13_flecha_1"
+        android:visibility="visible" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="15"
+        android:id="@+id/txt_flecha_2"
+        android:textSize="@dimen/tam_font_large"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:layout_alignTop="@+id/txt_flecha_1"
+        android:layout_alignRight="@+id/img_capacete_13_flecha_2"
+        android:layout_alignEnd="@+id/img_capacete_13_flecha_2"
+        android:visibility="visible" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="20"
+        android:id="@+id/txt_flecha_3"
+        android:textSize="@dimen/tam_font_large"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:layout_alignTop="@+id/txt_flecha_2"
+        android:layout_alignRight="@+id/textView_capacete_13_1"
+        android:layout_alignEnd="@+id/textView_capacete_13_1"
+        android:visibility="visible" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="25"
+        android:id="@+id/txt_flecha_4"
+        android:textSize="@dimen/tam_font_large"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:visibility="visible"
+        android:layout_alignBottom="@+id/button_capacete_13_proximo1"
+        android:layout_alignRight="@+id/img_capacete_13_flecha_4"
+        android:layout_alignEnd="@+id/img_capacete_13_flecha_4" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="30"
+        android:id="@+id/txt_flecha_5"
+        android:textSize="@dimen/tam_font_large"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/img_capacete_13_flecha_3"
+        android:layout_toStartOf="@+id/img_capacete_13_flecha_3"
+        android:visibility="visible" />
+
+</RelativeLayout>

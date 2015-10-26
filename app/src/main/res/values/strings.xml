@@ -87,6 +87,10 @@
 
     <!-- CAPACETE -->
 
+    <!-- 13 -->
+        <string name="capacete_13_1">Há um arco e várias flechas expostos.
+            Cada flecha tem um número. Mas qual você deve usar? De repente, você vê uma instrução presa no alvo…</string>
+
     <!-- 14 -->
         <string name="capacete_14_1">Boa escolha! A placa balança. Atrás dela, você vê um buraco.
             Dentro do buraco há uma chave romana. É dela que você precisa para destrancar o portão de ferro!</string>
@@ -385,6 +389,12 @@
         <string name="passaro_34_2">A primeira linha é só um número. Você deduz que agora deve procurar a Exposição 20.</string>
         <string name="passaro_34_3">Lentamente, segue naquela direção. Espere um pouco - está ouvindo um ronronar?</string>
         <string name="passaro_34_4">Animado, você apressa o passo.</string>
+
+    <!-- 36 -->
+        <string name="passaro_36_1">Você bate no sino com a espada. Ele toa estridente. É o sino certo - 32 não é um número quadrado.
+            Uma cabeça enorme sai lentamente da carvena na Exposição das Lendas. O dragão está olhando diretamente para você!
+            Agora, você precisa de arco e flecha e corre para a Exposição 5, "Arcos e flechas".</string>
+
     <!-- 42 -->
         <string name="passaro_42_1">Você sopra o berrante e espera. A princípio, nada acontece. Então, o barco começa a balançar
             muito. É uma tempestade! Há relâmpagos por toda parte e você corre para se abrigar - bem na hora. Uma onda gigante desaba
@@ -397,6 +407,9 @@
     <string name="title_activity_esfinge_17">Esfinge_17</string>
     <string name="title_activity_passaro_36">Passaro_36</string>
     <string name="title_activity_sandalia_33">Sandalia_33</string>
+    <string name="title_activity_capacete_13">Capacete_13</string>
+    <string name="title_activity_capacete_5">Capacete_5</string>
+    <string name="title_activity_capacete_42">Capacete_42</string>
 
     
     
