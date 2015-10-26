@@ -87,6 +87,11 @@
 
     <!-- CAPACETE -->
 
+    <!-- 5 -->
+        <string name="capacete_5_1">Você coloca a flecha no arco e aponta para o dragão. Mas ele não tem medo.
+            Você dispara a flecha e ela apenas ricocheteia no corpo dele.Essa é a flecha errada!
+            20 é múltiplo de 2 e de 5, mas não de 3. Rápido - escolha outra flecha antes que seja tarde demais!</string>
+
     <!-- 13 -->
         <string name="capacete_13_1">Há um arco e várias flechas expostos.
             Cada flecha tem um número. Mas qual você deve usar? De repente, você vê uma instrução presa no alvo…</string>
@@ -125,7 +130,9 @@
     <!-- 41 -->
         <string name="capacete_41_1">Você corta a corda errada! Todo cordame cai em cima de você. As cordas se enrolam em volta de seus braços e pernas. Você ficou preso!
             De repente, você sente algo puxando as cordas, com garras e dentes afiados - está livre de novo! </string>
-
+    <!-- 42 -->
+        <string name="capacete_42_1">Você põe a flecha no arco e aponta para o dragão. Ele abaixa a cabeça e volta para a caverna.
+            Escolheu a flecha certa! Você segue o dragão até o covil.</string>
        
     <!-- ESFINGE -->
         <!-- 5 -->
