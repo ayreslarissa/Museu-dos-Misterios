@@ -12,7 +12,7 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import ufam.promobile.museudosmisterios.Moeda.Vaso_14;
+import ufam.promobile.museudosmisterios.Vaso.Vaso_14;
 import ufam.promobile.museudosmisterios.Passaro.Passaro_5;
 import ufam.promobile.museudosmisterios.R;
 

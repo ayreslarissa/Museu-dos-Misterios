@@ -1,4 +1,4 @@
-package ufam.promobile.museudosmisterios.Esfinge;
+package ufam.promobile.museudosmisterios.Moeda;
 
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
@@ -8,15 +8,16 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.TextView;
 
+import ufam.promobile.museudosmisterios.Capacete.Capacete_10;
+import ufam.promobile.museudosmisterios.Capacete.Capacete_8;
 import ufam.promobile.museudosmisterios.R;
-import ufam.promobile.museudosmisterios.Sandalia.Sandalia_35;
 
-public class Esfinge_19 extends AppCompatActivity {
+public class Moeda_39 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_esfinge_19);
+        setContentView(R.layout.activity_moeda_39);
 
         // Orientação Paisagem (Landscape)
         try {
@@ -26,17 +27,16 @@ public class Esfinge_19 extends AppCompatActivity {
             e.printStackTrace();
         }
 
-        final TextView texto = (TextView) findViewById(R.id.textView_esfinge_19);
-        final TextView proximo = (TextView) findViewById(R.id.textView_esfinge_19_proximo);
-
-        texto.setText(R.string.esfinge_19);
+        final TextView proximo = (TextView) findViewById(R.id.textView_moeda_39_proximo);
 
         proximo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Esfinge_19.this, Esfinge_30.class);
+                Intent intent = new Intent(Moeda_39.this, Capacete_8.class);
                 startActivity(intent);
             }
         });
+
     }
+
 }

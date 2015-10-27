@@ -1,39 +1,76 @@
 package ufam.promobile.museudosmisterios.Moeda;
 
-import android.support.v7.app.ActionBarActivity;
+
+import android.app.AlertDialog;
+import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+import android.view.WindowManager;
+import android.widget.TextView;
 
 import ufam.promobile.museudosmisterios.R;
+import ufam.promobile.museudosmisterios.Vaso.Vaso_14;
 
-public class Moeda_41 extends ActionBarActivity {
+public class Moeda_41 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_moeda_41);
-    }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_moeda_41, menu);
-        return true;
-    }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
+        // Orientação Paisagem (Landscape)
+        try {
+            setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
+            getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        } catch (Exception e) {
+            e.printStackTrace();
         }
 
-        return super.onOptionsItemSelected(item);
+        final TextView texto = (TextView) findViewById(R.id.textView_moeda_41);
+        final TextView anterior1 = (TextView) findViewById(R.id.textView_moeda_41_anterior_1);
+        final TextView voltar = (TextView) findViewById(R.id.textView_moeda_41_voltar);
+        final TextView proximo1 = (TextView) findViewById(R.id.textView_moeda_41_proximo_1);
+        final TextView proximo2 = (TextView) findViewById(R.id.textView_moeda_41_proximo_2);
+
+        texto.setText(R.string.moeda_41_1);
+
+        proximo1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                texto.setText(R.string.moeda_41_2);
+                proximo1.setVisibility(View.INVISIBLE);
+                proximo2.setVisibility(View.VISIBLE);
+                anterior1.setVisibility(View.VISIBLE);
+            }
+        });
+
+        proximo2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                texto.setText(R.string.moeda_41_3);
+                proximo2.setVisibility(View.INVISIBLE);
+                anterior1.setVisibility(View.INVISIBLE);
+                voltar.setVisibility(View.VISIBLE);
+            }
+        });
+
+        anterior1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                texto.setText(R.string.moeda_41_1);
+                proximo1.setVisibility(View.VISIBLE);
+                proximo2.setVisibility(View.INVISIBLE);
+                anterior1.setVisibility(View.INVISIBLE);
+            }
+        });
+
+        voltar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                onBackPressed();
+            }
+        });
     }
 }

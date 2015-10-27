@@ -249,7 +249,7 @@
             android:label="@string/title_activity_passaro_5" >
         </activity>
         <activity
-            android:name=".Moeda.Vaso_14"
+            android:name=".Vaso.Vaso_14"
             android:label="@string/title_activity_vaso_14" >
         </activity>
         <activity
@@ -263,6 +263,46 @@
         <activity
             android:name=".Esfinge.Esfinge_30"
             android:label="@string/title_activity_esfinge_30" >
+        </activity>
+        <activity
+            android:name=".Capacete.Capacete_10"
+            android:label="@string/title_activity_capacete_10" >
+        </activity>
+        <activity
+            android:name=".Vaso.Vaso_33"
+            android:label="@string/title_activity_vaso_33" >
+        </activity>
+        <activity
+            android:name=".Moeda.Moeda_39"
+            android:label="@string/title_activity_moeda_39" >
+        </activity>
+        <activity
+            android:name=".Capacete.Capacete_8"
+            android:label="@string/title_activity_capacete_8" >
+        </activity>
+        <activity
+            android:name=".Vaso.Vaso_21"
+            android:label="@string/title_activity_vaso_21" >
+        </activity>
+        <activity
+            android:name=".Moeda.Moeda_38"
+            android:label="@string/title_activity_moeda_38" >
+        </activity>
+        <activity
+            android:name=".Esfinge.Esfinge_36"
+            android:label="@string/title_activity_esfinge_36" >
+        </activity>
+        <activity
+            android:name=".Passaro.Passaro_29"
+            android:label="@string/title_activity_passaro_29" >
+        </activity>
+        <activity
+            android:name=".Vaso.Vaso_11"
+            android:label="@string/title_activity_vaso_11" >
+        </activity>
+        <activity
+            android:name=".Vaso.Vaso_39"
+            android:label="@string/title_activity_vaso_39" >
         </activity>
         <activity
             android:name=".Vaso.Vaso_9"

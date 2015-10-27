@@ -72,6 +72,33 @@
         <string name="title_activity_moeda_41">Moeda_41</string>
         <string name="title_activity_esfinge_19">Esfinge_19</string>
         <string name="title_activity_esfinge_30">Esfinge_30</string>
+        <string name="title_activity_capacete_10">Capacete_10</string>
+        <string name="title_activity_vaso_33">Vaso_33</string>
+        <string name="title_activity_moeda_39">Moeda_39</string>
+        <string name="title_activity_capacete_8">Capacete_8</string>
+        <string name="title_activity_vaso_21">Vaso_21</string>
+        <string name="title_activity_moeda_38">Moeda_38</string>
+        <string name="title_activity_esfinge_36">Esfinge_36</string>
+        <string name="title_activity_passaro_29">Passaro_29</string>
+        <string name="title_activity_vaso_11">Vaso_11</string>
+        <string name="title_activity_vaso_39">Vaso_39</string>
+        <string name="title_activity_vaso_9">Vaso_9</string>
+        <string name="title_activity_sandalia_37">Sandalia_37</string>
+        <string name="title_activity_vaso_23">Vaso_23</string>
+        <string name="title_activity_esfinge_13">Esfinge_13</string>
+        <string name="title_activity_esfinge_17">Esfinge_17</string>
+        <string name="title_activity_passaro_36">Passaro_36</string>
+        <string name="title_activity_sandalia_33">Sandalia_33</string>
+        <string name="title_activity_capacete_13">Capacete_13</string>
+        <string name="title_activity_capacete_5">Capacete_5</string>
+        <string name="title_activity_capacete_42">Capacete_42</string>
+        <string name="title_activity_moeda_21">Moeda_21</string>
+        <string name="title_activity_moeda_40">Moeda_40</string>
+        <string name="title_activity_passaro_40">Passaro_40</string>
+        <string name="title_activity_moeda_4">Moeda_4</string>
+        <string name="title_activity_passaro_16">Passaro_16</string>
+        <string name="title_activity_capacete_30">Capacete_30</string>
+
 
     <!-- Instruções -->
         <string name="text_instrucoes_1">Você está pronto para uma fantástica aventura - com voltas e reviravoltas, muita ação e quebra-cabeças empolgantes para resolver? Então este livro foi feito para você!</string>
@@ -91,11 +118,18 @@
         <string name="capacete_5_1">Você coloca a flecha no arco e aponta para o dragão. Mas ele não tem medo.
             Você dispara a flecha e ela apenas ricocheteia no corpo dele.Essa é a flecha errada!
             20 é múltiplo de 2 e de 5, mas não de 3. Rápido - escolha outra flecha antes que seja tarde demais!</string>
-
+    <!-- 8 -->
+        <string name="capacete_8_1">Você se aproxima da rede para olhar melhor. Alguém escreveu números atrás dela, na madeira. Você os vê
+            através dos buracos. Eles formam um padrão, mas faltam alguns números. O que há de especial neles? E olhe... há um bilhete
+            preso na rede...</string>
+    <string name="capacete_8_2">"'Se os números que faltam são primos, você precisa procurar dentro de uma sacola viquingue. Se forem quadrados, espie o olho do viquingue.'"</string>
     <!-- 13 -->
         <string name="capacete_13_1">Há um arco e várias flechas expostos.
             Cada flecha tem um número. Mas qual você deve usar? De repente, você vê uma instrução presa no alvo…</string>
-
+    <!-- 10 -->
+        <string name="capacete_10">Você escolheu o escudo errado! O guerreiro viquingue volta à vida. Ele brande o machado em sua direção.
+            Mas você usa o escudo para bloquear o golpe. O guerreiro cai, se desfazendo em poeira no chão. O dígito após o ponto decimal é
+            "décimo". O decimal 0,6 significa seis décimos ou 6/10. Qual escudo tem dez partes, seis das quais são vermelhas?</string>
     <!-- 14 -->
         <string name="capacete_14_1">Boa escolha! A placa balança. Atrás dela, você vê um buraco.
             Dentro do buraco há uma chave romana. É dela que você precisa para destrancar o portão de ferro!</string>
@@ -140,57 +174,48 @@
             Escolheu a flecha certa! Você segue o dragão até o covil.</string>
        
     <!-- ESFINGE -->
-        <!-- 5 -->
-            <string name="esfinge_5_1">Você caminha até o baú e tenta erguer a tampa. Está trancada.</string>
-            <string name="esfinge_5_2">Num dos lados do baú há um misterioso quadrado com números gravados na madeira. </string>
-            <string name="esfinge_5_3">Você olha com atenção e percebe que há um inscrição abaixo:</string>
-        <!-- 8 -->
-            <string name="esfinge_8_1">Você passa o dedo pela fileira de números e pressiona o número 9. Nada acontece.
-                Você está prestes a se virar quando ouve um forte "miau" vindo por trás
-                - talvez seja melhor pesar um pouquinho mais!</string>
-            <string name="esfinge_8_2">Os lados das figuras são a chave. Um triângulo tem 3 lados.
-                Um quadrado tem 4 lados portanto, triângulo + quadrado = 3+4 = 7.
-                Um hexágono tem 6 lados portanto, quadrado + hexágono = 4 + 6 = 10. </string>
-            <string name="esfinge_8_3">Quantos lados tem um pentágono? Quanto é 3 + 5?</string>
-        <!-- 10 -->
-            <string name="title_activity_esfinge_10">Esfinge_10</string>
-            <string name="esfinge_10_1">As galerias são escuras e assustadoras. Uma luz vermelha piscando dentro de um display de vidro
-                chama sua atenção. Você vê dois vasos lá dentro. Estão numerados 24 e 25; e alguém colou um cartão na tampa de vidro:</string>
-            <string name="esfinge_10_proximo">Próximo</string>
-        <!-- 13 -->
-            <string name="esfinge_13_1">Quando você vai pegar a espada, ela salta para sua mão! É a certa! No gabinete, você nota um cachecol de seda dobrado onde estava a espada.
-                Há uma mensagem costurada no tecido:</string>
-            <string name="esfinge_13_2">Então você precisa tocar um sino. Com a espada na mão, você se dirige à Exposição 2: "Sinos de igreja".</string>
-            <string name="esfinge_10_2">Qual o vaso você escolhe? 25 ou 24?</string>
 
-        <!-- 17 -->
-            <string name="esfinge_17_1">Há uma fileira de sinos antigos expostos. Mas qual deles você deve tocar?
-                Nenhum dos sinos é quadrado - todos têm forma de sino. De repente, você vê os números impressos neles.
-                A pista falava de tocar um sino que não fosse um número quadrado! Qual deles não é um número quadrado? Decida a seguir!</string>
-
-        <!-- 22 -->
-            <string name="esfinge_22_1">Você volta. Passa pela porta, ao longo do corredor, sobe os degraus (de três em três) e
-                volta à ala Greco-Romana.</string>
-            <string name="esfinge_22_2">Mas e essa história de padrões? Enquanto você volta em direção ao saguão de entrada,
-                vê uma placa indicando a Exposição de Mosaico. É isso! Mosaicos - eles têm padrões! Você segue a indicação.
-                Lá vem aquele som de ronronar de novo&#8230; o que será?</string>
-        <!-- 32 -->
-            <string name="esfinge_32_1">Você olha os machados expostos. Têm etiquetas com seus pesos em gramas.</string>
-        <!-- 34 -->
-            <string name="esfinge_34_1">Você caminha pelo corredor em direção à ala dos Viquingues. Alguém deixou um prato de leite
-                perto de uma coluna. Você ouve um ronronar e vê a ponta de um rabo.</string>
-            <string name="esfinge_34_2">Mais adiante, você vê um barco viquingue. Está cercado de amostras de espadas, machados,
-                capacetes com chifres e joias, escavadas de um sepulcro. Um rastro de marcas de patinhas sujas de leite o conduz a uma
-                caixa de vidro.</string>
-            <string name="esfinge_34_3">Dentro dela há um esqueleto humano. É o capitão viquingue. Um cartão na caixa traz uma mensagem de arrepiar:</string>
-            <string name="esfinge_34_4">Um vento frio sobe pelas galerias e agita as velas do barco&#8230;</string>
-        <!-- 38 -->
-            <string name="esfinge_38_1">É o machado certo! Na cabeça do machado você vê uma instrução:</string>
-            <string name="esfinge_38_2">"Leve-me a bordo do navio Viquingue"</string>
-        <!-- 42 -->
-            <string name="esfinge_42_1">Você coloca os discos em ordem. O que falta deve ficar claro!</string>
-
-   
+    <!-- 5 -->
+        <string name="esfinge_5_1">Você caminha até o baú e tenta erguer a tampa. Está trancada.</string>
+        <string name="esfinge_5_2">Num dos lados do baú há um misterioso quadrado com números gravados na madeira. </string>
+        <string name="esfinge_5_3">Você olha com atenção e percebe que há um inscrição abaixo:</string>
+    <!-- 8 -->
+        <string name="esfinge_8_1">Você passa o dedo pela fileira de números e pressiona o número 9. Nada acontece.
+            Você está prestes a se virar quando ouve um forte "miau" vindo por trás
+            - talvez seja melhor pesar um pouquinho mais!</string>
+        <string name="esfinge_8_2">Os lados das figuras são a chave. Um triângulo tem 3 lados.
+            Um quadrado tem 4 lados portanto, triângulo + quadrado = 3+4 = 7.
+            Um hexágono tem 6 lados portanto, quadrado + hexágono = 4 + 6 = 10. </string>
+        <string name="esfinge_8_3">Quantos lados tem um pentágono? Quanto é 3 + 5?</string>
+    <!-- 10 -->
+        <string name="title_activity_esfinge_10">Esfinge_10</string>
+        <string name="esfinge_10_1">As galerias são escuras e assustadoras. Uma luz vermelha piscando dentro de um display de vidro
+            chama sua atenção. Você vê dois vasos lá dentro. Estão numerados 24 e 25; e alguém colou um cartão na tampa de vidro:</string>
+        <string name="esfinge_10_proximo">Próximo</string>
+        <string name="esfinge_10_2">Qual o vaso você escolhe? 25 ou 24?</string>
+    <!-- 22 -->
+        <string name="esfinge_22_1">Você volta. Passa pela porta, ao longo do corredor, sobe os degraus (de três em três) e
+            volta à ala Greco-Romana.</string>
+        <string name="esfinge_22_2">Mas e essa história de padrões? Enquanto você volta em direção ao saguão de entrada,
+            vê uma placa indicando a Exposição de Mosaico. É isso! Mosaicos - eles têm padrões! Você segue a indicação.
+            Lá vem aquele som de ronronar de novo&#8230; o que será?</string>
+    <!-- 32 -->
+        <string name="esfinge_32_1">Você olha os machados expostos. Têm etiquetas com seus pesos em gramas.</string>
+    <!-- 34 -->
+        <string name="esfinge_34_1">Você caminha pelo corredor em direção à ala dos Viquingues. Alguém deixou um prato de leite
+            perto de uma coluna. Você ouve um ronronar e vê a ponta de um rabo.</string>
+        <string name="esfinge_34_2">Mais adiante, você vê um barco viquingue. Está cercado de amostras de espadas, machados,
+            capacetes com chifres e joias, escavadas de um sepulcro. Um rastro de marcas de patinhas sujas de leite o conduz a uma
+            caixa de vidro.</string>
+        <string name="esfinge_34_3">Dentro dela há um esqueleto humano. É o capitão viquingue. Um cartão na caixa traz uma mensagem de arrepiar:</string>
+        <string name="esfinge_34_4">Um vento frio sobe pelas galerias e agita as velas do barco&#8230;</string>
+    <!-- 38 -->
+        <string name="esfinge_38_1">É o machado certo! Na cabeça do machado você vê uma instrução:</string>
+        <string name="esfinge_38_2">"Leve-me a bordo do navio Viquingue"</string>
+    <!-- 42 -->
+        <string name="esfinge_42_1">Você coloca os discos em ordem. O que falta deve ficar claro!</string>
+    
+    
     <!-- VASO -->
 
     <!-- 6 -->
@@ -204,6 +229,10 @@
             É para lá que você vai, Exposição 8: "Espadas". No gabinete empoeirado, há três espadas.
             Etiquetas que as espadas foram feitas. Alguém escreveu uma mensagem na poeira&#8230;</string>
         <string name="vaso_9_2">Se a espada mais antiga você levar, o que fazer ela irá lhe mostrar.</string>
+    <!-- 11 -->
+        <string name="vaso_11">Você procura um banquinho de madeira. Está ao lado do leme na popa! É onde o capitão viquingue se sentava
+            durante a viagem com sua tripulação. Você apalpa embaixo do banquinho. Há algo preso com um prego. É um pingente de ouro que o
+            capitão usava para dar sorte - seu precioso AMULETO! Você já fez a escolha certa!</string>
     <!-- 14 -->
         <string name="vaso_14_1">Você fez a escolha certa! Agora, a mensagem na panela diz alguma coisa sobre um sepulcro. Você olha
             ao redor. Lá está! Ao lado do navio viquingue há uma reprodução do sepulcro em forma de colina, em tamanho real.</string>
@@ -218,6 +247,9 @@
         <string name="vaso_15_2">O mosaico desaba sob seus pés. Você começa a cair em um poço sem fundo.
             No último instante, você agarra a parte de baixo de uma cortina. Lentamente, você consegue subir para fora do buraco.
             Os pedaços do mosaico voltam aos seus lugares.</string>
+    <!-- 21 -->
+        <string name="vaso_21">Sim - os números são todos quadrados! Um olho viquingue! - onde poderia estar? De repente, você o vê. Há uma
+            enorme forma de olho pintada na vela do navio. Você sobe de volta no navio para observar.</string>
     <!-- 23 -->
         <string name="vaso_23_1">Quando você vai pegar a espada, um miado o faz pular de susto.
             A espada cai, fincando a ponta no chão, bem onde você estava. Era a espada errada!
@@ -232,9 +264,17 @@
             No fim da escada, você encontra uma passagem iluminada por chamas tremulantes.</string>
     <!-- 31 -->
         <string name="vaso_31_1">Você lê a inscrição na placa:</string>
+    <!-- 33 -->
+        <string name="vaso_33_1">É o escudo certo! Você o tira do boneco e o vira. Embaixo dele há um pedaço de um mapa antigo. Você não sabe
+            se vai precisar disso, mas o guarda na mochila. Há também uma mensagem na parte de trás do escudo:</string>
+        <string name="vaso_33_2">"'Você está ganhando este jogo perigoso. Agora volte onde começou. Mas procure os números em uma
+        rede, ainda precisa encontrar o amuleto!'"</string>
     <!-- 37 -->
         <string name="vaso_37_1">Os números em cada linha de um quadrado mágico sempre resultam no mesmo "número mágico".
             Os números nas colunas e diagonais também dão o número mágico. Verifique:</string>
+    <!-- 39 -->
+    <string name="vaso_39">Agora que tem um amuleto, você pode continuar com sua aventura em outra ala do museu. Você corre de volta ao
+        saguão de entrada para seguir uma nova indicação - alguém vai com você!</string>
     <!-- 43 -->
         <string name="vaso_43_1"> Você tamborilou o número errado! O lobo ganha vida! Vira-se para você, mostrando os dentes. Ele vai
             mordê-lo! De repente, algo pula do mastro e o derruba no convés, longe do alcance do lobo. O fator de um número permite a
@@ -267,7 +307,6 @@
             <string name="moeda_19_1">Você está certo! Deve dar 10 batidinhas.
                 Os olhos do lobo emitem um brilho vermelho, que ilumina um objeto a distância. É uma enorme panela de ferro, que parece um caldeirão de bruxa.
                 Você desce do barco e caminha até a panela.</string>
-
         <!-- 21 -->
             <string name="moeda_21_1">O dragão se enrola num canto e o observa, desconfiado, enquanto você explora.
                 No fundo da caverna, você encontra um alçapão. "Olhe embaixo do covil do dragão…" - deve ser isso!
@@ -297,6 +336,19 @@
 
             <string name="moeda_36_3">Você acertou quando respondeu 8.
                 Um pentágono tem 5 lados; portanto triângulo + pentágono = 3 + 5 = 8.</string>
+    <!-- 38 -->
+        <string name="moeda_38_1">Você procura uma bolsa vinquingue e a vê em um gabinete ao lado do esqueleto. É uma mala de couro com a
+            abertura amarrada. Você pega a bolsa, mas parece que há algo estranho. Alguma coisa está se mexendo dentro dela!</string>
+        <string name="moeda_38_2">Com cuidado, você abre, mas antes de pôr a mão dentro, uma coisa sai de dentro da bolsa. É um escorpião!
+            Você joga a bolsa e o escorpião o mais longe possível. Estava errado. Os números faltantes são 4, 9, 16, 25, 36, 49, 64.
+            São todos quadrados.</string>
+    <!-- 39 -->
+        <string name="moeda_39">Você retrocede até a porta do sepulcro. Atento para ver se há viquingues, você volta à galeria em direção à porta.
+            Mas o que era aquela história de rede? De repente, você a vê. Há uma rede de pesca pendurada em um dos lados do navio.</string>
+    <!-- 41 -->
+        <string name="moeda_41_1">O trinco não gira. Escolheu o número errado! Você ouve atrás da porta o som de um berrante viquingue e de pés correndo. </string>
+        <string name="moeda_41_2">Rapidamente, você se abaixa atrás da panela. A porta se escancara e entra o fantasma de um viquingue furioso, brandindo a espada. Ele desliza, em ataque, pela sala e desaparece no barco. A porta bate e se fecha atrás dele.</string>
+        <string name="moeda_41_3">Para arredondar 7.651 para a centena mais próxima, observe o dígito "dezena". É 5 ou mais? Se for, arredonde o número da centena.</string>
 
         <!-- 40 -->
             <string name="moeda_40_1">Você gira o trinco 6 vezes, mas o alçapão ainda está trancado!
@@ -411,6 +463,13 @@
         <string name="passaro_27_1">Você abre a porta e entra em uma saleta. Mas há algo errado!
             Você não consegue respirar! Consegue apenas voltar, passando pela mesma porta apenas a tempo de não desmaiar.</string>
         <string name="passaro_27_2">O aviso na porta era falso. Por exemplo, metade de 4 é 2, e este é um número par.</string>
+    <!-- 29 -->
+        <string name="passaro_29_1">Você procura uma cama esplêndida. No barco ela não está, mas você a vê ao lado do esqueleto. Fora
+            enterrada com o capitão.Você pula para fora do barco e corre até a cama. Não há nada em cima dela; então você espia embaixo.
+            Mas há algo errado! </string>
+        <string name="passaro_29_2">Os cipós enrolados nas pernas da cama ganham vida, contorcendo-se e se enrolando em seus punhos e tornozelos.
+            Você se livra e foge a tempo. Errou nas cores. O olho é 25% verde e 40% vermelho, ou seja, essas cores somam 65%. O resto é olho
+            azul. 100% - 65% = 35%; portanto, o olho é mais vermelho (40%) que azul (35%).</string>
     <!-- 32 -->
         <string name="passaro_32_1">Escolheu a caixa errada! Você ergue a tampa e ouve um zumbido muito alto.
             Uma vespa enorme sai voando em direção ao seu pescoço. Vai picar você!</string>
@@ -440,23 +499,6 @@
             muito. É uma tempestade! Há relâmpagos por toda parte e você corre para se abrigar - bem na hora. Uma onda gigante desaba
             sobre o barco. Se você estivesse embaixo dela, teria caído no mar. Você soprou errado! O número quadrado é aquele que é
             multiplicado por si mesmo. Quanto é 3 x 3?</string>
-    <string name="title_activity_vaso_9">Vaso_9</string>
-    <string name="title_activity_sandalia_37">Sandalia_37</string>
-    <string name="title_activity_vaso_23">Vaso_23</string>
-    <string name="title_activity_esfinge_13">Esfinge_13</string>
-    <string name="title_activity_esfinge_17">Esfinge_17</string>
-    <string name="title_activity_passaro_36">Passaro_36</string>
-    <string name="title_activity_sandalia_33">Sandalia_33</string>
-    <string name="title_activity_capacete_13">Capacete_13</string>
-    <string name="title_activity_capacete_5">Capacete_5</string>
-    <string name="title_activity_capacete_42">Capacete_42</string>
-    <string name="title_activity_moeda_21">Moeda_21</string>
-    <string name="title_activity_moeda_40">Moeda_40</string>
-    <string name="title_activity_passaro_40">Passaro_40</string>
-    <string name="title_activity_moeda_4">Moeda_4</string>
-    <string name="title_activity_passaro_16">Passaro_16</string>
-    <string name="title_activity_capacete_30">Capacete_30</string>
 
-    
     
 </resources>
