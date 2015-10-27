@@ -3,7 +3,9 @@ package ufam.promobile.museudosmisterios.Capacete;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
+import android.view.View;
 import android.view.WindowManager;
+import android.widget.Button;
 
 import ufam.promobile.museudosmisterios.R;
 
@@ -21,6 +23,15 @@ public class Capacete_30 extends ActionBarActivity {
         } catch (Exception e) {
             e.printStackTrace();
         }
+
+        final Button anterior = (Button) findViewById(R.id.button_capacete_30_anterior1);
+
+        anterior.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                onBackPressed();
+            }
+        });
     }
 
 }

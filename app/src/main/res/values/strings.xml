@@ -397,6 +397,12 @@
         <string name="passaro_12_1">É o escudo certo! Sob ele, há um pedaço de papel dobrado. É o mapa de um ala do museu.</string>
         <string name="passaro_12_2">Mas onde está o covil do dragão? Não aparece na legenda.
             Você vira o mapa. Há outra pista no verso.</string>
+    <!-- 16 -->
+        <string name="passaro_16_1">Você rasteja embaixo da mesa. Há um par de manoplas no chão. São as luvas de ferro!
+            Escolheu o número certo! Você põe as luvas na mochila. Agora você tem as coisas necessárias.
+            Você corre até o saguão de entrada o mais rápido possível para seguir até a outra ala do museu.
+        </string>
+
     <!-- 22 -->
         <string name="passaro_22_1">Você abre a porta e entra em uma saleta. No canto, há um grande baú de madeira.
                             O aviso era verdadeiro. O dobro de um número ímpar é sempre par:
