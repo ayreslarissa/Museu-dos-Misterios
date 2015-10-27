@@ -5,42 +5,40 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context="ufam.promobile.museudosmisterios.Passaro.Passaro_16"
+    tools:context="ufam.promobile.museudosmisterios.Vaso.Vaso_18"
     android:background="@color/app_bg">
-
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/imageView6"
-        android:src="@drawable/passaro_16_manoplas"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/textView_passaro_16_1"
-        android:text="@string/passaro_16_1"
-        android:textSize="@dimen/tam_font_normal"
+        android:id="@+id/txt_vaso_18"
+        android:text="@string/vaso_18_1"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/tam_font_large"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:autoText="false" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/text_proximo"
-        android:id="@+id/button_passaro_16_proximo1"
+        android:id="@+id/button_vaso_18_proximo1"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:textSize="@dimen/tam_font_normal"
+        android:textSize="@dimen/tam_font_large"
         android:textColor="@color/cor_fonte"
         android:fontFamily="@string/fonteFamily"
         android:background="@android:color/transparent"
         />
-
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img_vaso_18"
+        android:src="@drawable/vaso_18"
+        android:layout_below="@+id/txt_vaso_18"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 </RelativeLayout>

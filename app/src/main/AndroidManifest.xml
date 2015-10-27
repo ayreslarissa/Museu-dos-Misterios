@@ -372,6 +372,38 @@
             android:name=".Esfinge.Esfinge_27"
             android:label="@string/title_activity_esfinge_27" >
         </activity>
+        <activity
+            android:name=".Passaro.Passaro_19"
+            android:label="@string/title_activity_passaro_19" >
+        </activity>
+        <activity
+            android:name=".Sandalia.Sandalia_9"
+            android:label="@string/title_activity_sandalia_9" >
+        </activity>
+        <activity
+            android:name=".Passaro.Passaro_38"
+            android:label="@string/title_activity_passaro_38" >
+        </activity>
+        <activity
+            android:name=".Vaso.Vaso_18"
+            android:label="@string/title_activity_vaso_18" >
+        </activity>
+        <activity
+            android:name=".Moeda.Moeda_43"
+            android:label="@string/title_activity_moeda_43" >
+        </activity>
+        <activity
+            android:name=".Esfinge.Esfinge_35"
+            android:label="@string/title_activity_esfinge_35" >
+        </activity>
+        <activity
+            android:name=".Moeda.Moeda_29"
+            android:label="@string/title_activity_moeda_29" >
+        </activity>
+        <activity
+            android:name=".Moeda.Moeda_24"
+            android:label="@string/title_activity_moeda_24" >
+        </activity>
     </application>
 
 </manifest>

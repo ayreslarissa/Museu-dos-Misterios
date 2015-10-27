@@ -222,6 +222,13 @@
             caixa de vidro.</string>
         <string name="esfinge_34_3">Dentro dela há um esqueleto humano. É o capitão viquingue. Um cartão na caixa traz uma mensagem de arrepiar:</string>
         <string name="esfinge_34_4">Um vento frio sobe pelas galerias e agita as velas do barco&#8230;</string>
+
+    <!-- 35 -->
+        <string name="esfinge_35_1">Você tira os três itens da mochila e os coloca sobre a mesa:
+            um espelho brilhante, uma tábua de argila com uma escrita misteriosa e o pedaço de um mapa.</string>
+        <string name="esfinge_35_2">Espere um pouco - o mapa lhe dá direções! Você olha com mais atenção as letras minúsculas e começa a entender:</string>
+        <string name="esfinge_35_3">Claro! A escrita na tábua deve estar de trás para a frente!</string>
+
     <!-- 36 -->
         <string name="esfinge_36">Sou 25%% verde e 40%% vermelho, o resto de mim é azul. Se você acha que sou mais vermelho que azul,
         procure um banquinho simples. Se sou mais azul que vermelho, deites-se no leito esplêndido do capitão.</string>
@@ -262,6 +269,11 @@
         <string name="vaso_15_2">O mosaico desaba sob seus pés. Você começa a cair em um poço sem fundo.
             No último instante, você agarra a parte de baixo de uma cortina. Lentamente, você consegue subir para fora do buraco.
             Os pedaços do mosaico voltam aos seus lugares.</string>
+    <!-- 18 -->
+        <string name="vaso_18_1">Você pega o amuleto na mochila. No verso, há uma inscrição.
+            Você pressiona os dígitos 879, e a porta se abre.
+    </string>
+
     <!-- 21 -->
         <string name="vaso_21">Sim - os números são todos quadrados! Um olho viquingue! - onde poderia estar? De repente, você o vê. Há uma
             enorme forma de olho pintada na vela do navio. Você sobe de volta no navio para observar.</string>
@@ -327,10 +339,21 @@
                 No fundo da caverna, você encontra um alçapão. "Olhe embaixo do covil do dragão…" - deve ser isso!
                 Há um trinco de ferro no alçapão, mas que não se mexe de jeito nenhum. Agora, você vê outra pista inscrita na madeira…
             </string>
-
+        <!-- 24 -->
+            <string name="moeda_24_1">A polícia entra bruscamente e pega os ladrões. A Coleção Dourada está segura!
+                O chefe de polícia dá um tapinha amistoso em seu ombro e sorri. "Parabéns", ele diz. "Você é um herói!"
+            </string>
+            <string name="moeda_24_2">Talvez ele tenha razão, mas de repente você sente um sono danado. Foi uma aventura cansativa!
+                Mal pode esperar para sentar numa cadeira com Bichanes de Mileto no colo.</string>
         <!-- 27 -->
             <string name="moeda_27_1">Você põe a mão dentro do vaso e tateia. É o vaso certo!
                 Você encontra seis discos de argila e um pedaço de papel com algumas instruções:</string>
+        <!-- 29 -->
+            <string name="moeda_29_1">Você coloca a tábua de argila contra o espelho. A mensagem fica clara:</string>
+            <string name="moeda_29_2">Agora você sabe a sequência! E aperta o botão azul.
+                As portas de segurança descem e os ladrões ficam presos. Você aperta o botão preto.
+                O barulho da escavadeira para - a coleção está segura! Por fim, você aperta o botão vermelho.
+                O alarme dispara. A polícia está chegando!</string>
         <!-- 31 -->
             <string name="moeda_31_1">  É a corda certa! A corda 12 chega ao topo do mastro do navio. Ela está segurando alguma
                 coisa lá. Você corta a corda e, como que por magia, todas as cordas caem e um estranho objeto desliza pelo mastro.
@@ -369,8 +392,24 @@
             <string name="moeda_40_1">Você gira o trinco 6 vezes, mas o alçapão ainda está trancado!
                 Metade de  56 é 28. Metada de 28 é 14. Qual é a metade de 14? Rápido, tente de novo antes que o dragão fique nervoso!
             </string>
-
+    <!-- 43 -->
+        <string name="moeda_43_1">No escritório há uma série de monitores de vídeo - no primeiro você vê as portas de segurança abertas;
+            no segundo, os ladrões perfurando a entrada de um cofre gigante; e no terceiro, você vê o interior do cofre.
+            A Coleção Dourada ainda está dentro dele - há tempo para salvá-la.</string>
+        <string name="moeda_43_2">Abaixo dos monitores tem um painel de alarme contra ladrões -
+            os ladrões devem ter descoberto o código e desligado. E sobre a mesa há um painel com três botões coloridos - um vermelho,
+            um preto e um azul. Uma etiqueta acima deles diz "Segurança do Museu".
+            Um botão controla as portas de segurança, o outro liga e desliga a energia na exposição, e o terceiro dispara o alarme.
+            Mas qual é qual?</string>
+        <string name="moeda_43_3">Você deve pressionar os botões na ordem certa.
+            Se disparar o alarme ou desligar a energia antes de fechar as portas de segurança, os ladrões vão ouvir e fugir com a coleção!</string>
+        <string name="moeda_43_4">Qual botão você aperta primeiro? Bichanes de Mileto começou a tatear sua mochila, miando alto!
+            É isso - os objetos que você pegou! A pista deve estar neles!</string>
     <!-- SANDALIA -->
+
+    <!-- 9 -->
+        <string name="sandalia_9_1">Você pega as luvas de ferro na mochila e as veste. Agora consegue subir com facilidade.
+            Siga o Bichanes de Mileto por cima da barreira e pule para o outro lado.</string>
 
     <!-- 11 -->
         <string name="sandalia_11_1">No fim da passagem, há duas portas na parede. Parece haver mensagens afixadas nelas.
@@ -469,7 +508,13 @@
             Escolheu o número certo! Você põe as luvas na mochila. Agora você tem as coisas necessárias.
             Você corre até o saguão de entrada o mais rápido possível para seguir até a outra ala do museu.
         </string>
-
+    <!-- 19 -->
+        <string name="passaro_19_1">Mais adiante, o corredor está bloqueado por uma pilha de bolas com espinhos. 
+            Os ladrões devem ter feito a pilha para que ninguém os seguisse. Não há como passar!</string>
+        <string name="passaro_19_2">Mas olhe - Bichanes de Mileto encontra uma passagem! Ele pula até o alto, onde há um espaço. Mas você não pode seguir.
+            Os espinhos são muito pontiagudos. De repente, você encontra uma mensagem escrita a giz no chão…</string>
+        <string name="passaro_19_chao">"Com manoplas você poderá subir, ir até o topo sem se cortar."</string>
+        <string name="passaro_19_3">Na Idade Média, os cavaleiros usavam luvas de ferro, as manoplas!</string>
     <!-- 22 -->
         <string name="passaro_22_1">Você abre a porta e entra em uma saleta. No canto, há um grande baú de madeira.
                             O aviso era verdadeiro. O dobro de um número ímpar é sempre par:
@@ -502,7 +547,12 @@
         <string name="passaro_36_1">Você bate no sino com a espada. Ele toa estridente. É o sino certo - 32 não é um número quadrado.
             Uma cabeça enorme sai lentamente da carvena na Exposição das Lendas. O dragão está olhando diretamente para você!
             Agora, você precisa de arco e flecha e corre para a Exposição 5, "Arcos e flechas".</string>
+    <!-- 38 -->
+        <string name="passaro_38_1">Você ouve o som de perfurações, adiante. Os ladrões levantaram as portas de segurança de aço.
+            Agora estão entrando no cofre onde o tesouro fica guardado à noite. Por que o alarme não disparou?</string>
 
+        <string name="passaro_38_2">Bichanes de Mileto sabe o que fazer. Ele corre até uma porta marcada "Escritório do Museu".
+            Mas há uma combinação na porta. Você não pode entrar! Em seguida, vê um adesivo amarelo ao lado do teclado…</string>
     <!-- 40 -->
         <string name="passaro_40_1">Você gira o trinco 7 vezes e puxa. É o número certo! O alçapão se mexe e abre.
             Dentro, há um espelho redondo feito de ouro - um disco brilhante! Você põe o espelho na mochila.
@@ -531,6 +581,14 @@
     <string name="title_activity_passaro_16">Passaro_16</string>
     <string name="title_activity_capacete_30">Capacete_30</string>
     <string name="title_activity_esfinge_27">Esfinge_27</string>
+    <string name="title_activity_passaro_19">Passaro_19</string>
+    <string name="title_activity_sandalia_9">Sandalia_9</string>
+    <string name="title_activity_passaro_38">Passaro_38</string>
+    <string name="title_activity_vaso_18">Vaso_18</string>
+    <string name="title_activity_moeda_43">Moeda_43</string>
+    <string name="title_activity_esfinge_35">Esfinge_35</string>
+    <string name="title_activity_moeda_29">Moeda_29</string>
+    <string name="title_activity_moeda_24">Moeda_24</string>
 
     
 </resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="ufam.promobile.museudosmisterios.Esfinge.Esfinge_35"
+    android:background="@color/app_bg">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_esfinge_35"
+        android:text="@string/esfinge_35_1"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/tam_font_normal"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:autoText="false" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_proximo"
+        android:id="@+id/button_esfinge_35_proximo1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="@dimen/tam_font_normal"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:visibility="visible" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_proximo"
+        android:id="@+id/button_esfinge_35_proximo2"
+        android:textSize="@dimen/tam_font_normal"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:layout_alignBottom="@+id/button_esfinge_35_proximo1"
+        android:layout_alignRight="@+id/button_esfinge_35_proximo1"
+        android:layout_alignEnd="@+id/button_esfinge_35_proximo1"
+        android:visibility="invisible" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_proximo"
+        android:id="@+id/button_esfinge_35_proximo3"
+        android:textSize="@dimen/tam_font_normal"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:visibility="invisible"
+        android:layout_alignBottom="@+id/button_esfinge_35_proximo1"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img_esfinge_35"
+        android:src="@drawable/esfinge_35"
+        android:layout_below="@+id/txt_esfinge_35"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:visibility="invisible" />
+
+</RelativeLayout>
