@@ -82,22 +82,7 @@
         <string name="title_activity_passaro_29">Passaro_29</string>
         <string name="title_activity_vaso_11">Vaso_11</string>
         <string name="title_activity_vaso_39">Vaso_39</string>
-        <string name="title_activity_vaso_9">Vaso_9</string>
-        <string name="title_activity_sandalia_37">Sandalia_37</string>
-        <string name="title_activity_vaso_23">Vaso_23</string>
-        <string name="title_activity_esfinge_13">Esfinge_13</string>
-        <string name="title_activity_esfinge_17">Esfinge_17</string>
-        <string name="title_activity_passaro_36">Passaro_36</string>
-        <string name="title_activity_sandalia_33">Sandalia_33</string>
-        <string name="title_activity_capacete_13">Capacete_13</string>
-        <string name="title_activity_capacete_5">Capacete_5</string>
-        <string name="title_activity_capacete_42">Capacete_42</string>
-        <string name="title_activity_moeda_21">Moeda_21</string>
-        <string name="title_activity_moeda_40">Moeda_40</string>
-        <string name="title_activity_passaro_40">Passaro_40</string>
-        <string name="title_activity_moeda_4">Moeda_4</string>
-        <string name="title_activity_passaro_16">Passaro_16</string>
-        <string name="title_activity_capacete_30">Capacete_30</string>
+
 
 
     <!-- Instruções -->
@@ -138,6 +123,10 @@
     <!-- 17 -->
         <string name="capacete_17_1">Você está parado no saguão de entrada. Quatro portas conduzem a direções diferentes.
             Você deve escolher um deles. Que ala do museu você deve visitar?</string>
+    <!-- 20 -->
+        <string name="capacete_20_1">Você segue as pegadas ao longo do corredor.
+            Chega a um portão de ferro trancado; dali não pode passar. Mas olhe só - há uma placa de bronze com uma inscrição:
+        </string>
     <!-- 22 -->
         <string name="capacete_22_1">Nada acontece. Você apertou o número errado!
             O diagrama mostra onde fica o 100 em uma linha numérica. </string>
@@ -174,34 +163,35 @@
             Escolheu a flecha certa! Você segue o dragão até o covil.</string>
        
     <!-- ESFINGE -->
+        <!-- 5 -->
+            <string name="esfinge_5_1">Você caminha até o baú e tenta erguer a tampa. Está trancada.</string>
+            <string name="esfinge_5_2">Num dos lados do baú há um misterioso quadrado com números gravados na madeira. </string>
+            <string name="esfinge_5_3">Você olha com atenção e percebe que há um inscrição abaixo:</string>
+        <!-- 8 -->
+            <string name="esfinge_8_1">Você passa o dedo pela fileira de números e pressiona o número 9. Nada acontece.
+                Você está prestes a se virar quando ouve um forte "miau" vindo por trás
+                - talvez seja melhor pesar um pouquinho mais!</string>
+            <string name="esfinge_8_2">Os lados das figuras são a chave. Um triângulo tem 3 lados.
+                Um quadrado tem 4 lados portanto, triângulo + quadrado = 3+4 = 7.
+                Um hexágono tem 6 lados portanto, quadrado + hexágono = 4 + 6 = 10. </string>
+            <string name="esfinge_8_3">Quantos lados tem um pentágono? Quanto é 3 + 5?</string>
+        <!-- 10 -->
+            <string name="title_activity_esfinge_10">Esfinge_10</string>
+            <string name="esfinge_10_1">As galerias são escuras e assustadoras. Uma luz vermelha piscando dentro de um display de vidro
+                chama sua atenção. Você vê dois vasos lá dentro. Estão numerados 24 e 25; e alguém colou um cartão na tampa de vidro:</string>
+            <string name="esfinge_10_proximo">Próximo</string>
+        <!-- 13 -->
+            <string name="esfinge_13_1">Quando você vai pegar a espada, ela salta para sua mão! É a certa! No gabinete, você nota um cachecol de seda dobrado onde estava a espada.
+                Há uma mensagem costurada no tecido:</string>
+            <string name="esfinge_13_2">Então você precisa tocar um sino. Com a espada na mão, você se dirige à Exposição 2: "Sinos de igreja".</string>
+            <string name="esfinge_10_2">Qual o vaso você escolhe? 25 ou 24?</string>
 
-    <!-- 5 -->
-        <string name="esfinge_5_1">Você caminha até o baú e tenta erguer a tampa. Está trancada.</string>
-        <string name="esfinge_5_2">Num dos lados do baú há um misterioso quadrado com números gravados na madeira. </string>
-        <string name="esfinge_5_3">Você olha com atenção e percebe que há um inscrição abaixo:</string>
-    <!-- 8 -->
-        <string name="esfinge_8_1">Você passa o dedo pela fileira de números e pressiona o número 9. Nada acontece.
-            Você está prestes a se virar quando ouve um forte "miau" vindo por trás
-            - talvez seja melhor pesar um pouquinho mais!</string>
-        <string name="esfinge_8_2">Os lados das figuras são a chave. Um triângulo tem 3 lados.
-            Um quadrado tem 4 lados portanto, triângulo + quadrado = 3+4 = 7.
-            Um hexágono tem 6 lados portanto, quadrado + hexágono = 4 + 6 = 10. </string>
-        <string name="esfinge_8_3">Quantos lados tem um pentágono? Quanto é 3 + 5?</string>
-    <!-- 10 -->
-        <string name="title_activity_esfinge_10">Esfinge_10</string>
-        <string name="esfinge_10_1">As galerias são escuras e assustadoras. Uma luz vermelha piscando dentro de um display de vidro
-            chama sua atenção. Você vê dois vasos lá dentro. Estão numerados 24 e 25; e alguém colou um cartão na tampa de vidro:</string>
-        <string name="esfinge_10_proximo">Próximo</string>
-        <string name="esfinge_10_2">Qual o vaso você escolhe? 25 ou 24?</string>
-    <!-- 13 -->
-        <string name="esfinge_13_1">Quando você vai pegar a espada, ela salta para sua mão! É a certa! No gabinete, você nota um cachecol de seda dobrado onde estava a espada.
-            Há uma mensagem costurada no tecido:</string>
-        <string name="esfinge_13_2">Então você precisa tocar um sino. Com a espada na mão, você se dirige à Exposição 2: "Sinos de igreja".</string>
+   
     <!-- 17 -->
          <string name="esfinge_17_1">Há uma fileira de sinos antigos expostos. Mas qual deles você deve tocar?
             Nenhum dos sinos é quadrado - todos têm forma de sino. De repente, você vê os números impressos neles.
              A pista falava de tocar um sino que não fosse um número quadrado! Qual deles não é um número quadrado? Decida a seguir!</string>
-    <!-- 17 -->
+    <!-- 19 -->
     <string name="esfinge_19">Você escolheu o número certo. 7.651 é mais próximo de 7.700 que de 7.600 (o dígito de "dezena" é 5 ou mais);  por isso, arredonda-se a centena.
         A porta se abre. Você entra, bravamente</string>
     <!-- 22 -->
@@ -210,6 +200,12 @@
         <string name="esfinge_22_2">Mas e essa história de padrões? Enquanto você volta em direção ao saguão de entrada,
             vê uma placa indicando a Exposição de Mosaico. É isso! Mosaicos - eles têm padrões! Você segue a indicação.
             Lá vem aquele som de ronronar de novo&#8230; o que será?</string>
+    <!-- 27 -->
+            <string name="esfinge_27_1">Você pega a chave romana na mochila. Ela abre o trinco.
+                O portão é duro, guincha ruidosamente, mas se abre. Alguém o segue pelo portão. Você olha pra baixo.
+                É Bichanes de Mileto, o gato do museu! É ele que o está ajudando o tempo todo!
+                Agora vocês dois podem enfrentar perigos juntos.</string>
+    
     <!-- 30 -->
         <string name="esfinge_30_1">Dentro do sepulcro, a exposição está bem iluminada. Há bonecos vestidos de viquingues em volta do corpo do
             capitão viquingue. Uma voz sai de um alto-falante e conta a história do funeral. Espere um pouco: o que a voz está dizendo? Parece
@@ -234,8 +230,7 @@
         <string name="esfinge_38_2">"Leve-me a bordo do navio Viquingue"</string>
     <!-- 42 -->
         <string name="esfinge_42_1">Você coloca os discos em ordem. O que falta deve ficar claro!</string>
-    
-    
+   
     <!-- VASO -->
 
     <!-- 6 -->
@@ -519,6 +514,23 @@
             muito. É uma tempestade! Há relâmpagos por toda parte e você corre para se abrigar - bem na hora. Uma onda gigante desaba
             sobre o barco. Se você estivesse embaixo dela, teria caído no mar. Você soprou errado! O número quadrado é aquele que é
             multiplicado por si mesmo. Quanto é 3 x 3?</string>
+    <string name="title_activity_vaso_9">Vaso_9</string>
+    <string name="title_activity_sandalia_37">Sandalia_37</string>
+    <string name="title_activity_vaso_23">Vaso_23</string>
+    <string name="title_activity_esfinge_13">Esfinge_13</string>
+    <string name="title_activity_esfinge_17">Esfinge_17</string>
+    <string name="title_activity_passaro_36">Passaro_36</string>
+    <string name="title_activity_sandalia_33">Sandalia_33</string>
+    <string name="title_activity_capacete_13">Capacete_13</string>
+    <string name="title_activity_capacete_5">Capacete_5</string>
+    <string name="title_activity_capacete_42">Capacete_42</string>
+    <string name="title_activity_moeda_21">Moeda_21</string>
+    <string name="title_activity_moeda_40">Moeda_40</string>
+    <string name="title_activity_passaro_40">Passaro_40</string>
+    <string name="title_activity_moeda_4">Moeda_4</string>
+    <string name="title_activity_passaro_16">Passaro_16</string>
+    <string name="title_activity_capacete_30">Capacete_30</string>
+    <string name="title_activity_esfinge_27">Esfinge_27</string>
 
     
 </resources>

@@ -368,6 +368,10 @@
             android:name=".Capacete.Capacete_30"
             android:label="@string/title_activity_capacete_30" >
         </activity>
+        <activity
+            android:name=".Esfinge.Esfinge_27"
+            android:label="@string/title_activity_esfinge_27" >
+        </activity>
     </application>
 
 </manifest>

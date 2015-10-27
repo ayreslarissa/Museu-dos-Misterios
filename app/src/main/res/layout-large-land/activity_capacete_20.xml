@@ -8,9 +8,35 @@
     android:background="@color/app_bg">
 
     <TextView
+        android:text="@string/capacete_20_1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@color/cor_fonte"
-        android:fontFamily="@string/fonteFamily"/>
+        android:fontFamily="@string/fonteFamily"
+        android:textSize="@dimen/tam_font_large"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/txtv_capacete_20"
+        />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_proximo"
+        android:id="@+id/button_capacete_20_proximo1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="@dimen/tam_font_large"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img_capacete_20"
+        android:src="@drawable/capacete_20_m"
+        android:layout_above="@+id/button_capacete_20_proximo1"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
