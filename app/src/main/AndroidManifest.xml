@@ -316,6 +316,18 @@
             android:name=".Passaro.Passaro_40"
             android:label="@string/title_activity_passaro_40" >
         </activity>
+        <activity
+            android:name=".Moeda.Moeda_4"
+            android:label="@string/title_activity_moeda_4" >
+        </activity>
+        <activity
+            android:name=".Passaro.Passaro_16"
+            android:label="@string/title_activity_passaro_16" >
+        </activity>
+        <activity
+            android:name=".Capacete.Capacete_30"
+            android:label="@string/title_activity_capacete_30" >
+        </activity>
     </application>
 
 </manifest>

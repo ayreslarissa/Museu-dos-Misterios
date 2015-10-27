@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="ufam.promobile.museudosmisterios.Moeda.Moeda_4"
+    android:background="@color/app_bg">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/moeda_4_1"
+        android:id="@+id/textView_moeda_4"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:visibility="visible" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_proximo"
+        android:id="@+id/button_moeda_4_proximo1"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:visibility="visible"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_proximo"
+        android:id="@+id/button_moeda_4_proximo2"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:visibility="invisible"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img_moeda_4_pergaminho"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/moeda_4_pergaminho_2"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img_moeda_4_mesa"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/moeda_4_mesa_2"
+        android:visibility="invisible" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="56"
+        android:id="@+id/btn_mesa_56"
+        android:layout_marginLeft="52dp"
+        android:layout_marginStart="52dp"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:visibility="invisible"
+        android:layout_alignTop="@+id/img_moeda_4_mesa"
+        android:layout_alignLeft="@+id/img_moeda_4_pergaminho"
+        android:layout_alignStart="@+id/img_moeda_4_pergaminho" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="34"
+        android:id="@+id/btn_mesa_34"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:visibility="invisible"
+        android:layout_alignTop="@+id/img_moeda_4_mesa"
+        android:layout_alignRight="@+id/img_moeda_4_pergaminho"
+        android:layout_alignEnd="@+id/img_moeda_4_pergaminho"
+        android:layout_marginRight="54dp"
+        android:layout_marginEnd="54dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="50"
+        android:id="@+id/btn_mesa_50"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:visibility="invisible"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/button_moeda_4_anterior1"
+        android:layout_toEndOf="@+id/button_moeda_4_anterior1" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="40"
+        android:id="@+id/btn_mesa_40"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:visibility="invisible"
+        android:layout_alignBottom="@+id/textView_moeda_4"
+        android:layout_toRightOf="@+id/img_moeda_4_pergaminho"
+        android:layout_toEndOf="@+id/img_moeda_4_pergaminho" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="46"
+        android:id="@+id/btn_mesa_46"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:visibility="invisible"
+        android:layout_above="@+id/button_moeda_4_anterior1"
+        android:layout_alignLeft="@+id/btn_mesa_56"
+        android:layout_alignStart="@+id/btn_mesa_56" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="73"
+        android:id="@+id/btn_mesa_73"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:visibility="invisible"
+        android:layout_alignTop="@+id/btn_mesa_46"
+        android:layout_toLeftOf="@+id/btn_mesa_34"
+        android:layout_toStartOf="@+id/btn_mesa_34" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_anterior"
+        android:id="@+id/button_moeda_4_anterior1"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:visibility="invisible"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_anterior"
+        android:id="@+id/button_moeda_4_anterior2"
+        android:textSize="@dimen/tam_font_xlarge"
+        android:textColor="@color/cor_fonte"
+        android:fontFamily="@string/fonteFamily"
+        android:background="@android:color/transparent"
+        android:visibility="invisible"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

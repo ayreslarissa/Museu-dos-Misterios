@@ -119,6 +119,11 @@
                         Vê armaduras ao longo das paredes e escudos com brasões. </string>
         <string name="capacete_28_2">Parece que a qualquer momento um rei e seu séquito aparecerão no corredor.
                         Espere um pouco - o que é aquilo? São olhos brilhando na escuridão?</string>
+    <!-- 30 -->
+        <string name="capacete_30_1">Você se abaixa sob a mesa e dá de cara com um feroz cão de caça.
+            Ele vai atacar! De repente, uma forma escura passa correndo debaixo da mesa e o distrai. Você sai rapidamente!
+            Escolheu o número errado e quase pagou um preço por isso! O número 40 é par e múltiplo de 5, mas não é um fator de 100.
+        </string>
     <!-- 32 -->
         <string name="capacete_32_1">Se você pisar no número 16, cairá na armadilha dos ladrões!
             Você precisa contar de três em três para econtrar os degraus seguros: 3, 6, 9, 12, 15, 18, 21&#8230;
@@ -237,6 +242,11 @@
 
 
     <!-- MOEDA -->
+
+        <!-- 4 -->
+            <string name="moeda_4_1">Alguém marcou a mesa redonda com números. Mas o que eles significam? Você procura uma pista.
+                Por fim, a vê. É um pedaço de pergaminho preso à cadeira de um cavaleiro…</string>
+
         <!-- 6 -->
             <string name="moeda_6_1">Há 10 caixas de madeira entalhadas na Exposição 13.
                 Nelas há números romanos, mas você acha que não estão em ordem.</string>
@@ -437,6 +447,9 @@
     <string name="title_activity_moeda_21">Moeda_21</string>
     <string name="title_activity_moeda_40">Moeda_40</string>
     <string name="title_activity_passaro_40">Passaro_40</string>
+    <string name="title_activity_moeda_4">Moeda_4</string>
+    <string name="title_activity_passaro_16">Passaro_16</string>
+    <string name="title_activity_capacete_30">Capacete_30</string>
 
     
     
