@@ -48,7 +48,7 @@ public class Capacete_17 extends AppCompatActivity {
         //Porta 2
         porta2.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent i = new Intent(Capacete_17.this, Moeda_39.class);
+                Intent i = new Intent(Capacete_17.this, Esfinge_34.class);
                 startActivityForResult(i, 1);
             };
         });

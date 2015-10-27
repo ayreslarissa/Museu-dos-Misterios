@@ -120,8 +120,8 @@
             20 é múltiplo de 2 e de 5, mas não de 3. Rápido - escolha outra flecha antes que seja tarde demais!</string>
     <!-- 8 -->
         <string name="capacete_8_1">Você se aproxima da rede para olhar melhor. Alguém escreveu números atrás dela, na madeira. Você os vê
-            através dos buracos. Eles formam um padrão, mas faltam alguns números. O que há de especial neles? E olhe... há um bilhete
-            preso na rede...</string>
+            através dos buracos. Eles formam um padrão, mas faltam alguns números. O que há de especial neles? E olhe&#8230; há um bilhete
+            preso na rede&#8230;</string>
     <string name="capacete_8_2">"'Se os números que faltam são primos, você precisa procurar dentro de uma sacola viquingue. Se forem quadrados, espie o olho do viquingue.'"</string>
     <!-- 13 -->
         <string name="capacete_13_1">Há um arco e várias flechas expostos.
@@ -193,12 +193,29 @@
             chama sua atenção. Você vê dois vasos lá dentro. Estão numerados 24 e 25; e alguém colou um cartão na tampa de vidro:</string>
         <string name="esfinge_10_proximo">Próximo</string>
         <string name="esfinge_10_2">Qual o vaso você escolhe? 25 ou 24?</string>
+    <!-- 13 -->
+        <string name="esfinge_13_1">Quando você vai pegar a espada, ela salta para sua mão! É a certa! No gabinete, você nota um cachecol de seda dobrado onde estava a espada.
+            Há uma mensagem costurada no tecido:</string>
+        <string name="esfinge_13_2">Então você precisa tocar um sino. Com a espada na mão, você se dirige à Exposição 2: "Sinos de igreja".</string>
+    <!-- 17 -->
+         <string name="esfinge_17_1">Há uma fileira de sinos antigos expostos. Mas qual deles você deve tocar?
+            Nenhum dos sinos é quadrado - todos têm forma de sino. De repente, você vê os números impressos neles.
+             A pista falava de tocar um sino que não fosse um número quadrado! Qual deles não é um número quadrado? Decida a seguir!</string>
+    <!-- 17 -->
+    <string name="esfinge_19">Você escolheu o número certo. 7.651 é mais próximo de 7.700 que de 7.600 (o dígito de "dezena" é 5 ou mais);  por isso, arredonda-se a centena.
+        A porta se abre. Você entra, bravamente</string>
     <!-- 22 -->
         <string name="esfinge_22_1">Você volta. Passa pela porta, ao longo do corredor, sobe os degraus (de três em três) e
             volta à ala Greco-Romana.</string>
         <string name="esfinge_22_2">Mas e essa história de padrões? Enquanto você volta em direção ao saguão de entrada,
             vê uma placa indicando a Exposição de Mosaico. É isso! Mosaicos - eles têm padrões! Você segue a indicação.
             Lá vem aquele som de ronronar de novo&#8230; o que será?</string>
+    <!-- 30 -->
+        <string name="esfinge_30_1">Dentro do sepulcro, a exposição está bem iluminada. Há bonecos vestidos de viquingues em volta do corpo do
+            capitão viquingue. Uma voz sai de um alto-falante e conta a história do funeral. Espere um pouco: o que a voz está dizendo? Parece
+            falar com você!</string>
+        <string name="esfinge_30_2">"'Olhe embaixo de um escudo viquingue, encontre o escudo que é 0,6 vermelho. Seis décimos, em outras palavras.'"</string>
+        <string name="esfinge_30_3">Você olha os escudos dos viquingues. Todos estão pintados de vermelho e azul. Qual você deve escolher?</string>
     <!-- 32 -->
         <string name="esfinge_32_1">Você olha os machados expostos. Têm etiquetas com seus pesos em gramas.</string>
     <!-- 34 -->
@@ -209,6 +226,9 @@
             caixa de vidro.</string>
         <string name="esfinge_34_3">Dentro dela há um esqueleto humano. É o capitão viquingue. Um cartão na caixa traz uma mensagem de arrepiar:</string>
         <string name="esfinge_34_4">Um vento frio sobe pelas galerias e agita as velas do barco&#8230;</string>
+    <!-- 36 -->
+        <string name="esfinge_36">Sou 25%% verde e 40%% vermelho, o resto de mim é azul. Se você acha que sou mais vermelho que azul,
+        procure um banquinho simples. Se sou mais azul que vermelho, deites-se no leito esplêndido do capitão.</string>
     <!-- 38 -->
         <string name="esfinge_38_1">É o machado certo! Na cabeça do machado você vê uma instrução:</string>
         <string name="esfinge_38_2">"Leve-me a bordo do navio Viquingue"</string>
@@ -468,8 +488,8 @@
             enterrada com o capitão.Você pula para fora do barco e corre até a cama. Não há nada em cima dela; então você espia embaixo.
             Mas há algo errado! </string>
         <string name="passaro_29_2">Os cipós enrolados nas pernas da cama ganham vida, contorcendo-se e se enrolando em seus punhos e tornozelos.
-            Você se livra e foge a tempo. Errou nas cores. O olho é 25% verde e 40% vermelho, ou seja, essas cores somam 65%. O resto é olho
-            azul. 100% - 65% = 35%; portanto, o olho é mais vermelho (40%) que azul (35%).</string>
+            Você se livra e foge a tempo. Errou nas cores. O olho é 25%% verde e 40%% vermelho, ou seja, essas cores somam 65%%. O resto é olho
+            azul. 100%% - 65%% = 35%%; portanto, o olho é mais vermelho (40%%) que azul (35%%).</string>
     <!-- 32 -->
         <string name="passaro_32_1">Escolheu a caixa errada! Você ergue a tampa e ouve um zumbido muito alto.
             Uma vespa enorme sai voando em direção ao seu pescoço. Vai picar você!</string>
